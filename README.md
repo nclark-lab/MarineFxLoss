@@ -7,6 +7,14 @@ Meyer WK, Jamison J, Richter R, Woods SE, Partha R, Kronk C, Chikina M, Bonde RK
 
 ```
 
+## Contents
+
+The sub-directories contain scripts for the following sets of analyses:
+1) PseudogeneIdentification: scripts to parse 100-way alignment files and generate tables with pseudogene/functional/not assigned categorization for each species and each gene, and to estimate appropriate missingness filters
+2) BayesTraits: script to run BayesTraits for association between gene functional loss and terrestrial-marine transition, with associated control files
+3) Simulations: scripts to generate matched simulated genes for real genes based on gene trees and estimated functional loss rates, and to analyze the resulting simulated genes to estimate empirical p-values and FDR
+4) FunctionalEnrichment: scripts to perform hypergeometric test of functional enrichment for the top N genes from a ranked gene list against functional databases 
+
 ## Authors
 
 * **Maria Chikina** - [mchikina](https://github.com/mchikina)
