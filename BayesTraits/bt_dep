@@ -1,0 +1,15 @@
+3
+1
+Res q12 q13 q24 q34 0
+
+# T->M independent of gene state
+Res q31 q42
+
+# M->T independent of gene state
+#Res q13 q24
+
+# Gene gain 0->1 independent of M/T state
+#Res q12 q34
+
+MLT 10
+run
