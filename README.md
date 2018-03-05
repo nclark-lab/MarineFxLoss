@@ -1,7 +1,7 @@
 # MarineFxLoss
-Scripts associated with a genome-wide screen for convergent loss of gene function in marine mammals
+This repo contains scripts associated with a genome-wide screen for convergent loss of gene function in marine mammals.
 
-These scripts and associated data files were used to perform analyses reported in the following manuscript:
+These scripts and associated data files (downloadable [here](https://pitt.box.com/s/mb9z57sxu3o2cgeru5s7u0bek2nbw1lr) were used to perform analyses reported in the following manuscript:
 ```
 Meyer WK, Jamison J, Richter R, Woods SE, Partha R, Kronk C, Chikina M, Bonde RK, Crocker DE, Gaspard J, Lanyon JM, Marsillach J, Furlong CE, and Clark NL. Ancient convergent losses of Paraoxonase 1 yield potential risks for modern marine mammals. In revision, Science.
 
