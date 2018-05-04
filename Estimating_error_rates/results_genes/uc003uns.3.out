@@ -1,0 +1,384 @@
+____________________________________________________________________________________________________
+uc003uns.3	PON1	lepWed1	Stops1	Exon5	PositionsAA[26]	PositionsNT[78]	DNTVYLLVVNHPNFKSTVELFKFEEEZKSLLHLKTIRHKLLPN	ATAATACCGTGTACCTGCTGGTGGTGAACCATCCAAATTTTAAGTCCACAGTTGAGTTGTTTAAATTTGAAGAAGAATAAAAATCACTTTTGCATCTGAAAACCATCAGACACAAACTTCTGCCTAA
+
+Query= uc003uns.3_lepWed1_PositionsAA[26]
+
+Length=127
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_006383278.1 Leptonychotes weddellii isolate WS11-02 unplaced...  235     4e-60
+
+
+> NW_006383278.1 Leptonychotes weddellii isolate WS11-02 unplaced 
+genomic scaffold, LepWed1.0 scaffold00238, whole genome shotgun 
+sequence
+Length=1788797
+
+ Score = 235 bits (127),  Expect = 4e-60
+ Identities = 127/127 (100%), Gaps = 0/127 (0%)
+ Strand=Plus/Plus
+
+Query  1       ATAATACCGTGTACCTGCTGGTGGTGAACCATCCAAATTTTAAGTCCACAGTTGAGTTGT  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  851437  ATAATACCGTGTACCTGCTGGTGGTGAACCATCCAAATTTTAAGTCCACAGTTGAGTTGT  851496
+
+Query  61      TTAAATTTGAAGAAGAATAAAAATCACTTTTGCATCTGAAAACCATCAGACACAAACTTC  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  851497  TTAAATTTGAAGAAGAATAAAAATCACTTTTGCATCTGAAAACCATCAGACACAAACTTC  851556
+
+Query  121     TGCCTAA  127
+               |||||||
+Sbjct  851557  TGCCTAA  851563
+
+
+NW_006383278.1	ATAATACCGTGTACCTGCTGGTGGTGAACCATCCAAATTTTAAGTCCACAGTTGAGTTGTTTAAATTTGAAGAAGAATAAAAATCACTTTTGCATCTGAAAACCATCAGACACAAACTTCTGCCTAA
+
+____________________________________________________________________________________________________
+uc003uns.3	PON1	orcOrc1	Stops1	Exon9	PositionsAA[17]	PositionsNT[51]	VLQIQKIL--EPKVTVVZAENGTVLRGSTVASVYKGKLLIGTVFHTALYCELZ	GTGCTCCAAATCCAGAAGATTTTAG---AAGAACCCAAAGTTACAGTGGTTTAGGCAGAAAATGGTACAGTGTTACGAGGAAGTACGGTTGCCTCTGTATACAAAGGGAAACTGCTGATTGGTACTGTGTTCCACACAGCTCTTTATTGTGAGCTCTAA
+
+Query= uc003uns.3_orcOrc1_PositionsAA[17]
+
+Length=156
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_004438428v1                                                      289     3e-76
+
+
+> NW_004438428v1
+Length=20232028
+
+ Score = 289 bits (156),  Expect = 3e-76
+ Identities = 156/156 (100%), Gaps = 0/156 (0%)
+ Strand=Plus/Plus
+
+Query  1        GTGCTCCAAATCCAGAAGATTTTAGAAGAACCCAAAGTTACAGTGGTTTAGGCAGAAAAT  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7816076  GTGCTCCAAATCCAGAAGATTTTAGAAGAACCCAAAGTTACAGTGGTTTAGGCAGAAAAT  7816135
+
+Query  61       GGTACAGTGTTACGAGGAAGTACGGTTGCCTCTGTATACAAAGGGAAACTGCTGATTGGT  120
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7816136  GGTACAGTGTTACGAGGAAGTACGGTTGCCTCTGTATACAAAGGGAAACTGCTGATTGGT  7816195
+
+Query  121      ACTGTGTTCCACACAGCTCTTTATTGTGAGCTCTAA  156
+                ||||||||||||||||||||||||||||||||||||
+Sbjct  7816196  ACTGTGTTCCACACAGCTCTTTATTGTGAGCTCTAA  7816231
+
+
+NW_004438428v1	GTGCTCCAAATCCAGAAGATTTTAGAAGAACCCAAAGTTACAGTGGTTTAGGCAGAAAATGGTACAGTGTTACGAGGAAGTACGGTTGCCTCTGTATACAAAGGGAAACTGCTGATTGGTACTGTGTTCCACACAGCTCTTTATTGTGAGCTCTAA
+
+____________________________________________________________________________________________________
+uc003uns.3	PON1	orcOrc1	frameshift	1	172	174	TTTGAATGGC-TTGTCGGTGTGGGACCTGAACACTTCTGTGCCATCGGTGATCACTATTTCGTTGACCCCTACCTGAGATCCTGGGAGTTGTATTTGGGTCTAGCGTGCTCATTTGTTGTTTACTACAGTCCAAATGAAGTTCGAGTGGTGGCCAGCGGACTTAATTTTGCTG-TGGAATCAACATCTCACCTGATGGCAA
+
+Query= uc003uns.3_orcOrc1_172
+
+Length=199
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_004438428v1                                                      368     4e-100
+
+
+> NW_004438428v1
+Length=20232028
+
+ Score = 368 bits (199),  Expect = 4e-100
+ Identities = 199/199 (100%), Gaps = 0/199 (0%)
+ Strand=Plus/Plus
+
+Query  1        TTTGAATGGCTTGTCGGTGTGGGACCTGAACACTTCTGTGCCATCGGTGATCACTATTTC  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7807915  TTTGAATGGCTTGTCGGTGTGGGACCTGAACACTTCTGTGCCATCGGTGATCACTATTTC  7807974
+
+Query  61       GTTGACCCCTACCTGAGATCCTGGGAGTTGTATTTGGGTCTAGCGTGCTCATTTGTTGTT  120
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7807975  GTTGACCCCTACCTGAGATCCTGGGAGTTGTATTTGGGTCTAGCGTGCTCATTTGTTGTT  7808034
+
+Query  121      TACTACAGTCCAAATGAAGTTCGAGTGGTGGCCAGCGGACTTAATTTTGCTGTGGAATCA  180
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7808035  TACTACAGTCCAAATGAAGTTCGAGTGGTGGCCAGCGGACTTAATTTTGCTGTGGAATCA  7808094
+
+Query  181      ACATCTCACCTGATGGCAA  199
+                |||||||||||||||||||
+Sbjct  7808095  ACATCTCACCTGATGGCAA  7808113
+
+
+NW_004438428v1	TTTGAATGGCTTGTCGGTGTGGGACCTGAACACTTCTGTGCCATCGGTGATCACTATTTCGTTGACCCCTACCTGAGATCCTGGGAGTTGTATTTGGGTCTAGCGTGCTCATTTGTTGTTTACTACAGTCCAAATGAAGTTCGAGTGGTGGCCAGCGGACTTAATTTTGCTGTGGAATCAACATCTCACCTGATGGCAA
+
+____________________________________________________________________________________________________
+uc003uns.3	PON1	orcOrc1	frameshift	1	23	25	AACAAGAAAAAATGCTTCCCAAGA-GTAAAATTGGTAGAACTTCCTAACTGTAAATTAGGGAAAGGAATAG
+
+Query= uc003uns.3_orcOrc1_23
+
+Length=70
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_004438428v1                                                      130     6e-29
+
+
+> NW_004438428v1
+Length=20232028
+
+ Score = 130 bits (70),  Expect = 6e-29
+ Identities = 70/70 (100%), Gaps = 0/70 (0%)
+ Strand=Plus/Plus
+
+Query  1        AACAAGAAAAAATGCTTCCCAAGAGTAAAATTGGTAGAACTTCCTAACTGTAAATTAGGG  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7797363  AACAAGAAAAAATGCTTCCCAAGAGTAAAATTGGTAGAACTTCCTAACTGTAAATTAGGG  7797422
+
+Query  61       AAAGGAATAG  70
+                ||||||||||
+Sbjct  7797423  AAAGGAATAG  7797432
+
+
+NW_004438428v1	AACAAGAAAAAATGCTTCCCAAGAGTAAAATTGGTAGAACTTCCTAACTGTAAATTAGGGAAAGGAATAG
+
+____________________________________________________________________________________________________
+uc003uns.3	PON1	orcOrc1	frameshift	1	9	11	TTTGAATGGC-TTGTCGGTGTGGGACCTGAACACTTCTGTGCCATCGGTGATCACTATTTCGTTGACCCCTACCTGAGATCCTGGGAGTTGTATTTGGGTCTAGCGTGCTCATTTGTTGTTTACTACAGTCCAAATGAAGTTCGAGTGGTGGCCAGCGGACTTAATTTTGCTG-TGGAATCAACATCTCACCTGATGGCAA
+
+Query= uc003uns.3_orcOrc1_9
+
+Length=199
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_004438428v1                                                      368     4e-100
+
+
+> NW_004438428v1
+Length=20232028
+
+ Score = 368 bits (199),  Expect = 4e-100
+ Identities = 199/199 (100%), Gaps = 0/199 (0%)
+ Strand=Plus/Plus
+
+Query  1        TTTGAATGGCTTGTCGGTGTGGGACCTGAACACTTCTGTGCCATCGGTGATCACTATTTC  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7807915  TTTGAATGGCTTGTCGGTGTGGGACCTGAACACTTCTGTGCCATCGGTGATCACTATTTC  7807974
+
+Query  61       GTTGACCCCTACCTGAGATCCTGGGAGTTGTATTTGGGTCTAGCGTGCTCATTTGTTGTT  120
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7807975  GTTGACCCCTACCTGAGATCCTGGGAGTTGTATTTGGGTCTAGCGTGCTCATTTGTTGTT  7808034
+
+Query  121      TACTACAGTCCAAATGAAGTTCGAGTGGTGGCCAGCGGACTTAATTTTGCTGTGGAATCA  180
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7808035  TACTACAGTCCAAATGAAGTTCGAGTGGTGGCCAGCGGACTTAATTTTGCTGTGGAATCA  7808094
+
+Query  181      ACATCTCACCTGATGGCAA  199
+                |||||||||||||||||||
+Sbjct  7808095  ACATCTCACCTGATGGCAA  7808113
+
+
+NW_004438428v1	TTTGAATGGCTTGTCGGTGTGGGACCTGAACACTTCTGTGCCATCGGTGATCACTATTTCGTTGACCCCTACCTGAGATCCTGGGAGTTGTATTTGGGTCTAGCGTGCTCATTTGTTGTTTACTACAGTCCAAATGAAGTTCGAGTGGTGGCCAGCGGACTTAATTTTGCTGTGGAATCAACATCTCACCTGATGGCAA
+
+____________________________________________________________________________________________________
+uc003uns.3	PON1	triMan1	Stops1	Exon4	PositionsAA[55]	PositionsNT[165]	GLKYPGLKSFEPNEPGKILLMDLNEEDPVVLELKITGDNFNLASFNPHGISTFTDZ	GGATTAAAATATCCTGGATTAAAGAGCTTTGAACCCAACGAGCCTGGAAAAATCCTTCTGATGGACCTGAATGAGGAAGATCCAGTAGTGTTGGAATTGAAGATCACTGGCGATAACTTCAATTTGGCTTCATTTAACCCTCATGGGATCAGCACATTCACAGATTAAG
+
+Query= uc003uns.3_triMan1_PositionsAA[55]
+
+Length=169
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH594762                                                            313     2e-83
+
+
+> JH594762
+Length=6689855
+
+ Score = 313 bits (169),  Expect = 2e-83
+ Identities = 169/169 (100%), Gaps = 0/169 (0%)
+ Strand=Plus/Plus
+
+Query  1        GGATTAAAATATCCTGGATTAAAGAGCTTTGAACCCAACGAGCCTGGAAAAATCCTTCTG  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5101422  GGATTAAAATATCCTGGATTAAAGAGCTTTGAACCCAACGAGCCTGGAAAAATCCTTCTG  5101481
+
+Query  61       ATGGACCTGAATGAGGAAGATCCAGTAGTGTTGGAATTGAAGATCACTGGCGATAACTTC  120
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5101482  ATGGACCTGAATGAGGAAGATCCAGTAGTGTTGGAATTGAAGATCACTGGCGATAACTTC  5101541
+
+Query  121      AATTTGGCTTCATTTAACCCTCATGGGATCAGCACATTCACAGATTAAG  169
+                |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5101542  AATTTGGCTTCATTTAACCCTCATGGGATCAGCACATTCACAGATTAAG  5101590
+
+
+JH594762	GGATTAAAATATCCTGGATTAAAGAGCTTTGAACCCAACGAGCCTGGAAAAATCCTTCTGATGGACCTGAATGAGGAAGATCCAGTAGTGTTGGAATTGAAGATCACTGGCGATAACTTCAATTTGGCTTCATTTAACCCTCATGGGATCAGCACATTCACAGATTAAG
+
+____________________________________________________________________________________________________
+uc003uns.3	PON1	triMan1	Stops1	Exon9	PositionsAA[12]	PositionsNT[36]	VIQIQNILTEEPZVTVVYAENGTVLQGSTVASVYRGKLLIGTLFHKALYCELZ	GTGATCCAGATCCAGAACATTTTAACAGAAGAACCCTAAGTAACAGTGGTTTATGCAGAAAATGGCACAGTATTGCAAGGAAGTACAGTTGCCTCTGTGTACAGAGGGAAACTGCTGATTGGCACTCTGTTCCACAAAGCTCTTTACTGTGAGCTGTAA
+
+Query= uc003uns.3_triMan1_PositionsAA[12]
+
+Length=159
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH594762                                                            294     8e-78
+
+
+> JH594762
+Length=6689855
+
+ Score = 294 bits (159),  Expect = 8e-78
+ Identities = 159/159 (100%), Gaps = 0/159 (0%)
+ Strand=Plus/Plus
+
+Query  1        GTGATCCAGATCCAGAACATTTTAACAGAAGAACCCTAAGTAACAGTGGTTTATGCAGAA  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5125671  GTGATCCAGATCCAGAACATTTTAACAGAAGAACCCTAAGTAACAGTGGTTTATGCAGAA  5125730
+
+Query  61       AATGGCACAGTATTGCAAGGAAGTACAGTTGCCTCTGTGTACAGAGGGAAACTGCTGATT  120
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5125731  AATGGCACAGTATTGCAAGGAAGTACAGTTGCCTCTGTGTACAGAGGGAAACTGCTGATT  5125790
+
+Query  121      GGCACTCTGTTCCACAAAGCTCTTTACTGTGAGCTGTAA  159
+                |||||||||||||||||||||||||||||||||||||||
+Sbjct  5125791  GGCACTCTGTTCCACAAAGCTCTTTACTGTGAGCTGTAA  5125829
+
+
+JH594762	GTGATCCAGATCCAGAACATTTTAACAGAAGAACCCTAAGTAACAGTGGTTTATGCAGAAAATGGCACAGTATTGCAAGGAAGTACAGTTGCCTCTGTGTACAGAGGGAAACTGCTGATTGGCACTCTGTTCCACAAAGCTCTTTACTGTGAGCTGTAA
+
+____________________________________________________________________________________________________
+uc003uns.3	PON1	triMan1	frameshift	1	100	102	TTTGAATGATCTTGTCGCTATGGGACCACAGCAGTGTTATGCCACAGTTGATCACTATTTCGTTGACCCCTACTTAAAATCCTGGGAGGTGTATCTGGGTT-AGCATGGTCATATGTTGTTTACTACAGTCCAAATGATGTTCGTGTTGTGGCAGACAGATATGAGTTTGCTAATGGAATCCACATGTCACCCGATGGCAA
+
+Query= uc003uns.3_triMan1_100
+
+Length=200
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH594762                                                            370     2e-100
+
+
+> JH594762
+Length=6689855
+
+ Score = 370 bits (200),  Expect = 2e-100
+ Identities = 200/200 (100%), Gaps = 0/200 (0%)
+ Strand=Plus/Plus
+
+Query  1        TTTGAATGATCTTGTCGCTATGGGACCACAGCAGTGTTATGCCACAGTTGATCACTATTT  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5107923  TTTGAATGATCTTGTCGCTATGGGACCACAGCAGTGTTATGCCACAGTTGATCACTATTT  5107982
+
+Query  61       CGTTGACCCCTACTTAAAATCCTGGGAGGTGTATCTGGGTTAGCATGGTCATATGTTGTT  120
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5107983  CGTTGACCCCTACTTAAAATCCTGGGAGGTGTATCTGGGTTAGCATGGTCATATGTTGTT  5108042
+
+Query  121      TACTACAGTCCAAATGATGTTCGTGTTGTGGCAGACAGATATGAGTTTGCTAATGGAATC  180
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5108043  TACTACAGTCCAAATGATGTTCGTGTTGTGGCAGACAGATATGAGTTTGCTAATGGAATC  5108102
+
+Query  181      CACATGTCACCCGATGGCAA  200
+                ||||||||||||||||||||
+Sbjct  5108103  CACATGTCACCCGATGGCAA  5108122
+
+
+JH594762	TTTGAATGATCTTGTCGCTATGGGACCACAGCAGTGTTATGCCACAGTTGATCACTATTTCGTTGACCCCTACTTAAAATCCTGGGAGGTGTATCTGGGTTAGCATGGTCATATGTTGTTTACTACAGTCCAAATGATGTTCGTGTTGTGGCAGACAGATATGAGTTTGCTAATGGAATCCACATGTCACCCGATGGCAA
+
+____________________________________________________________________________________________________
+uc003uns.3	PON1	turTru2	Stops1	Exon9	PositionsAA[17]	PositionsNT[51]	VLQIQKIL--EPKVTVVZAENGTVLRGSTVASVYKGKLLIGTVFHTALYCELZ	GTGCTCCAAATCCAGAAGATTTTAG---AAGAACCCAAAGTTACAGTGGTTTAGGCAGAAAATGGTACAGTGTTACGAGGAAGTACGGTTGCCTCTGTATACAAAGGGAAACTGCTGATTGGTACTGTGTTCCACACGGCTCTTTATTGTGAGCTCTAA
+
+Query= uc003uns.3_turTru2_PositionsAA[17]
+
+Length=156
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH486747                                                            289     3e-76
+
+
+> JH486747
+Length=79157
+
+ Score = 289 bits (156),  Expect = 3e-76
+ Identities = 156/156 (100%), Gaps = 0/156 (0%)
+ Strand=Plus/Plus
+
+Query  1      GTGCTCCAAATCCAGAAGATTTTAGAAGAACCCAAAGTTACAGTGGTTTAGGCAGAAAAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  62074  GTGCTCCAAATCCAGAAGATTTTAGAAGAACCCAAAGTTACAGTGGTTTAGGCAGAAAAT  62133
+
+Query  61     GGTACAGTGTTACGAGGAAGTACGGTTGCCTCTGTATACAAAGGGAAACTGCTGATTGGT  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  62134  GGTACAGTGTTACGAGGAAGTACGGTTGCCTCTGTATACAAAGGGAAACTGCTGATTGGT  62193
+
+Query  121    ACTGTGTTCCACACGGCTCTTTATTGTGAGCTCTAA  156
+              ||||||||||||||||||||||||||||||||||||
+Sbjct  62194  ACTGTGTTCCACACGGCTCTTTATTGTGAGCTCTAA  62229
+
+
+JH486747	GTGCTCCAAATCCAGAAGATTTTAGAAGAACCCAAAGTTACAGTGGTTTAGGCAGAAAATGGTACAGTGTTACGAGGAAGTACGGTTGCCTCTGTATACAAAGGGAAACTGCTGATTGGTACTGTGTTCCACACGGCTCTTTATTGTGAGCTCTAA
+
+____________________________________________________________________________________________________
+uc003uns.3	PON1	turTru2	frameshift	1	172	174	TTTGAATGGCATTGTCGGTGTGGGACCTGAACACTTCTGTGCCATCGGTGATCACTATCTTGTTGACCCCTACCTGAGATCCTGGGAGTTGTATTTGGGTCTAGCGTGCTCATTTGTTGTTTACTACGGTCCAAATGAAGTTCGAGTGGTGGCCAGCGGACTTGATTTTGCTG-TGGAATCAACATCTCACCTGATGGCAA
+
+Query= uc003uns.3_turTru2_172
+
+Length=200
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH486747                                                            370     1e-100
+
+
+> JH486747
+Length=79157
+
+ Score = 370 bits (200),  Expect = 1e-100
+ Identities = 200/200 (100%), Gaps = 0/200 (0%)
+ Strand=Plus/Plus
+
+Query  1      TTTGAATGGCATTGTCGGTGTGGGACCTGAACACTTCTGTGCCATCGGTGATCACTATCT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  52693  TTTGAATGGCATTGTCGGTGTGGGACCTGAACACTTCTGTGCCATCGGTGATCACTATCT  52752
+
+Query  61     TGTTGACCCCTACCTGAGATCCTGGGAGTTGTATTTGGGTCTAGCGTGCTCATTTGTTGT  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  52753  TGTTGACCCCTACCTGAGATCCTGGGAGTTGTATTTGGGTCTAGCGTGCTCATTTGTTGT  52812
+
+Query  121    TTACTACGGTCCAAATGAAGTTCGAGTGGTGGCCAGCGGACTTGATTTTGCTGTGGAATC  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  52813  TTACTACGGTCCAAATGAAGTTCGAGTGGTGGCCAGCGGACTTGATTTTGCTGTGGAATC  52872
+
+Query  181    AACATCTCACCTGATGGCAA  200
+              ||||||||||||||||||||
+Sbjct  52873  AACATCTCACCTGATGGCAA  52892
+
+
+JH486747	TTTGAATGGCATTGTCGGTGTGGGACCTGAACACTTCTGTGCCATCGGTGATCACTATCTTGTTGACCCCTACCTGAGATCCTGGGAGTTGTATTTGGGTCTAGCGTGCTCATTTGTTGTTTACTACGGTCCAAATGAAGTTCGAGTGGTGGCCAGCGGACTTGATTTTGCTGTGGAATCAACATCTCACCTGATGGCAA
+
+____________________________________________________________________________________________________
+uc003uns.3	PON1	turTru2	frameshift	1	23	25	AACAAGAAAAAATGCTTCCCAAGA-GTAAAATTGGTAGAACTTCCTAACTGTAAATTAGGGAAAGGAATAG
+
+Query= uc003uns.3_turTru2_23
+
+Length=70
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH486747                                                            130     6e-29
+
+
+> JH486747
+Length=79157
+
+ Score = 130 bits (70),  Expect = 6e-29
+ Identities = 70/70 (100%), Gaps = 0/70 (0%)
+ Strand=Plus/Plus
+
+Query  1      AACAAGAAAAAATGCTTCCCAAGAGTAAAATTGGTAGAACTTCCTAACTGTAAATTAGGG  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  41827  AACAAGAAAAAATGCTTCCCAAGAGTAAAATTGGTAGAACTTCCTAACTGTAAATTAGGG  41886
+
+Query  61     AAAGGAATAG  70
+              ||||||||||
+Sbjct  41887  AAAGGAATAG  41896
+
+
+JH486747	AACAAGAAAAAATGCTTCCCAAGAGTAAAATTGGTAGAACTTCCTAACTGTAAATTAGGGAAAGGAATAG
+

@@ -1,0 +1,102 @@
+____________________________________________________________________________________________________
+uc001xle.3	SLC39A9	odoRosDiv1	frameshift	1	64	66	GCACCAGCTGCTTTTGGGCTGGTTTCTTTCCTAATGCATGCTGGCCTAGAACGGAATCGAATCAG-AAACACTTACTGGTCTTTGCACTGGCAGCCCCAGTCATGTCCATGGTGACATACTTAGGACTAAGTAAG
+
+Query= uc001xle.3_odoRosDiv1_64
+
+Length=134
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  KB228949                                                            243     2e-62
+
+
+> KB228949
+Length=5248766
+
+ Score = 243 bits (131),  Expect = 2e-62
+ Identities = 134/135 (99%), Gaps = 1/135 (1%)
+ Strand=Plus/Plus
+
+Query  1        GCACCAGCTGCTTTTGGGCTGGTTTCTTTCCTAATGCATGCTGGCCTAGAACGGAATCGA  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4379036  GCACCAGCTGCTTTTGGGCTGGTTTCTTTCCTAATGCATGCTGGCCTAGAACGGAATCGA  4379095
+
+Query  61       ATCAG-AAACACTTACTGGTCTTTGCACTGGCAGCCCCAGTCATGTCCATGGTGACATAC  119
+                ||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4379096  ATCAGAAAACACTTACTGGTCTTTGCACTGGCAGCCCCAGTCATGTCCATGGTGACATAC  4379155
+
+Query  120      TTAGGACTAAGTAAG  134
+                |||||||||||||||
+Sbjct  4379156  TTAGGACTAAGTAAG  4379170
+
+
+KB228949	GCACCAGCTGCTTTTGGGCTGGTTTCTTTCCTAATGCATGCTGGCCTAGAACGGAATCGAATCAGAAAACACTTACTGGTCTTTGCACTGGCAGCCCCAGTCATGTCCATGGTGACATACTTAGGACTAAGTAAG
+
+____________________________________________________________________________________________________
+uc001xle.3	SLC39A9	triMan1	frameshift	1	95	97	GCACCAGCTGCATTTGGGCTGGTTTCCTTCTTGATGCATGCTGGCCTAGAGCGGAACCGAATCAGAAAACATTTGCTGGTCTTTGCACTGGCAGCA-CAGTTATGTCTATGGTGACATACTTAGGACTAAGTAAG
+
+Query= uc001xle.3_triMan1_95
+
+Length=134
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH594616                                                            243     2e-62
+
+
+> JH594616
+Length=32951746
+
+ Score = 243 bits (131),  Expect = 2e-62
+ Identities = 134/135 (99%), Gaps = 1/135 (1%)
+ Strand=Plus/Plus
+
+Query  1         GCACCAGCTGCATTTGGGCTGGTTTCCTTCTTGATGCATGCTGGCCTAGAGCGGAACCGA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  21842242  GCACCAGCTGCATTTGGGCTGGTTTCCTTCTTGATGCATGCTGGCCTAGAGCGGAACCGA  21842301
+
+Query  61        ATCAGAAAACATTTGCTGGTCTTTGCACTGGCAGCA-CAGTTATGTCTATGGTGACATAC  119
+                 |||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||
+Sbjct  21842302  ATCAGAAAACATTTGCTGGTCTTTGCACTGGCAGCACCAGTTATGTCTATGGTGACATAC  21842361
+
+Query  120       TTAGGACTAAGTAAG  134
+                 |||||||||||||||
+Sbjct  21842362  TTAGGACTAAGTAAG  21842376
+
+
+JH594616	GCACCAGCTGCATTTGGGCTGGTTTCCTTCTTGATGCATGCTGGCCTAGAGCGGAACCGAATCAGAAAACATTTGCTGGTCTTTGCACTGGCAGCACCAGTTATGTCTATGGTGACATACTTAGGACTAAGTAAG
+
+____________________________________________________________________________________________________
+uc001xle.3	SLC39A9	turTru2	frameshift	1	89	91	GCACCAGCTGCGTTTGGGCTGGTTTCCTTCTTAATGCATGCAGGCCTCGAGCGGAATCGAATCAGAAAGCACTTACTGGTCTTTGCACTG-CAGCACCAGTTATGTCCATGGTGACATACTTAGGACTAAGTAAG
+
+Query= uc001xle.3_turTru2_89
+
+Length=134
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH473058                                                            243     2e-62
+
+
+> JH473058
+Length=248550
+
+ Score = 243 bits (131),  Expect = 2e-62
+ Identities = 134/135 (99%), Gaps = 1/135 (1%)
+ Strand=Plus/Minus
+
+Query  1      GCACCAGCTGCGTTTGGGCTGGTTTCCTTCTTAATGCATGCAGGCCTCGAGCGGAATCGA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  72662  GCACCAGCTGCGTTTGGGCTGGTTTCCTTCTTAATGCATGCAGGCCTCGAGCGGAATCGA  72603
+
+Query  61     ATCAGAAAGCACTTACTGGTCTTTGCACTG-CAGCACCAGTTATGTCCATGGTGACATAC  119
+              |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  72602  ATCAGAAAGCACTTACTGGTCTTTGCACTGGCAGCACCAGTTATGTCCATGGTGACATAC  72543
+
+Query  120    TTAGGACTAAGTAAG  134
+              |||||||||||||||
+Sbjct  72542  TTAGGACTAAGTAAG  72528
+
+
+JH473058	GCACCAGCTGCGTTTGGGCTGGTTTCCTTCTTAATGCATGCAGGCCTCGAGCGGAATCGAATCAGAAAGCACTTACTGGTCTTTGCACTGGCAGCACCAGTTATGTCCATGGTGACATACTTAGGACTAAGTAAG
+

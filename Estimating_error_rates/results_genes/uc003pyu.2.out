@@ -1,0 +1,90 @@
+____________________________________________________________________________________________________
+uc003pyu.2	HSF2	pteVam1	frameshift	1	29	31	TCTGAG-ACAAAGGATTAGAATCTACCCAG-ACAATGTAGTTCAGCCAGTTTCAGAAGAGGGAAG-AAATCT-AATCCAAAACAG
+
+Query= uc003pyu.2_pteVam1_29
+
+Length=81
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  scaffold_1966                                                       150     5e-35
+
+
+> scaffold_1966
+Length=207957
+
+ Score = 150 bits (81),  Expect = 5e-35
+ Identities = 81/81 (100%), Gaps = 0/81 (0%)
+ Strand=Plus/Plus
+
+Query  1       TCTGAGACAAAGGATTAGAATCTACCCAGACAATGTAGTTCAGCCAGTTTCAGAAGAGGG  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  136618  TCTGAGACAAAGGATTAGAATCTACCCAGACAATGTAGTTCAGCCAGTTTCAGAAGAGGG  136677
+
+Query  61      AAGAAATCTAATCCAAAACAG  81
+               |||||||||||||||||||||
+Sbjct  136678  AAGAAATCTAATCCAAAACAG  136698
+
+
+scaffold_1966	TCTGAGACAAAGGATTAGAATCTACCCAGACAATGTAGTTCAGCCAGTTTCAGAAGAGGGAAGAAATCTAATCCAAAACAG
+
+____________________________________________________________________________________________________
+uc003pyu.2	HSF2	pteVam1	frameshift	1	5	7	TCTGAG-ACAAAGGATTAGAATCTACCCAG-ACAATGTAGTTCAGCCAGTTTCAGAAGAGGGAAG-AAATCT-AATCCAAAACAG
+
+Query= uc003pyu.2_pteVam1_5
+
+Length=81
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  scaffold_1966                                                       150     5e-35
+
+
+> scaffold_1966
+Length=207957
+
+ Score = 150 bits (81),  Expect = 5e-35
+ Identities = 81/81 (100%), Gaps = 0/81 (0%)
+ Strand=Plus/Plus
+
+Query  1       TCTGAGACAAAGGATTAGAATCTACCCAGACAATGTAGTTCAGCCAGTTTCAGAAGAGGG  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  136618  TCTGAGACAAAGGATTAGAATCTACCCAGACAATGTAGTTCAGCCAGTTTCAGAAGAGGG  136677
+
+Query  61      AAGAAATCTAATCCAAAACAG  81
+               |||||||||||||||||||||
+Sbjct  136678  AAGAAATCTAATCCAAAACAG  136698
+
+
+scaffold_1966	TCTGAGACAAAGGATTAGAATCTACCCAGACAATGTAGTTCAGCCAGTTTCAGAAGAGGGAAGAAATCTAATCCAAAACAG
+
+____________________________________________________________________________________________________
+uc003pyu.2	HSF2	rheMac3	frameshift	1	25	27	TCTGAGAATAAAGGATTAGAAACTAC-AAGAACAATGTAGTTCAGCCAGTTTCAGAAGAGGGAAGAAAATCTAAATCCAAACCAG
+
+Query= uc003pyu.2_rheMac3_25
+
+Length=84
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  chr4                                                                156     2e-36
+
+
+> chr4
+Length=169853907
+
+ Score = 156 bits (84),  Expect = 2e-36
+ Identities = 84/84 (100%), Gaps = 0/84 (0%)
+ Strand=Plus/Minus
+
+Query  1          TCTGAGAATAAAGGATTAGAAACTACAAGAACAATGTAGTTCAGCCAGTTTCAGAAGAGG  60
+                  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  143745085  TCTGAGAATAAAGGATTAGAAACTACAAGAACAATGTAGTTCAGCCAGTTTCAGAAGAGG  143745026
+
+Query  61         GAAGAAAATCTAAATCCAAACCAG  84
+                  ||||||||||||||||||||||||
+Sbjct  143745025  GAAGAAAATCTAAATCCAAACCAG  143745002
+
+
+chr4	TCTGAGAATAAAGGATTAGAAACTACAAGAACAATGTAGTTCAGCCAGTTTCAGAAGAGGGAAGAAAATCTAAATCCAAACCAG
+

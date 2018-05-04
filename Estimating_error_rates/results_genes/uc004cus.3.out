@@ -1,0 +1,291 @@
+____________________________________________________________________________________________________
+uc004cus.3	AMELX	calJac3	frameshift	2	3	6	AACT--CATTCTCAGGCTATCAATATTGACAGGACTGGATTA
+
+Query= uc004cus.3_calJac3_3
+
+Length=40
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  chrX                                                                75.0    1e-12
+
+
+> chrX
+Length=142054208
+
+ Score = 75.0 bits (40),  Expect = 1e-12
+ Identities = 40/40 (100%), Gaps = 0/40 (0%)
+ Strand=Plus/Plus
+
+Query  1        AACTCATTCTCAGGCTATCAATATTGACAGGACTGGATTA  40
+                ||||||||||||||||||||||||||||||||||||||||
+Sbjct  9223414  AACTCATTCTCAGGCTATCAATATTGACAGGACTGGATTA  9223453
+
+
+chrX	AACTCATTCTCAGGCTATCAATATTGACAGGACTGGATTA
+
+____________________________________________________________________________________________________
+uc004cus.3	AMELX	dasNov3	frameshift	1	29	31	GTGCTTAGCCCTTTGAAGTGGTATCAGAGC-TAAGGCAGCCG
+
+Query= uc004cus.3_dasNov3_29
+
+Length=41
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH568171                                                            71.3    2e-11
+
+
+> JH568171
+Length=3276602
+
+ Score = 71.3 bits (38),  Expect = 2e-11
+ Identities = 41/42 (98%), Gaps = 1/42 (2%)
+ Strand=Plus/Minus
+
+Query  1        GTGCTTAGCCCTTTGAAGTGGTATCAGAGC-TAAGGCAGCCG  41
+                |||||||||||||||||||||||||||||| |||||||||||
+Sbjct  2852256  GTGCTTAGCCCTTTGAAGTGGTATCAGAGCATAAGGCAGCCG  2852215
+
+
+JH568171	GTGCTTAGCCCTTTGAAGTGGTATCAGAGCATAAGGCAGCCG
+
+____________________________________________________________________________________________________
+uc004cus.3	AMELX	eptFus1	Stops1	Exon3	PositionsAA[4]	PositionsNT[12]	NSYFZVINIDRIAF	AACTCATATTTTTAGGTTATCAATATTGACAGGATTGCCTTT
+
+Query= uc004cus.3_eptFus1_PositionsAA[4]
+
+Length=42
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_007370793.1 Eptesicus fuscus isolate BU_THK_EF1 unplaced gen...  78.7    7e-14
+
+
+> NW_007370793.1 Eptesicus fuscus isolate BU_THK_EF1 unplaced genomic 
+scaffold, EptFus1.0 scaffold00143, whole genome shotgun 
+sequence
+Length=3105858
+
+ Score = 78.7 bits (42),  Expect = 7e-14
+ Identities = 42/42 (100%), Gaps = 0/42 (0%)
+ Strand=Plus/Minus
+
+Query  1        AACTCATATTTTTAGGTTATCAATATTGACAGGATTGCCTTT  42
+                ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1940195  AACTCATATTTTTAGGTTATCAATATTGACAGGATTGCCTTT  1940154
+
+
+NW_007370793.1	AACTCATATTTTTAGGTTATCAATATTGACAGGATTGCCTTT
+
+____________________________________________________________________________________________________
+uc004cus.3	AMELX	myoDav1	Stops1	Exon3	PositionsAA[4]	PositionsNT[12]	NSYFZVINIDRTAF	AACTCATATTTTTAGGTTATCAATATTGACAGGACTGCATTT
+
+Query= uc004cus.3_myoDav1_PositionsAA[4]
+
+Length=42
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_006290682.1 Myotis davidii unplaced genomic scaffold, ASM327...  78.7    7e-14
+
+
+> NW_006290682.1 Myotis davidii unplaced genomic scaffold, ASM32734v1 
+scaffold1277, whole genome shotgun sequence
+Length=3493173
+
+ Score = 78.7 bits (42),  Expect = 7e-14
+ Identities = 42/42 (100%), Gaps = 0/42 (0%)
+ Strand=Plus/Minus
+
+Query  1        AACTCATATTTTTAGGTTATCAATATTGACAGGACTGCATTT  42
+                ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1734698  AACTCATATTTTTAGGTTATCAATATTGACAGGACTGCATTT  1734657
+
+
+NW_006290682.1	AACTCATATTTTTAGGTTATCAATATTGACAGGACTGCATTT
+
+____________________________________________________________________________________________________
+uc004cus.3	AMELX	myoLuc2	Stops1	Exon3	PositionsAA[4]	PositionsNT[12]	NSYFZVINVDRTAF	AACTCATATTTTTAGGTTATCAATGTTGACAGGACTGCATTT
+
+Query= uc004cus.3_myoLuc2_PositionsAA[4]
+
+Length=42
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  GL430275                                                            78.7    7e-14
+
+
+> GL430275
+Length=598878
+
+ Score = 78.7 bits (42),  Expect = 7e-14
+ Identities = 42/42 (100%), Gaps = 0/42 (0%)
+ Strand=Plus/Minus
+
+Query  1       AACTCATATTTTTAGGTTATCAATGTTGACAGGACTGCATTT  42
+               ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  345194  AACTCATATTTTTAGGTTATCAATGTTGACAGGACTGCATTT  345153
+
+
+GL430275	AACTCATATTTTTAGGTTATCAATGTTGACAGGACTGCATTT
+
+____________________________________________________________________________________________________
+uc004cus.3	AMELX	oryAfe1	Stops1	Exon3	PositionsAA[13]	PositionsNT[39]	KSHFQAANIDRLAZ	AAGTCACACTTTCAGGCTGCCAATATTGACAGGCTTGCGTGA
+
+Query= uc004cus.3_oryAfe1_PositionsAA[13]
+
+Length=42
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_006921891.1 Orycteropus afer afer isolate SDZICR_OR568_19922...  78.7    1e-13
+
+
+> NW_006921891.1 Orycteropus afer afer isolate SDZICR_OR568_19922 
+unplaced genomic scaffold, OryAfe1.0 scaffold00304, whole 
+genome shotgun sequence
+Length=4168004
+
+ Score = 78.7 bits (42),  Expect = 1e-13
+ Identities = 42/42 (100%), Gaps = 0/42 (0%)
+ Strand=Plus/Minus
+
+Query  1        AAGTCACACTTTCAGGCTGCCAATATTGACAGGCTTGCGTGA  42
+                ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3035180  AAGTCACACTTTCAGGCTGCCAATATTGACAGGCTTGCGTGA  3035139
+
+
+NW_006921891.1	AAGTCACACTTTCAGGCTGCCAATATTGACAGGCTTGCGTGA
+
+____________________________________________________________________________________________________
+uc004cus.3	AMELX	oryAfe1	Stops2	Exon5	PositionsAA[11,31]	PositionsNT[33,93]	YPSYGYEPTSGZLHHQIVPV--QQHPLSHTLZPHHHIPMVPPQQPMVPQQPMMPVPGRHSMTPTQHHQPHLPPPVQQPFQPQPVQP--------QPPVHPIQPLLPQPPLPLMFPMKPLPPLLPDLPLEAWPATDKTKREEV	TACCCTTCCTATGGTTACGAGCCCACGAGTGGATGACTGCATCACCAAATCGTCCCTGTG------CAGCAGCATCCCCTGAGCCACACCCTGTAGCCTCATCACCACATCCCCATGGTGCCTCCTCAGCAGCCCATGGTCCCCCAGCAGCCAATGATGCCAGTTCCCGGCCGACACTCCATGACCCCAACGCAACACCACCAGCCACATCTCCCTCCACCTGTCCAGCAGCCCTTCCAGCCCCAGCCCGTCCAGCCG------------------------CAGCCACCCGTGCACCCCATCCAGCCCCTGCTGCCACAGCCACCTCTGCCTCTGATGTTCCCCATGAAGCCTCTGCCCCCCTTGCTTCCTGATCTGCCTCTGGAAGCTTGGCCAGCAACGGACAAGACCAAGCGGGAAGAAGTG
+
+Query= uc004cus.3_oryAfe1_PositionsAA[11,31]
+
+Length=396
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_006921891.1 Orycteropus afer afer isolate SDZICR_OR568_19922...  732     0.0  
+
+
+> NW_006921891.1 Orycteropus afer afer isolate SDZICR_OR568_19922 
+unplaced genomic scaffold, OryAfe1.0 scaffold00304, whole 
+genome shotgun sequence
+Length=4168004
+
+ Score = 732 bits (396),  Expect = 0.0
+ Identities = 396/396 (100%), Gaps = 0/396 (0%)
+ Strand=Plus/Minus
+
+Query  1        TACCCTTCCTATGGTTACGAGCCCACGAGTGGATGACTGCATCACCAAATCGTCCCTGTG  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3034664  TACCCTTCCTATGGTTACGAGCCCACGAGTGGATGACTGCATCACCAAATCGTCCCTGTG  3034605
+
+Query  61       CAGCAGCATCCCCTGAGCCACACCCTGTAGCCTCATCACCACATCCCCATGGTGCCTCCT  120
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3034604  CAGCAGCATCCCCTGAGCCACACCCTGTAGCCTCATCACCACATCCCCATGGTGCCTCCT  3034545
+
+Query  121      CAGCAGCCCATGGTCCCCCAGCAGCCAATGATGCCAGTTCCCGGCCGACACTCCATGACC  180
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3034544  CAGCAGCCCATGGTCCCCCAGCAGCCAATGATGCCAGTTCCCGGCCGACACTCCATGACC  3034485
+
+Query  181      CCAACGCAACACCACCAGCCACATCTCCCTCCACCTGtccagcagcccttccagccccag  240
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3034484  CCAACGCAACACCACCAGCCACATCTCCCTCCACCTGTCCAGCAGCCCTTCCAGCCCCAG  3034425
+
+Query  241      cccgtccagccgcagccacccgtgcaccccatccagccccTGCTGCCACAGCCACCTCTG  300
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3034424  CCCGTCCAGCCGCAGCCACCCGTGCACCCCATCCAGCCCCTGCTGCCACAGCCACCTCTG  3034365
+
+Query  301      CCTCTGATGTTCCCCATGAAGCCTCTGCCCCCCTTGCTTCCTGATCTGCCTCTGGAAGCT  360
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3034364  CCTCTGATGTTCCCCATGAAGCCTCTGCCCCCCTTGCTTCCTGATCTGCCTCTGGAAGCT  3034305
+
+Query  361      TGGCCAGCAACGGACAAGACCAAGCGGGAAGAAGTG  396
+                ||||||||||||||||||||||||||||||||||||
+Sbjct  3034304  TGGCCAGCAACGGACAAGACCAAGCGGGAAGAAGTG  3034269
+
+
+NW_006921891.1	TACCCTTCCTATGGTTACGAGCCCACGAGTGGATGACTGCATCACCAAATCGTCCCTGTGCAGCAGCATCCCCTGAGCCACACCCTGTAGCCTCATCACCACATCCCCATGGTGCCTCCTCAGCAGCCCATGGTCCCCCAGCAGCCAATGATGCCAGTTCCCGGCCGACACTCCATGACCCCAACGCAACACCACCAGCCACATCTCCCTCCACCTGTCCAGCAGCCCTTCCAGCCCCAGCCCGTCCAGCCGCAGCCACCCGTGCACCCCATCCAGCCCCTGCTGCCACAGCCACCTCTGCCTCTGATGTTCCCCATGAAGCCTCTGCCCCCCTTGCTTCCTGATCTGCCTCTGGAAGCTTGGCCAGCAACGGACAAGACCAAGCGGGAAGAAGTG
+
+____________________________________________________________________________________________________
+uc004cus.3	AMELX	pteVam1	frameshift	1	35	37	CTACCA-CTCATCCTGGGCACCCTGGTTATATCAAC-TCAGCTATGAG
+
+Query= uc004cus.3_pteVam1_35
+
+Length=46
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  scaffold_1591                                                       86.1    5e-16
+
+
+> scaffold_1591
+Length=222171
+
+ Score = 86.1 bits (46),  Expect = 5e-16
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Plus
+
+Query  1       CTACCACTCATCCTGGGCACCCTGGTTATATCAACTCAGCTATGAG  46
+               ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  111414  CTACCACTCATCCTGGGCACCCTGGTTATATCAACTCAGCTATGAG  111459
+
+
+scaffold_1591	CTACCACTCATCCTGGGCACCCTGGTTATATCAACTCAGCTATGAG
+
+____________________________________________________________________________________________________
+uc004cus.3	AMELX	pteVam1	frameshift	1	5	7	CTACCA-CTCATCCTGGGCACCCTGGTTATATCAAC-TCAGCTATGAG
+
+Query= uc004cus.3_pteVam1_5
+
+Length=46
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  scaffold_1591                                                       86.1    5e-16
+
+
+> scaffold_1591
+Length=222171
+
+ Score = 86.1 bits (46),  Expect = 5e-16
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Plus
+
+Query  1       CTACCACTCATCCTGGGCACCCTGGTTATATCAACTCAGCTATGAG  46
+               ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  111414  CTACCACTCATCCTGGGCACCCTGGTTATATCAACTCAGCTATGAG  111459
+
+
+scaffold_1591	CTACCACTCATCCTGGGCACCCTGGTTATATCAACTCAGCTATGAG
+
+____________________________________________________________________________________________________
+uc004cus.3	AMELX	triMan1	frameshift	5	26	32	AAGTCACCATTTCAGGCTACCAATATT-----GACTGCGGGA
+
+Query= uc004cus.3_triMan1_26
+
+Length=37
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH594768                                                            69.4    5e-11
+
+
+> JH594768
+Length=6331913
+
+ Score = 69.4 bits (37),  Expect = 5e-11
+ Identities = 37/37 (100%), Gaps = 0/37 (0%)
+ Strand=Plus/Minus
+
+Query  1        AAGTCACCATTTCAGGCTACCAATATTGACTGCGGGA  37
+                |||||||||||||||||||||||||||||||||||||
+Sbjct  5053326  AAGTCACCATTTCAGGCTACCAATATTGACTGCGGGA  5053290
+
+
+JH594768	AAGTCACCATTTCAGGCTACCAATATTGACTGCGGGA
+

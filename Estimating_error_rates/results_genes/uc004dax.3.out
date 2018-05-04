@@ -1,0 +1,92 @@
+____________________________________________________________________________________________________
+uc004dax.3	APOO	lepWed1	frameshift	1	19	21	GCAGCTATGAATATCTCCAA-ATGCACCTCCTGGTTTTTTTCCAAGACTTGGTGTTATTGGTTTTGCTGGCATTGTTGGACTTCTTTTGGCTAGAG
+
+Query= uc004dax.3_lepWed1_19
+
+Length=95
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_006383073.1 Leptonychotes weddellii isolate WS11-02 unplaced...  165     3e-39
+
+
+> NW_006383073.1 Leptonychotes weddellii isolate WS11-02 unplaced 
+genomic scaffold, LepWed1.0 scaffold00033, whole genome shotgun 
+sequence
+Length=4095547
+
+ Score = 165 bits (89),  Expect = 3e-39
+ Identities = 94/96 (98%), Gaps = 1/96 (1%)
+ Strand=Plus/Minus
+
+Query  1        GCAGCTATGAATATCTCCAAA-TGCACCTCCTGGtttttttCCAAGACTTGGTGTTATTG  59
+                |||||||||| |||||||||| ||||||||||||||||||||||||||||||||||||||
+Sbjct  3779189  GCAGCTATGAGTATCTCCAAAATGCACCTCCTGGTTTTTTTCCAAGACTTGGTGTTATTG  3779130
+
+Query  60       GTTTTGCTGGCATTGTTGGACTTCTTTTGGCTAGAG  95
+                ||||||||||||||||||||||||||||||||||||
+Sbjct  3779129  GTTTTGCTGGCATTGTTGGACTTCTTTTGGCTAGAG  3779094
+
+
+NW_006383073.1	GCAGCTATGAGTATCTCCAAAATGCACCTCCTGGTTTTTTTCCAAGACTTGGTGTTATTGGTTTTGCTGGCATTGTTGGACTTCTTTTGGCTAGAG
+
+____________________________________________________________________________________________________
+uc004dax.3	APOO	orcOrc1	frameshift	4	13	18	CTTTCACTCTACTC----CCTGAGGGTCAGTCTAAATATGTGGAAGAGCCAAGGACCCAACTTGAAGAAAGCATCTCCCATCTCCGACATTATTGCGAACCATATACAAGTTGGTGTCAG
+
+Query= uc004dax.3_orcOrc1_13
+
+Length=116
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_004438588v1                                                      196     1e-48
+
+
+> NW_004438588v1
+Length=4329320
+
+ Score = 196 bits (106),  Expect = 1e-48
+ Identities = 116/120 (97%), Gaps = 4/120 (3%)
+ Strand=Plus/Minus
+
+Query  1        CTTTCACTCTACTC----CCTGAGGGTCAGTCTAAATATGTGGAAGAGCCAAGGACCCAA  56
+                ||||||||||||||    ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3967072  CTTTCACTCTACTCTGTTCCTGAGGGTCAGTCTAAATATGTGGAAGAGCCAAGGACCCAA  3967013
+
+Query  57       CTTGAAGAAAGCATCTCCCATCTCCGACATTATTGCGAACCATATACAAGTTGGTGTCAG  116
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3967012  CTTGAAGAAAGCATCTCCCATCTCCGACATTATTGCGAACCATATACAAGTTGGTGTCAG  3966953
+
+
+NW_004438588v1	CTTTCACTCTACTCTGTTCCTGAGGGTCAGTCTAAATATGTGGAAGAGCCAAGGACCCAACTTGAAGAAAGCATCTCCCATCTCCGACATTATTGCGAACCATATACAAGTTGGTGTCAG
+
+____________________________________________________________________________________________________
+uc004dax.3	APOO	turTru2	frameshift	4	13	18	CTTTCACTCTACTC----CCTGAGGGTCAGTCTAAATATGTGGAAGAGCCAAGGACCCAACTTGAAGAAAGCATCTCCCATCTCCGACATTATTGCGAACCATATACAAGTTGGTGTCAG
+
+Query= uc004dax.3_turTru2_13
+
+Length=116
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH477414                                                            196     1e-48
+
+
+> JH477414
+Length=134970
+
+ Score = 196 bits (106),  Expect = 1e-48
+ Identities = 116/120 (97%), Gaps = 4/120 (3%)
+ Strand=Plus/Plus
+
+Query  1      CTTTCACTCTACTC----CCTGAGGGTCAGTCTAAATATGTGGAAGAGCCAAGGACCCAA  56
+              ||||||||||||||    ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35645  CTTTCACTCTACTCTGTTCCTGAGGGTCAGTCTAAATATGTGGAAGAGCCAAGGACCCAA  35704
+
+Query  57     CTTGAAGAAAGCATCTCCCATCTCCGACATTATTGCGAACCATATACAAGTTGGTGTCAG  116
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35705  CTTGAAGAAAGCATCTCCCATCTCCGACATTATTGCGAACCATATACAAGTTGGTGTCAG  35764
+
+
+JH477414	CTTTCACTCTACTCTGTTCCTGAGGGTCAGTCTAAATATGTGGAAGAGCCAAGGACCCAACTTGAAGAAAGCATCTCCCATCTCCGACATTATTGCGAACCATATACAAGTTGGTGTCAG
+

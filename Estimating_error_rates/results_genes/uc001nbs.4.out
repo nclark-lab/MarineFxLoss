@@ -1,0 +1,90 @@
+____________________________________________________________________________________________________
+uc001nbs.4	C11orf94	nomLeu3	frameshift	1	16	18	GTCTCAGCAGTCTGTTC-TGAGGCATTTTCCGCCCCCCTGGAACTCTCGCAGCCACTTTCCGGCCTGGTGGATG
+
+Query= uc001nbs.4_nomLeu3_16
+
+Length=73
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  chr15                                                               135     2e-30
+
+
+> chr15
+Length=110690730
+
+ Score = 135 bits (73),  Expect = 2e-30
+ Identities = 73/73 (100%), Gaps = 0/73 (0%)
+ Strand=Plus/Plus
+
+Query  1          GTCTCAGCAGTCTGTTCTGAGGCATTTTCCGCCCCCCTGGAACTCTCGCAGCCACTTTCC  60
+                  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  107648524  GTCTCAGCAGTCTGTTCTGAGGCATTTTCCGCCCCCCTGGAACTCTCGCAGCCACTTTCC  107648583
+
+Query  61         GGCCTGGTGGATG  73
+                  |||||||||||||
+Sbjct  107648584  GGCCTGGTGGATG  107648596
+
+
+chr15	GTCTCAGCAGTCTGTTCTGAGGCATTTTCCGCCCCCCTGGAACTCTCGCAGCCACTTTCCGGCCTGGTGGATG
+
+____________________________________________________________________________________________________
+uc001nbs.4	C11orf94	orcOrc1	frameshift	1	93	95	ATGGTTCTCGCCATGCTGGGGGCTCTGTACCCCAGGGCCGCGCTGAGCCGCCGCTTCCGCCTCATCCTGGCGGCTGCACTCCTCTGCCCCGAGC-GCTAAG
+
+Query= uc001nbs.4_orcOrc1_93
+
+Length=100
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_004438421v1                                                      161     3e-38
+
+
+> NW_004438421v1
+Length=31971148
+
+ Score = 161 bits (87),  Expect = 3e-38
+ Identities = 97/101 (96%), Gaps = 4/101 (4%)
+ Strand=Plus/Minus
+
+Query  4         GTTCTCGCCATGCTGGGGGCTCTGTACCCCAGGGCCGCGCTGAGCCGCCGCTTCC---GC  60
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||   ||
+Sbjct  23877515  GTTCTCGCCATGCTGGGGGCTCTGTACCCCAGGGCCGCGCTGAGCCGCCGCTTCCTCAGC  23877456
+
+Query  61        CTCATCCTGGCGGCTGCACTCCTCTGCCCCGAG-CGCTAAG  100
+                 ||||||||||||||||||||||||||||||||| |||||||
+Sbjct  23877455  CTCATCCTGGCGGCTGCACTCCTCTGCCCCGAGGCGCTAAG  23877415
+
+
+NW_004438421v1	GTTCTCGCCATGCTGGGGGCTCTGTACCCCAGGGCCGCGCTGAGCCGCCGCTTCCTCAGCCTCATCCTGGCGGCTGCACTCCTCTGCCCCGAGGCGCTAAG
+
+____________________________________________________________________________________________________
+uc001nbs.4	C11orf94	turTru2	frameshift	1	93	95	ATGGTTCTCGCCATGCTGGGGGCTCTGTACCCCAGGGCCGCGCTGAGCCGCCACCTCCGCCTCATCCTGGCGGCTGCGCTCCTCTGCCCCGAGC-GCTAAG
+
+Query= uc001nbs.4_turTru2_93
+
+Length=100
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH472717                                                            161     4e-38
+
+
+> JH472717
+Length=368214
+
+ Score = 161 bits (87),  Expect = 4e-38
+ Identities = 97/101 (96%), Gaps = 4/101 (4%)
+ Strand=Plus/Minus
+
+Query  4       GTTCTCGCCATGCTGGGGGCTCTGTACCCCAGGGCCGCGCTGAGCCGCCACCTCC---GC  60
+               |||||||||||||||||||||||||||||||||||||||||||||||||||||||   ||
+Sbjct  133044  GTTCTCGCCATGCTGGGGGCTCTGTACCCCAGGGCCGCGCTGAGCCGCCACCTCCTCAGC  132985
+
+Query  61      CTCATCCTGGCGGCTGCGCTCCTCTGCCCCGAG-CGCTAAG  100
+               ||||||||||||||||||||||||||||||||| |||||||
+Sbjct  132984  CTCATCCTGGCGGCTGCGCTCCTCTGCCCCGAGGCGCTAAG  132944
+
+
+JH472717	GTTCTCGCCATGCTGGGGGCTCTGTACCCCAGGGCCGCGCTGAGCCGCCACCTCCTCAGCCTCATCCTGGCGGCTGCGCTCCTCTGCCCCGAGGCGCTAAG
+

@@ -1,0 +1,992 @@
+____________________________________________________________________________________________________
+uc001dxk.1	MYBPHL	ailMel1	Stops1	Exon3	PositionsAA[34]	PositionsNT[102]	GKPKPRATWKHDGCALDASRVSVWNGEQDSILFIZEAQRADSGRYQLSVQLGELEATATIDILVI	GGCAAACCCAAACCTCGAGCCACCTGGAAACATGATGGCTGTGCCTTGGATGCCAGCCGTGTGAGTGTGTGGAATGGGGAGCAGGACTCCATCCTCTTCATCTGAGAAGCCCAACGTGCTGACTCGGGTCGCTACCAGCTCAGTGTGCAGCTGGGAGAGCTGGAAGCCACTGCCACCATTGACATCCTGGTGATTG
+
+Query= uc001dxk.1_ailMel1_PositionsAA[34]
+
+Length=196
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  GL192659.1                                                          363     2e-98
+
+
+> GL192659.1
+Length=1692261
+
+ Score = 363 bits (196),  Expect = 2e-98
+ Identities = 196/196 (100%), Gaps = 0/196 (0%)
+ Strand=Plus/Minus
+
+Query  1       GGCAAACCCAAACCTCGAGCCACCTGGAAACATGATGGCTGTGCCTTGGATGCCAGCCGT  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  620535  GGCAAACCCAAACCTCGAGCCACCTGGAAACATGATGGCTGTGCCTTGGATGCCAGCCGT  620476
+
+Query  61      GTGAGTGTGTGGAATGGGGAGCAGGACTCCATCCTCTTCATCTGAGAAGCCCAACGTGCT  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  620475  GTGAGTGTGTGGAATGGGGAGCAGGACTCCATCCTCTTCATCTGAGAAGCCCAACGTGCT  620416
+
+Query  121     GACTCGGGTCGCTACCAGCTCAGTGTGCAGCTGGGAGAGCTGGAAGCCACTGCCACCATT  180
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  620415  GACTCGGGTCGCTACCAGCTCAGTGTGCAGCTGGGAGAGCTGGAAGCCACTGCCACCATT  620356
+
+Query  181     GACATCCTGGTGATTG  196
+               ||||||||||||||||
+Sbjct  620355  GACATCCTGGTGATTG  620340
+
+
+GL192659.1	GGCAAACCCAAACCTCGAGCCACCTGGAAACATGATGGCTGTGCCTTGGATGCCAGCCGTGTGAGTGTGTGGAATGGGGAGCAGGACTCCATCCTCTTCATCTGAGAAGCCCAACGTGCTGACTCGGGTCGCTACCAGCTCAGTGTGCAGCTGGGAGAGCTGGAAGCCACTGCCACCATTGACATCCTGGTGATTG
+
+____________________________________________________________________________________________________
+uc001dxk.1	MYBPHL	cerSim1	Stops1	Exon3	PositionsAA[49]	PositionsNT[147]	GKPKPRATWTRDGCTLDASRVSVRNRERDSILFIREAQRADSGCYQLSVZLGKLEATATIDILVI	GGCAAACCCAAACCTCGAGCCACCTGGACACGTGATGGCTGTACCCTGGACGCCAGTCGTGTGAGTGTGCGGAACAGGGAGCGGGACTCCATCCTCTTCATCCGAGAAGCCCAACGTGCTGACTCCGGTTGCTACCAGCTCAGTGTGTAGCTGGGCAAGCTGGAGGCCACAGCCACCATTGACATTCTGGTGATCG
+
+Query= uc001dxk.1_cerSim1_PositionsAA[49]
+
+Length=196
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH767727                                                            363     2e-98
+
+
+> JH767727
+Length=63188916
+
+ Score = 363 bits (196),  Expect = 2e-98
+ Identities = 196/196 (100%), Gaps = 0/196 (0%)
+ Strand=Plus/Plus
+
+Query  1         GGCAAACCCAAACCTCGAGCCACCTGGACACGTGATGGCTGTACCCTGGACGCCAGTCGT  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11209695  GGCAAACCCAAACCTCGAGCCACCTGGACACGTGATGGCTGTACCCTGGACGCCAGTCGT  11209754
+
+Query  61        GTGAGTGTGCGGAACAGGGAGCGGGACTCCATCCTCTTCATCCGAGAAGCCCAACGTGCT  120
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11209755  GTGAGTGTGCGGAACAGGGAGCGGGACTCCATCCTCTTCATCCGAGAAGCCCAACGTGCT  11209814
+
+Query  121       GACTCCGGTTGCTACCAGCTCAGTGTGTAGCTGGGCAAGCTGGAGGCCACAGCCACCATT  180
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11209815  GACTCCGGTTGCTACCAGCTCAGTGTGTAGCTGGGCAAGCTGGAGGCCACAGCCACCATT  11209874
+
+Query  181       GACATTCTGGTGATCG  196
+                 ||||||||||||||||
+Sbjct  11209875  GACATTCTGGTGATCG  11209890
+
+
+JH767727	GGCAAACCCAAACCTCGAGCCACCTGGACACGTGATGGCTGTACCCTGGACGCCAGTCGTGTGAGTGTGCGGAACAGGGAGCGGGACTCCATCCTCTTCATCCGAGAAGCCCAACGTGCTGACTCCGGTTGCTACCAGCTCAGTGTGTAGCTGGGCAAGCTGGAGGCCACAGCCACCATTGACATTCTGGTGATCG
+
+____________________________________________________________________________________________________
+uc001dxk.1	MYBPHL	dasNov3	frameshift	1	20	22	GGCCAGCCCCGGCCTGGGGCC-CCTGGACAAACGATGGCTGTGCCCTGGAC-----TTGTATGAGCGGGCAGAGCGGGGAGTGGGACTCCGGCCTCCTCATCCGGGAAGCCTGCCGTGCTGACTCGGGCCACTGCCAGCTGAGCGTGC------------------------CTCCTGTTGACCTCCTGGTGATCC
+
+Query= uc001dxk.1_dasNov3_20
+
+Length=166
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH562706                                                            307     1e-81
+
+
+> JH562706
+Length=1412906
+
+ Score = 307 bits (166),  Expect = 1e-81
+ Identities = 166/166 (100%), Gaps = 0/166 (0%)
+ Strand=Plus/Plus
+
+Query  1       GGCCAGCCCCGGCCTGGGGCCCCTGGACAAACGATGGCTGTGCCCTGGACTTGTATGAGC  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  590475  GGCCAGCCCCGGCCTGGGGCCCCTGGACAAACGATGGCTGTGCCCTGGACTTGTATGAGC  590534
+
+Query  61      GGGCAGAGCGGGGAGTGGGACTCCGGCCTCCTCATCCGGGAAGCCTGCCGTGCTGACTCG  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  590535  GGGCAGAGCGGGGAGTGGGACTCCGGCCTCCTCATCCGGGAAGCCTGCCGTGCTGACTCG  590594
+
+Query  121     GGCCACTGCCAGCTGAGCGTGCCTCCTGTTGACCTCCTGGTGATCC  166
+               ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  590595  GGCCACTGCCAGCTGAGCGTGCCTCCTGTTGACCTCCTGGTGATCC  590640
+
+
+JH562706	GGCCAGCCCCGGCCTGGGGCCCCTGGACAAACGATGGCTGTGCCCTGGACTTGTATGAGCGGGCAGAGCGGGGAGTGGGACTCCGGCCTCCTCATCCGGGAAGCCTGCCGTGCTGACTCGGGCCACTGCCAGCTGAGCGTGCCTCCTGTTGACCTCCTGGTGATCC
+
+____________________________________________________________________________________________________
+uc001dxk.1	MYBPHL	dasNov3	frameshift	1	59	61	AGCACCCCAAGACAGGGCTACCTCGGGCCCCGAGGCAGACCTGTGTCCGGAAGGCTGGGG-CACGGCGAGCCCACGAGTCCCGTGCCAG
+
+Query= uc001dxk.1_dasNov3_59
+
+Length=88
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH562706                                                            163     1e-38
+
+
+> JH562706
+Length=1412906
+
+ Score = 163 bits (88),  Expect = 1e-38
+ Identities = 88/88 (100%), Gaps = 0/88 (0%)
+ Strand=Plus/Plus
+
+Query  1       AGCACCCCAAGACAGGGCTACCTCGGGCCCCGAGGCAGACCTGTGTCCGGAAGGCTGGGG  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  589947  AGCACCCCAAGACAGGGCTACCTCGGGCCCCGAGGCAGACCTGTGTCCGGAAGGCTGGGG  590006
+
+Query  61      CACGGCGAGCCCACGAGTCCCGTGCCAG  88
+               ||||||||||||||||||||||||||||
+Sbjct  590007  CACGGCGAGCCCACGAGTCCCGTGCCAG  590034
+
+
+JH562706	AGCACCCCAAGACAGGGCTACCTCGGGCCCCGAGGCAGACCTGTGTCCGGAAGGCTGGGGCACGGCGAGCCCACGAGTCCCGTGCCAG
+
+____________________________________________________________________________________________________
+uc001dxk.1	MYBPHL	dasNov3	frameshift	2	142	145	CCCAAGATCATCTGGCTGAAGAACAAGATGGAAATACAAGGTAACACCAGGTACAGAGCCCTCACTCACCTGGGGATCTGC-----------------------TCCCTTGGACGGGGGCACCCACACCTGCCAGGCTGCTAA--CCCTGGGGGAGGCATCCGTGGCCTGCCGGGTGGATGTGAAAG
+
+Query= uc001dxk.1_dasNov3_142
+
+Length=162
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH562706                                                            300     2e-79
+
+
+> JH562706
+Length=1412906
+
+ Score = 300 bits (162),  Expect = 2e-79
+ Identities = 162/162 (100%), Gaps = 0/162 (0%)
+ Strand=Plus/Plus
+
+Query  1       CCCAAGATCATCTGGCTGAAGAACAAGATGGAAATACAAGGTAACACCAGGTACAGAGCC  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  591538  CCCAAGATCATCTGGCTGAAGAACAAGATGGAAATACAAGGTAACACCAGGTACAGAGCC  591597
+
+Query  61      CTCACTCACCTGGGGATCTGCTCCCTTGGACGGGGGCACCCACACCTGCCAGGCTGCTAA  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  591598  CTCACTCACCTGGGGATCTGCTCCCTTGGACGGGGGCACCCACACCTGCCAGGCTGCTAA  591657
+
+Query  121     CCCTGGGGGAGGCATCCGTGGCCTGCCGGGTGGATGTGAAAG  162
+               ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  591658  CCCTGGGGGAGGCATCCGTGGCCTGCCGGGTGGATGTGAAAG  591699
+
+
+JH562706	CCCAAGATCATCTGGCTGAAGAACAAGATGGAAATACAAGGTAACACCAGGTACAGAGCCCTCACTCACCTGGGGATCTGCTCCCTTGGACGGGGGCACCCACACCTGCCAGGCTGCTAACCCTGGGGGAGGCATCCGTGGCCTGCCGGGTGGATGTGAAAG
+
+____________________________________________________________________________________________________
+uc001dxk.1	MYBPHL	dasNov3	frameshift	5	50	56	GGCCAGCCCCGGCCTGGGGCC-CCTGGACAAACGATGGCTGTGCCCTGGAC-----TTGTATGAGCGGGCAGAGCGGGGAGTGGGACTCCGGCCTCCTCATCCGGGAAGCCTGCCGTGCTGACTCGGGCCACTGCCAGCTGAGCGTGC------------------------CTCCTGTTGACCTCCTGGTGATCC
+
+Query= uc001dxk.1_dasNov3_50
+
+Length=166
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH562706                                                            307     1e-81
+
+
+> JH562706
+Length=1412906
+
+ Score = 307 bits (166),  Expect = 1e-81
+ Identities = 166/166 (100%), Gaps = 0/166 (0%)
+ Strand=Plus/Plus
+
+Query  1       GGCCAGCCCCGGCCTGGGGCCCCTGGACAAACGATGGCTGTGCCCTGGACTTGTATGAGC  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  590475  GGCCAGCCCCGGCCTGGGGCCCCTGGACAAACGATGGCTGTGCCCTGGACTTGTATGAGC  590534
+
+Query  61      GGGCAGAGCGGGGAGTGGGACTCCGGCCTCCTCATCCGGGAAGCCTGCCGTGCTGACTCG  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  590535  GGGCAGAGCGGGGAGTGGGACTCCGGCCTCCTCATCCGGGAAGCCTGCCGTGCTGACTCG  590594
+
+Query  121     GGCCACTGCCAGCTGAGCGTGCCTCCTGTTGACCTCCTGGTGATCC  166
+               ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  590595  GGCCACTGCCAGCTGAGCGTGCCTCCTGTTGACCTCCTGGTGATCC  590640
+
+
+JH562706	GGCCAGCCCCGGCCTGGGGCCCCTGGACAAACGATGGCTGTGCCCTGGACTTGTATGAGCGGGCAGAGCGGGGAGTGGGACTCCGGCCTCCTCATCCGGGAAGCCTGCCGTGCTGACTCGGGCCACTGCCAGCTGAGCGTGCCTCCTGTTGACCTCCTGGTGATCC
+
+____________________________________________________________________________________________________
+uc001dxk.1	MYBPHL	echTel2	Stops1	Exon6	PositionsAA[11]	PositionsNT[33]	--IYKIEEFAQZDFSEAPKFTQPLADCTTITGSDTRLFCCVHASPK	----TATTTACAAGATTGAGGAGTTCGCCCAGTGAGATTTCTCTGAAGCCCCAAAGTTTACTCAGCCACTGGCCGACTGCACCACAATCACAGGCTCTGACACCCGTCTCTTCTGCTGCGTCCATGCCTCTCCCAAG
+
+Query= uc001dxk.1_echTel2_PositionsAA[11]
+
+Length=133
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH980298                                                            246     2e-63
+
+
+> JH980298
+Length=85730050
+
+ Score = 246 bits (133),  Expect = 2e-63
+ Identities = 133/133 (100%), Gaps = 0/133 (0%)
+ Strand=Plus/Plus
+
+Query  1        TATTTACAAGATTGAGGAGTTCGCCCAGTGAGATTTCTCTGAAGCCCCAAAGTTTACTCA  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7064428  TATTTACAAGATTGAGGAGTTCGCCCAGTGAGATTTCTCTGAAGCCCCAAAGTTTACTCA  7064487
+
+Query  61       GCCACTGGCCGACTGCACCACAATCACAGGCTCTGACACCCGTCTCTTCTGCTGCGTCCA  120
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7064488  GCCACTGGCCGACTGCACCACAATCACAGGCTCTGACACCCGTCTCTTCTGCTGCGTCCA  7064547
+
+Query  121      TGCCTCTCCCAAG  133
+                |||||||||||||
+Sbjct  7064548  TGCCTCTCCCAAG  7064560
+
+
+JH980298	TATTTACAAGATTGAGGAGTTCGCCCAGTGAGATTTCTCTGAAGCCCCAAAGTTTACTCAGCCACTGGCCGACTGCACCACAATCACAGGCTCTGACACCCGTCTCTTCTGCTGCGTCCATGCCTCTCCCAAG
+
+____________________________________________________________________________________________________
+uc001dxk.1	MYBPHL	echTel2	Stops1	Exon7	PositionsAA[31]	PositionsNT[93]	PKIVWLKNKMDIQGNPKYRALTRLGVCSLEIZKPGPFDGGIYTCKAIKALGEASVDCRVDVK	CCCAAGATCGTCTGGCTGAAGAACAAGATGGACATCCAAGGTAACCCCAAGTACAGAGCCCTCACTCGCCTGGGGGTCTGCTCTCTGGAGATCTGAAAGCCTGGCCCCTTCGATGGGGGCATCTATACCTGCAAGGCCATCAAAGCCCTGGGGGAGGCATCTGTGGACTGCAGGGTGGATGTGAAAG
+
+Query= uc001dxk.1_echTel2_PositionsAA[31]
+
+Length=187
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH980298                                                            169     6e-40
+
+
+> JH980298
+Length=85730050
+
+ Score = 169 bits (91),  Expect = 6e-40
+ Identities = 99/102 (97%), Gaps = 3/102 (3%)
+ Strand=Plus/Plus
+
+Query  89       AGATCTGAAAGCCTGGCCCCTTCGATGGGGGCATCTATACCTGCAAGGCCATCAAAGCCC  148
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7066407  AGATCTGAAAGCCTGGCCCCTTCGATGGGGGCATCTATACCTGCAAGGCCATCAAAGCCC  7066466
+
+Query  149      TGGG---GGAGGCATCTGTGGACTGCAGGGTGGATGTGAAAG  187
+                ||||   |||||||||||||||||||||||||||||||||||
+Sbjct  7066467  TGGGGGAGGAGGCATCTGTGGACTGCAGGGTGGATGTGAAAG  7066508
+
+
+ Score = 165 bits (89),  Expect = 7e-39
+ Identities = 89/89 (100%), Gaps = 0/89 (0%)
+ Strand=Plus/Plus
+
+Query  1        CCCAAGATCGTCTGGCTGAAGAACAAGATGGACATCCAAGGTAACCCCAAGTACAGAGCC  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7065536  CCCAAGATCGTCTGGCTGAAGAACAAGATGGACATCCAAGGTAACCCCAAGTACAGAGCC  7065595
+
+Query  61       CTCACTCGCCTGGGGGTCTGCTCTCTGGA  89
+                |||||||||||||||||||||||||||||
+Sbjct  7065596  CTCACTCGCCTGGGGGTCTGCTCTCTGGA  7065624
+
+
+JH980298	AGATCTGAAAGCCTGGCCCCTTCGATGGGGGCATCTATACCTGCAAGGCCATCAAAGCCCTGGGGGAGGAGGCATCTGTGGACTGCAGGGTGGATGTGAAAG
+JH980298	CCCAAGATCGTCTGGCTGAAGAACAAGATGGACATCCAAGGTAACCCCAAGTACAGAGCCCTCACTCGCCTGGGGGTCTGCTCTCTGGA
+
+____________________________________________________________________________________________________
+uc001dxk.1	MYBPHL	echTel2	Stops2	Exon5	PositionsAA[24,27]	PositionsNT[72,81]	LWFTVLEHFHGTSYTVCNLIIGNSZAFZVFAENQCGLSETAPVTSDLAHIQK-	CTGTGGTTCACGGTGCTGGAGCATTTCCACGGCACCAGCTACACGGTCTGCAACCTCATCATCGGCAACTCCTAGGCGTTCTGAGTCTTTGCTGAAAACCAGTGTGGGCTCAGTGAGACCGCCCCGGTCACCTCGGACCTCGCCCACATCCAGAAAGC--
+
+Query= uc001dxk.1_echTel2_PositionsAA[24,27]
+
+Length=158
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH980298                                                            292     3e-77
+
+
+> JH980298
+Length=85730050
+
+ Score = 292 bits (158),  Expect = 3e-77
+ Identities = 158/158 (100%), Gaps = 0/158 (0%)
+ Strand=Plus/Plus
+
+Query  1        CTGTGGTTCACGGTGCTGGAGCATTTCCACGGCACCAGCTACACGGTCTGCAACCTCATC  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7064184  CTGTGGTTCACGGTGCTGGAGCATTTCCACGGCACCAGCTACACGGTCTGCAACCTCATC  7064243
+
+Query  61       ATCGGCAACTCCTAGGCGTTCTGAGTCTTTGCTGAAAACCAGTGTGGGCTCAGTGAGACC  120
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7064244  ATCGGCAACTCCTAGGCGTTCTGAGTCTTTGCTGAAAACCAGTGTGGGCTCAGTGAGACC  7064303
+
+Query  121      GCCCCGGTCACCTCGGACCTCGCCCACATCCAGAAAGC  158
+                ||||||||||||||||||||||||||||||||||||||
+Sbjct  7064304  GCCCCGGTCACCTCGGACCTCGCCCACATCCAGAAAGC  7064341
+
+
+JH980298	CTGTGGTTCACGGTGCTGGAGCATTTCCACGGCACCAGCTACACGGTCTGCAACCTCATCATCGGCAACTCCTAGGCGTTCTGAGTCTTTGCTGAAAACCAGTGTGGGCTCAGTGAGACCGCCCCGGTCACCTCGGACCTCGCCCACATCCAGAAAGC
+
+____________________________________________________________________________________________________
+uc001dxk.1	MYBPHL	echTel2	frameshift	1	105	107	ATGGAGGCAGCCACAGCTCCGGAGGTGACCCCGGCAACAACATCAATGCTTACAGGAGCCAGCCTGGCCGATGGG---------------CCACCTGGACGGGGGG-CGGCAGCCCCAGCCCCCATCTCCAGCCCTGTATAGAAG
+
+Query= uc001dxk.1_echTel2_105
+
+Length=129
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH980298                                                            211     6e-53
+
+
+> JH980298
+Length=85730050
+
+ Score = 211 bits (114),  Expect = 6e-53
+ Identities = 129/135 (96%), Gaps = 6/135 (4%)
+ Strand=Plus/Plus
+
+Query  1        ATGGAGGCAGCCACAGCTCCGGAGGTGACCCCGGCAACA------ACATCAATGCTTACA  54
+                |||||||||||||||||||||||||||||||||||||||      |||||||||||||||
+Sbjct  7052951  ATGGAGGCAGCCACAGCTCCGGAGGTGACCCCGGCAACAGGGACGACATCAATGCTTACA  7053010
+
+Query  55       GGAGCCAGCCTGGCCGATGGGCCACCTGGACGGGGGGCGGCAGCCCCAGCCCCCATCTCC  114
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7053011  GGAGCCAGCCTGGCCGATGGGCCACCTGGACGGGGGGCGGCAGCCCCAGCCCCCATCTCC  7053070
+
+Query  115      AGCCCTGTATAGAAG  129
+                |||||||||||||||
+Sbjct  7053071  AGCCCTGTATAGAAG  7053085
+
+
+JH980298	ATGGAGGCAGCCACAGCTCCGGAGGTGACCCCGGCAACAGGGACGACATCAATGCTTACAGGAGCCAGCCTGGCCGATGGGCCACCTGGACGGGGGGCGGCAGCCCCAGCCCCCATCTCCAGCCCTGTATAGAAG
+
+____________________________________________________________________________________________________
+uc001dxk.1	MYBPHL	lepWed1	frameshift	1	152	154	CCAAAGATCATCTGGCTGAAGAACAAGATGGATATCCAAGGCAACCCCAAGTACAGAGCTCTCAGTCACCTGGGAATCTGCTCTTTAGAAATCCGCAAACGTGGTCCCTTTGACGGGGGCATCTACACCTGCAAGGCGGTTAACCCCCTGGGG-AGGCATCTGTGGACTGTCAGGTGGATGTGAAAA
+
+Query= uc001dxk.1_lepWed1_152
+
+Length=186
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_006384474.1 Leptonychotes weddellii isolate WS11-02 unplaced...  344     9e-93
+
+
+> NW_006384474.1 Leptonychotes weddellii isolate WS11-02 unplaced 
+genomic scaffold, LepWed1.0 scaffold01434, whole genome shotgun 
+sequence
+Length=683235
+
+ Score = 344 bits (186),  Expect = 9e-93
+ Identities = 186/186 (100%), Gaps = 0/186 (0%)
+ Strand=Plus/Minus
+
+Query  1       CCAAAGATCATCTGGCTGAAGAACAAGATGGATATCCAAGGCAACCCCAAGTACAGAGCT  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  621105  CCAAAGATCATCTGGCTGAAGAACAAGATGGATATCCAAGGCAACCCCAAGTACAGAGCT  621046
+
+Query  61      CTCAGTCACCTGGGAATCTGCTCTTTAGAAATCCGCAAACGTGGTCCCTTTGACGGGGGC  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  621045  CTCAGTCACCTGGGAATCTGCTCTTTAGAAATCCGCAAACGTGGTCCCTTTGACGGGGGC  620986
+
+Query  121     ATCTACACCTGCAAGGCGGTTAACCCCCTGGGGAGGCATCTGTGGACTGTCAGGTGGATG  180
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  620985  ATCTACACCTGCAAGGCGGTTAACCCCCTGGGGAGGCATCTGTGGACTGTCAGGTGGATG  620926
+
+Query  181     TGAAAA  186
+               ||||||
+Sbjct  620925  TGAAAA  620920
+
+
+NW_006384474.1	CCAAAGATCATCTGGCTGAAGAACAAGATGGATATCCAAGGCAACCCCAAGTACAGAGCTCTCAGTCACCTGGGAATCTGCTCTTTAGAAATCCGCAAACGTGGTCCCTTTGACGGGGGCATCTACACCTGCAAGGCGGTTAACCCCCTGGGGAGGCATCTGTGGACTGTCAGGTGGATGTGAAAA
+
+____________________________________________________________________________________________________
+uc001dxk.1	MYBPHL	lepWed1	frameshift	1	47	49	GGCAAACCCAAACCTCGAACCACCTGGACAAGGGATGGCTGTGCCTTC-ATGCCAGCCGTGTGAGTGTGCGGAATGGGGAGCAGGACTCCATGCTCTTCATCCGAGAAGCCCAACGTGCTGACTCGGGTCGCTACCAGCTCAGTGTGCAGCTGGGAGAGCTGGAGCCCACTGCCACCATTGACATCCTGGTGATCG
+
+Query= uc001dxk.1_lepWed1_47
+
+Length=195
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_006384474.1 Leptonychotes weddellii isolate WS11-02 unplaced...  361     1e-97
+
+
+> NW_006384474.1 Leptonychotes weddellii isolate WS11-02 unplaced 
+genomic scaffold, LepWed1.0 scaffold01434, whole genome shotgun 
+sequence
+Length=683235
+
+ Score = 361 bits (195),  Expect = 1e-97
+ Identities = 195/195 (100%), Gaps = 0/195 (0%)
+ Strand=Plus/Minus
+
+Query  1       GGCAAACCCAAACCTCGAACCACCTGGACAAGGGATGGCTGTGCCTTCATGCCAGCCGTG  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  623211  GGCAAACCCAAACCTCGAACCACCTGGACAAGGGATGGCTGTGCCTTCATGCCAGCCGTG  623152
+
+Query  61      TGAGTGTGCGGAATGGGGAGCAGGACTCCATGCTCTTCATCCGAGAAGCCCAACGTGCTG  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  623151  TGAGTGTGCGGAATGGGGAGCAGGACTCCATGCTCTTCATCCGAGAAGCCCAACGTGCTG  623092
+
+Query  121     ACTCGGGTCGCTACCAGCTCAGTGTGCAGCTGGGAGAGCTGGAGCCCACTGCCACCATTG  180
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  623091  ACTCGGGTCGCTACCAGCTCAGTGTGCAGCTGGGAGAGCTGGAGCCCACTGCCACCATTG  623032
+
+Query  181     ACATCCTGGTGATCG  195
+               |||||||||||||||
+Sbjct  623031  ACATCCTGGTGATCG  623017
+
+
+NW_006384474.1	GGCAAACCCAAACCTCGAACCACCTGGACAAGGGATGGCTGTGCCTTCATGCCAGCCGTGTGAGTGTGCGGAATGGGGAGCAGGACTCCATGCTCTTCATCCGAGAAGCCCAACGTGCTGACTCGGGTCGCTACCAGCTCAGTGTGCAGCTGGGAGAGCTGGAGCCCACTGCCACCATTGACATCCTGGTGATCG
+
+____________________________________________________________________________________________________
+uc001dxk.1	MYBPHL	loxAfr3	Stops1	Exon6	PositionsAA[21]	PositionsNT[63]	ATIYKIEVFAQRDFSEAPKFTZLLADCSTVTGYDTQLFRCVPASPK	CTACCATTTACAAGATTGAGGTGTTTGCCCAGCGAGATTTCTCCGAAGCCCCAAAGTTTACCTAGCTTCTGGCAGACTGCTCTACAGTCACTGGCTATGACACCCAGCTCTTCCGCTGCGTCCCTGCCTCTCCCAAG
+
+Query= uc001dxk.1_loxAfr3_PositionsAA[21]
+
+Length=137
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  scaffold_11                                                         254     1e-65
+
+
+> scaffold_11
+Length=67275361
+
+ Score = 254 bits (137),  Expect = 1e-65
+ Identities = 137/137 (100%), Gaps = 0/137 (0%)
+ Strand=Plus/Minus
+
+Query  1         CTACCATTTACAAGATTGAGGTGTTTGCCCAGCGAGATTTCTCCGAAGCCCCAAAGTTTA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54083892  CTACCATTTACAAGATTGAGGTGTTTGCCCAGCGAGATTTCTCCGAAGCCCCAAAGTTTA  54083833
+
+Query  61        CCTAGCTTCTGGCAGACTGCTCTACAGTCACTGGCTATGACACCCAGCTCTTCCGCTGCG  120
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54083832  CCTAGCTTCTGGCAGACTGCTCTACAGTCACTGGCTATGACACCCAGCTCTTCCGCTGCG  54083773
+
+Query  121       TCCCTGCCTCTCCCAAG  137
+                 |||||||||||||||||
+Sbjct  54083772  TCCCTGCCTCTCCCAAG  54083756
+
+
+scaffold_11	CTACCATTTACAAGATTGAGGTGTTTGCCCAGCGAGATTTCTCCGAAGCCCCAAAGTTTACCTAGCTTCTGGCAGACTGCTCTACAGTCACTGGCTATGACACCCAGCTCTTCCGCTGCGTCCCTGCCTCTCCCAAG
+
+____________________________________________________________________________________________________
+uc001dxk.1	MYBPHL	loxAfr3	Stops2	Exon1	PositionsAA[26,41]	PositionsNT[78,123]	MEAATTPE-----ALTLKEASPANAEZPQVLPQKGVRSP--ZLLSPVE	ATGGAGGCAGCCACCACTCCGGAGGT------------CGCACTGACCCTGAAAGAAGCCAGCCCAGCTAATGCTGAGTGACCCCAGGTTCTACCTCAAAAGGGGGTCCGCAGCCCC-----TTAGCTCCTGTCCCCTGTAGAAG
+
+Query= uc001dxk.1_loxAfr3_PositionsAA[26,41]
+
+Length=128
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  scaffold_11                                                         222     3e-56
+
+
+> scaffold_11
+Length=67275361
+
+ Score = 222 bits (120),  Expect = 3e-56
+ Identities = 128/131 (98%), Gaps = 3/131 (2%)
+ Strand=Plus/Minus
+
+Query  1         ATGGAGGCA---GCCACCACTCCGGAGGTCGCACTGACCCTGAAAGAAGCCAGCCCAGCT  57
+                 |||||||||   ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54096895  ATGGAGGCAGTGGCCACCACTCCGGAGGTCGCACTGACCCTGAAAGAAGCCAGCCCAGCT  54096836
+
+Query  58        AATGCTGAGTGACCCCAGGTTCTACCTCAAAAGGGGGTCCGCAGCCCCTTAGCTCCTGTC  117
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54096835  AATGCTGAGTGACCCCAGGTTCTACCTCAAAAGGGGGTCCGCAGCCCCTTAGCTCCTGTC  54096776
+
+Query  118       CCCTGTAGAAG  128
+                 |||||||||||
+Sbjct  54096775  CCCTGTAGAAG  54096765
+
+
+scaffold_11	ATGGAGGCAGTGGCCACCACTCCGGAGGTCGCACTGACCCTGAAAGAAGCCAGCCCAGCTAATGCTGAGTGACCCCAGGTTCTACCTCAAAAGGGGGTCCGCAGCCCCTTAGCTCCTGTCCCCTGTAGAAG
+
+____________________________________________________________________________________________________
+uc001dxk.1	MYBPHL	loxAfr3	frameshift	5	116	122	ATGGAGGCAGCCACCACTCCGGAGGT------------CGCACTGACCCTGAAAGAAGCCAGCCCAGCTAATGCTGAGTGACCCCAGGTTCTACCTCAAAAGGGGGTCCGCAGCCCC-----TTAGCTCCTGTCCCCTGTAGAAG
+
+Query= uc001dxk.1_loxAfr3_116
+
+Length=128
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  scaffold_11                                                         222     3e-56
+
+
+> scaffold_11
+Length=67275361
+
+ Score = 222 bits (120),  Expect = 3e-56
+ Identities = 128/131 (98%), Gaps = 3/131 (2%)
+ Strand=Plus/Minus
+
+Query  1         ATGGAGGCA---GCCACCACTCCGGAGGTCGCACTGACCCTGAAAGAAGCCAGCCCAGCT  57
+                 |||||||||   ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54096895  ATGGAGGCAGTGGCCACCACTCCGGAGGTCGCACTGACCCTGAAAGAAGCCAGCCCAGCT  54096836
+
+Query  58        AATGCTGAGTGACCCCAGGTTCTACCTCAAAAGGGGGTCCGCAGCCCCTTAGCTCCTGTC  117
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54096835  AATGCTGAGTGACCCCAGGTTCTACCTCAAAAGGGGGTCCGCAGCCCCTTAGCTCCTGTC  54096776
+
+Query  118       CCCTGTAGAAG  128
+                 |||||||||||
+Sbjct  54096775  CCCTGTAGAAG  54096765
+
+
+scaffold_11	ATGGAGGCAGTGGCCACCACTCCGGAGGTCGCACTGACCCTGAAAGAAGCCAGCCCAGCTAATGCTGAGTGACCCCAGGTTCTACCTCAAAAGGGGGTCCGCAGCCCCTTAGCTCCTGTCCCCTGTAGAAG
+
+____________________________________________________________________________________________________
+uc001dxk.1	MYBPHL	odoRosDiv1	Stops1	Exon6	PositionsAA[11]	PositionsNT[33]	ETACKTEGFAQZDFSEAPKFTQPLADRTTVRGYDTQLFCCVRASPK	AGACTGCTTGCAAGACCGAGGGGTTTGCGCAGTGAGATTTCTCTGAAGCCCCAAAGTTCACCCAGCCTTTGGCAGACCGCACGACGGTCAGAGGCTATGACACCCAGCTCTTCTGCTGTGTCCGCGCCTCTCCCAAG
+
+Query= uc001dxk.1_odoRosDiv1_PositionsAA[11]
+
+Length=137
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  KB229205                                                            254     8e-66
+
+
+> KB229205
+Length=2398430
+
+ Score = 254 bits (137),  Expect = 8e-66
+ Identities = 137/137 (100%), Gaps = 0/137 (0%)
+ Strand=Plus/Plus
+
+Query  1        AGACTGCTTGCAAGACCGAGGGGTTTGCGCAGTGAGATTTCTCTGAAGCCCCAAAGTTCA  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1600851  AGACTGCTTGCAAGACCGAGGGGTTTGCGCAGTGAGATTTCTCTGAAGCCCCAAAGTTCA  1600910
+
+Query  61       CCCAGCCTTTGGCAGACCGCACGACGGTCAGAGGCTATGACACCCAGCTCTTCTGCTGTG  120
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1600911  CCCAGCCTTTGGCAGACCGCACGACGGTCAGAGGCTATGACACCCAGCTCTTCTGCTGTG  1600970
+
+Query  121      TCCGCGCCTCTCCCAAG  137
+                |||||||||||||||||
+Sbjct  1600971  TCCGCGCCTCTCCCAAG  1600987
+
+
+KB229205	AGACTGCTTGCAAGACCGAGGGGTTTGCGCAGTGAGATTTCTCTGAAGCCCCAAAGTTCACCCAGCCTTTGGCAGACCGCACGACGGTCAGAGGCTATGACACCCAGCTCTTCTGCTGTGTCCGCGCCTCTCCCAAG
+
+____________________________________________________________________________________________________
+uc001dxk.1	MYBPHL	odoRosDiv1	frameshift	2	111	114	AGAGGCCAGGCCCTCCTCAGAGTATCAAGTTGGTGGATGTTTGGGGCTCCAGTGCTACTCTGGAGTGGACACCTCTCCAAGACACGGGCAACACAGCACTCCTGGGATACAC--TGCAGAAGGCTGACACAAAATCTGGG
+
+Query= uc001dxk.1_odoRosDiv1_111
+
+Length=138
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  KB229205                                                            255     2e-66
+
+
+> KB229205
+Length=2398430
+
+ Score = 255 bits (138),  Expect = 2e-66
+ Identities = 138/138 (100%), Gaps = 0/138 (0%)
+ Strand=Plus/Plus
+
+Query  1        AGAGGCCAGGCCCTCCTCAGAGTATCAAGTTGGTGGATGTTTGGGGCTCCAGTGCTACTC  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1600310  AGAGGCCAGGCCCTCCTCAGAGTATCAAGTTGGTGGATGTTTGGGGCTCCAGTGCTACTC  1600369
+
+Query  61       TGGAGTGGACACCTCTCCAAGACACGGGCAACACAGCACTCCTGGGATACACTGCAGAAG  120
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1600370  TGGAGTGGACACCTCTCCAAGACACGGGCAACACAGCACTCCTGGGATACACTGCAGAAG  1600429
+
+Query  121      GCTGACACAAAATCTGGG  138
+                ||||||||||||||||||
+Sbjct  1600430  GCTGACACAAAATCTGGG  1600447
+
+
+KB229205	AGAGGCCAGGCCCTCCTCAGAGTATCAAGTTGGTGGATGTTTGGGGCTCCAGTGCTACTCTGGAGTGGACACCTCTCCAAGACACGGGCAACACAGCACTCCTGGGATACACTGCAGAAGGCTGACACAAAATCTGGG
+
+____________________________________________________________________________________________________
+uc001dxk.1	MYBPHL	orcOrc1	Stops1	Exon6	PositionsAA[11]	PositionsNT[33]	ATVYKTEGFVQZDFSEAPKFTQPLADCTTVIGCDTQLFCCIHASPK	CTACTGTTTACAAGACCGAGGGGTTTGTCCAGTGAGATTTCTCAGAAGCCCCGAAGTTCACCCAGCCTCTGGCAGACTGCACTACAGTCATTGGCTGTGACACCCAGCTCTTCTGCTGCATCCATGCCTCCCCCAAG
+
+Query= uc001dxk.1_orcOrc1_PositionsAA[11]
+
+Length=137
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_004438417v1                                                      254     8e-66
+
+
+> NW_004438417v1
+Length=34854663
+
+ Score = 254 bits (137),  Expect = 8e-66
+ Identities = 137/137 (100%), Gaps = 0/137 (0%)
+ Strand=Plus/Minus
+
+Query  1         CTACTGTTTACAAGACCGAGGGGTTTGTCCAGTGAGATTTCTCAGAAGCCCCGAAGTTCA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  24321905  CTACTGTTTACAAGACCGAGGGGTTTGTCCAGTGAGATTTCTCAGAAGCCCCGAAGTTCA  24321846
+
+Query  61        CCCAGCCTCTGGCAGACTGCACTACAGTCATTGGCTGTGACACCCAGCTCTTCTGCTGCA  120
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  24321845  CCCAGCCTCTGGCAGACTGCACTACAGTCATTGGCTGTGACACCCAGCTCTTCTGCTGCA  24321786
+
+Query  121       TCCATGCCTCCCCCAAG  137
+                 |||||||||||||||||
+Sbjct  24321785  TCCATGCCTCCCCCAAG  24321769
+
+
+NW_004438417v1	CTACTGTTTACAAGACCGAGGGGTTTGTCCAGTGAGATTTCTCAGAAGCCCCGAAGTTCACCCAGCCTCTGGCAGACTGCACTACAGTCATTGGCTGTGACACCCAGCTCTTCTGCTGCATCCATGCCTCCCCCAAG
+
+____________________________________________________________________________________________________
+uc001dxk.1	MYBPHL	oryAfe1	Stops2	Exon3	PositionsAA[34,41]	PositionsNT[102,123]	GKPKSQATWTHDGCALHTHRVSVWNGEKDSVLFIZEAQRTDZGHYQPSVHLGRLEATATFDILVI	GGAAAGCCCAAATCTCAAGCCACCTGGACACATGATGGGTGTGCCTTGCACACCCATCGTGTGAGTGTGTGGAATGGGGAGAAGGACTCCGTTCTCTTCATCTGAGAAGCCCAACGAACTGACTAGGGCCACTACCAGCCGAGTGTGCACCTGGGCAGGCTGGAAGCCACTGCCACCTTTGACATCCTAGTGATCG
+
+Query= uc001dxk.1_oryAfe1_PositionsAA[34,41]
+
+Length=196
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_006921597.1 Orycteropus afer afer isolate SDZICR_OR568_19922...  363     4e-98
+
+
+> NW_006921597.1 Orycteropus afer afer isolate SDZICR_OR568_19922 
+unplaced genomic scaffold, OryAfe1.0 scaffold00010, whole 
+genome shotgun sequence
+Length=25572408
+
+ Score = 363 bits (196),  Expect = 4e-98
+ Identities = 196/196 (100%), Gaps = 0/196 (0%)
+ Strand=Plus/Plus
+
+Query  1         GGAAAGCCCAAATCTCAAGCCACCTGGACACATGATGGGTGTGCCTTGCACACCCATCGT  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  20161190  GGAAAGCCCAAATCTCAAGCCACCTGGACACATGATGGGTGTGCCTTGCACACCCATCGT  20161249
+
+Query  61        GTGAGTGTGTGGAATGGGGAGAAGGACTCCGTTCTCTTCATCTGAGAAGCCCAACGAACT  120
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  20161250  GTGAGTGTGTGGAATGGGGAGAAGGACTCCGTTCTCTTCATCTGAGAAGCCCAACGAACT  20161309
+
+Query  121       GACTAGGGCCACTACCAGCCGAGTGTGCACCTGGGCAGGCTGGAAGCCACTGCCACCTTT  180
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  20161310  GACTAGGGCCACTACCAGCCGAGTGTGCACCTGGGCAGGCTGGAAGCCACTGCCACCTTT  20161369
+
+Query  181       GACATCCTAGTGATCG  196
+                 ||||||||||||||||
+Sbjct  20161370  GACATCCTAGTGATCG  20161385
+
+
+NW_006921597.1	GGAAAGCCCAAATCTCAAGCCACCTGGACACATGATGGGTGTGCCTTGCACACCCATCGTGTGAGTGTGTGGAATGGGGAGAAGGACTCCGTTCTCTTCATCTGAGAAGCCCAACGAACTGACTAGGGCCACTACCAGCCGAGTGTGCACCTGGGCAGGCTGGAAGCCACTGCCACCTTTGACATCCTAGTGATCG
+
+____________________________________________________________________________________________________
+uc001dxk.1	MYBPHL	oryAfe1	frameshift	1	170	172	TCCAAGATCATCTGGCTGAAGAACAAGATGGATATCCAAGGCAATCCCAAGTACAGAGCCCTCACTTACCTGGGAATCTGCTCCCTAGAAATCCACAAGCCTGGTCCCTTTGATGGGAGCATCTCTACTTGCAAGGCCATTAATGCCCTGGGAGAGGCCTCTGTGGACTGT-GAGTGGATGTGAAAG
+
+Query= uc001dxk.1_oryAfe1_170
+
+Length=186
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_006921597.1 Orycteropus afer afer isolate SDZICR_OR568_19922...  344     1e-92
+
+
+> NW_006921597.1 Orycteropus afer afer isolate SDZICR_OR568_19922 
+unplaced genomic scaffold, OryAfe1.0 scaffold00010, whole 
+genome shotgun sequence
+Length=25572408
+
+ Score = 344 bits (186),  Expect = 1e-92
+ Identities = 186/186 (100%), Gaps = 0/186 (0%)
+ Strand=Plus/Plus
+
+Query  1         TCCAAGATCATCTGGCTGAAGAACAAGATGGATATCCAAGGCAATCCCAAGTACAGAGCC  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  20163311  TCCAAGATCATCTGGCTGAAGAACAAGATGGATATCCAAGGCAATCCCAAGTACAGAGCC  20163370
+
+Query  61        CTCACTTACCTGGGAATCTGCTCCCTAGAAATCCACAAGCCTGGTCCCTTTGATGGGAGC  120
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  20163371  CTCACTTACCTGGGAATCTGCTCCCTAGAAATCCACAAGCCTGGTCCCTTTGATGGGAGC  20163430
+
+Query  121       ATCTCTACTTGCAAGGCCATTAATGCCCTGGGAGAGGCCTCTGTGGACTGTGAGTGGATG  180
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  20163431  ATCTCTACTTGCAAGGCCATTAATGCCCTGGGAGAGGCCTCTGTGGACTGTGAGTGGATG  20163490
+
+Query  181       TGAAAG  186
+                 ||||||
+Sbjct  20163491  TGAAAG  20163496
+
+
+NW_006921597.1	TCCAAGATCATCTGGCTGAAGAACAAGATGGATATCCAAGGCAATCCCAAGTACAGAGCCCTCACTTACCTGGGAATCTGCTCCCTAGAAATCCACAAGCCTGGTCCCTTTGATGGGAGCATCTCTACTTGCAAGGCCATTAATGCCCTGGGAGAGGCCTCTGTGGACTGTGAGTGGATGTGAAAG
+
+____________________________________________________________________________________________________
+uc001dxk.1	MYBPHL	oryAfe1	frameshift	1	25	27	AGCTTCCCAAGATCTGGCTACCTCGG-CCCTGAGGCAGACCTACATCTGCAAGGTTGGGGACACAGTGAACCTACTAATCCCATTCCAG
+
+Query= uc001dxk.1_oryAfe1_25
+
+Length=88
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_006921597.1 Orycteropus afer afer isolate SDZICR_OR568_19922...  163     2e-38
+
+
+> NW_006921597.1 Orycteropus afer afer isolate SDZICR_OR568_19922 
+unplaced genomic scaffold, OryAfe1.0 scaffold00010, whole 
+genome shotgun sequence
+Length=25572408
+
+ Score = 163 bits (88),  Expect = 2e-38
+ Identities = 88/88 (100%), Gaps = 0/88 (0%)
+ Strand=Plus/Plus
+
+Query  1         AGCTTCCCAAGATCTGGCTACCTCGGCCCTGAGGCAGACCTACATCTGCAAGGTTGGGGA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  20160578  AGCTTCCCAAGATCTGGCTACCTCGGCCCTGAGGCAGACCTACATCTGCAAGGTTGGGGA  20160637
+
+Query  61        CACAGTGAACCTACTAATCCCATTCCAG  88
+                 ||||||||||||||||||||||||||||
+Sbjct  20160638  CACAGTGAACCTACTAATCCCATTCCAG  20160665
+
+
+NW_006921597.1	AGCTTCCCAAGATCTGGCTACCTCGGCCCTGAGGCAGACCTACATCTGCAAGGTTGGGGACACAGTGAACCTACTAATCCCATTCCAG
+
+____________________________________________________________________________________________________
+uc001dxk.1	MYBPHL	triMan1	Stops1	Exon1	PositionsAA[32]	PositionsNT[96]	KEAATAQEVAPGSELMLKGASPADAERPQAPPZ-GVGSLIPQLLSPIE	AAGGAAGCAGCCACTGCTCAGGAGGTGGCCCCAGGATCCGAGCTGATGCTGAAAGGAGCCAGCCCAGCTGATGCTGAACGACCCCAGGCTCCACCTTGAC--GGGGTTGGCAGCCTCATTCCTCAGCTCCTGTCCCCTATAGAAG
+
+Query= uc001dxk.1_triMan1_PositionsAA[32]
+
+Length=143
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH594810                                                            265     5e-69
+
+
+> JH594810
+Length=4411251
+
+ Score = 265 bits (143),  Expect = 5e-69
+ Identities = 143/143 (100%), Gaps = 0/143 (0%)
+ Strand=Plus/Plus
+
+Query  1       AAGGAAGCAGCCACTGCTCAGGAGGTGGCCCCAGGATCCGAGCTGATGCTGAAAGGAGCC  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  578717  AAGGAAGCAGCCACTGCTCAGGAGGTGGCCCCAGGATCCGAGCTGATGCTGAAAGGAGCC  578776
+
+Query  61      AGCCCAGCTGATGCTGAACGACCCCAGGCTCCACCTTGACGGGGTTGGCAGCCTCATTCC  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  578777  AGCCCAGCTGATGCTGAACGACCCCAGGCTCCACCTTGACGGGGTTGGCAGCCTCATTCC  578836
+
+Query  121     TCAGCTCCTGTCCCCTATAGAAG  143
+               |||||||||||||||||||||||
+Sbjct  578837  TCAGCTCCTGTCCCCTATAGAAG  578859
+
+
+JH594810	AAGGAAGCAGCCACTGCTCAGGAGGTGGCCCCAGGATCCGAGCTGATGCTGAAAGGAGCCAGCCCAGCTGATGCTGAACGACCCCAGGCTCCACCTTGACGGGGTTGGCAGCCTCATTCCTCAGCTCCTGTCCCCTATAGAAG
+
+____________________________________________________________________________________________________
+uc001dxk.1	MYBPHL	triMan1	Stops1	Exon3	PositionsAA[5]	PositionsNT[15]	GKPKPZVIWTHDGCTLDACRASVRKGERDSVLFIQEAQRADSGRYQLSVQLGGLEATATIDIQVI	GGCAAGCCCAAACCTTGAGTCATCTGGACACATGATGGCTGTACCTTGGATGCCTGTCGTGCGAGTGTGCGAAAAGGGGAGAGGGACTCCGTCCTCTTCATCCAAGAAGCCCAACGTGCTGACTCAGGCCGCTACCAGCTGAGTGTGCAGCTAGGCGGGCTGGAGGCCACCGCCACCATTGACATCCAGGTGATCG
+
+Query= uc001dxk.1_triMan1_PositionsAA[5]
+
+Length=196
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH594810                                                            363     3e-98
+
+
+> JH594810
+Length=4411251
+
+ Score = 363 bits (196),  Expect = 3e-98
+ Identities = 196/196 (100%), Gaps = 0/196 (0%)
+ Strand=Plus/Plus
+
+Query  1       GGCAAGCCCAAACCTTGAGTCATCTGGACACATGATGGCTGTACCTTGGATGCCTGTCGT  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  589443  GGCAAGCCCAAACCTTGAGTCATCTGGACACATGATGGCTGTACCTTGGATGCCTGTCGT  589502
+
+Query  61      GCGAGTGTGCGAAAAGGGGAGAGGGACTCCGTCCTCTTCATCCAAGAAGCCCAACGTGCT  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  589503  GCGAGTGTGCGAAAAGGGGAGAGGGACTCCGTCCTCTTCATCCAAGAAGCCCAACGTGCT  589562
+
+Query  121     GACTCAGGCCGCTACCAGCTGAGTGTGCAGCTAGGCGGGCTGGAGGCCACCGCCACCATT  180
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  589563  GACTCAGGCCGCTACCAGCTGAGTGTGCAGCTAGGCGGGCTGGAGGCCACCGCCACCATT  589622
+
+Query  181     GACATCCAGGTGATCG  196
+               ||||||||||||||||
+Sbjct  589623  GACATCCAGGTGATCG  589638
+
+
+JH594810	GGCAAGCCCAAACCTTGAGTCATCTGGACACATGATGGCTGTACCTTGGATGCCTGTCGTGCGAGTGTGCGAAAAGGGGAGAGGGACTCCGTCCTCTTCATCCAAGAAGCCCAACGTGCTGACTCAGGCCGCTACCAGCTGAGTGTGCAGCTAGGCGGGCTGGAGGCCACCGCCACCATTGACATCCAGGTGATCG
+
+____________________________________________________________________________________________________
+uc001dxk.1	MYBPHL	triMan1	Stops1	Exon5	PositionsAA[27]	PositionsNT[81]	LWFTVLEHYHCTRYTVSNLIIGNSYAFZVFAENQCGLSETALVTSDLAHIQKA	CTGTGGTTCACGGTGCTAGAACATTATCACTGCACCAGATACACTGTCTCCAACCTCATCATTGGTAACTCCTATGCATTTTGAGTCTTTGCTGAAAATCAGTGTGGGCTCAGTGAGACAGCCCTGGTCACTTCTGACCTTGCCCACATCCAGAAAGCAG
+
+Query= uc001dxk.1_triMan1_PositionsAA[27]
+
+Length=160
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH594810                                                            296     2e-78
+
+
+> JH594810
+Length=4411251
+
+ Score = 296 bits (160),  Expect = 2e-78
+ Identities = 160/160 (100%), Gaps = 0/160 (0%)
+ Strand=Plus/Plus
+
+Query  1       CTGTGGTTCACGGTGCTAGAACATTATCACTGCACCAGATACACTGTCTCCAACCTCATC  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  590157  CTGTGGTTCACGGTGCTAGAACATTATCACTGCACCAGATACACTGTCTCCAACCTCATC  590216
+
+Query  61      ATTGGTAACTCCTATGCATTTTGAGTCTTTGCTGAAAATCAGTGTGGGCTCAGTGAGACA  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  590217  ATTGGTAACTCCTATGCATTTTGAGTCTTTGCTGAAAATCAGTGTGGGCTCAGTGAGACA  590276
+
+Query  121     GCCCTGGTCACTTCTGACCTTGCCCACATCCAGAAAGCAG  160
+               ||||||||||||||||||||||||||||||||||||||||
+Sbjct  590277  GCCCTGGTCACTTCTGACCTTGCCCACATCCAGAAAGCAG  590316
+
+
+JH594810	CTGTGGTTCACGGTGCTAGAACATTATCACTGCACCAGATACACTGTCTCCAACCTCATCATTGGTAACTCCTATGCATTTTGAGTCTTTGCTGAAAATCAGTGTGGGCTCAGTGAGACAGCCCTGGTCACTTCTGACCTTGCCCACATCCAGAAAGCAG
+
+____________________________________________________________________________________________________
+uc001dxk.1	MYBPHL	triMan1	frameshift	1	151	153	CCCAAGATCATCTGGCTGAAGAACAAGATGGACATCCAAGGCAACCCCAAGTACAGAGCCCTCACTCACCTGGGAATCTGCTCCCTAGAAATCCGCAAGCCTGGTCCCTTTGATGGGGGCATCTACAACTGCAAGGCCATGAATGCCCTGGG-GAGGCCTCTGTGGACTGTCGAGTGGATGTGAAAG
+
+Query= uc001dxk.1_triMan1_151
+
+Length=186
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH594810                                                            344     9e-93
+
+
+> JH594810
+Length=4411251
+
+ Score = 344 bits (186),  Expect = 9e-93
+ Identities = 186/186 (100%), Gaps = 0/186 (0%)
+ Strand=Plus/Plus
+
+Query  1       CCCAAGATCATCTGGCTGAAGAACAAGATGGACATCCAAGGCAACCCCAAGTACAGAGCC  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  591592  CCCAAGATCATCTGGCTGAAGAACAAGATGGACATCCAAGGCAACCCCAAGTACAGAGCC  591651
+
+Query  61      CTCACTCACCTGGGAATCTGCTCCCTAGAAATCCGCAAGCCTGGTCCCTTTGATGGGGGC  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  591652  CTCACTCACCTGGGAATCTGCTCCCTAGAAATCCGCAAGCCTGGTCCCTTTGATGGGGGC  591711
+
+Query  121     ATCTACAACTGCAAGGCCATGAATGCCCTGGGGAGGCCTCTGTGGACTGTCGAGTGGATG  180
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  591712  ATCTACAACTGCAAGGCCATGAATGCCCTGGGGAGGCCTCTGTGGACTGTCGAGTGGATG  591771
+
+Query  181     TGAAAG  186
+               ||||||
+Sbjct  591772  TGAAAG  591777
+
+
+JH594810	CCCAAGATCATCTGGCTGAAGAACAAGATGGACATCCAAGGCAACCCCAAGTACAGAGCCCTCACTCACCTGGGAATCTGCTCCCTAGAAATCCGCAAGCCTGGTCCCTTTGATGGGGGCATCTACAACTGCAAGGCCATGAATGCCCTGGGGAGGCCTCTGTGGACTGTCGAGTGGATGTGAAAG
+
+____________________________________________________________________________________________________
+uc001dxk.1	MYBPHL	triMan1	frameshift	1	70	72	AGTTTCCCAAGATCTGGCTACCTCGGCCCCTGAGGCATACCTACATCTGCAAGGTTGGGGACACAGTAAAC-TACTAATCCCATTCCAG
+
+Query= uc001dxk.1_triMan1_70
+
+Length=88
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH594810                                                            163     1e-38
+
+
+> JH594810
+Length=4411251
+
+ Score = 163 bits (88),  Expect = 1e-38
+ Identities = 88/88 (100%), Gaps = 0/88 (0%)
+ Strand=Plus/Plus
+
+Query  1       AGTTTCCCAAGATCTGGCTACCTCGGCCCCTGAGGCATACCTACATCTGCAAGGTTGGGG  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  588808  AGTTTCCCAAGATCTGGCTACCTCGGCCCCTGAGGCATACCTACATCTGCAAGGTTGGGG  588867
+
+Query  61      ACACAGTAAACTACTAATCCCATTCCAG  88
+               ||||||||||||||||||||||||||||
+Sbjct  588868  ACACAGTAAACTACTAATCCCATTCCAG  588895
+
+
+JH594810	AGTTTCCCAAGATCTGGCTACCTCGGCCCCTGAGGCATACCTACATCTGCAAGGTTGGGGACACAGTAAACTACTAATCCCATTCCAG
+
+____________________________________________________________________________________________________
+uc001dxk.1	MYBPHL	triMan1	frameshift	2	99	102	AAGGAAGCAGCCACTGCTCAGGAGGTGGCCCCAGGATCCGAGCTGATGCTGAAAGGAGCCAGCCCAGCTGATGCTGAACGACCCCAGGCTCCACCTTGAC--GGGGTTGGCAGCCTCATTCCTCAGCTCCTGTCCCCTATAGAAG
+
+Query= uc001dxk.1_triMan1_99
+
+Length=143
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH594810                                                            265     5e-69
+
+
+> JH594810
+Length=4411251
+
+ Score = 265 bits (143),  Expect = 5e-69
+ Identities = 143/143 (100%), Gaps = 0/143 (0%)
+ Strand=Plus/Plus
+
+Query  1       AAGGAAGCAGCCACTGCTCAGGAGGTGGCCCCAGGATCCGAGCTGATGCTGAAAGGAGCC  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  578717  AAGGAAGCAGCCACTGCTCAGGAGGTGGCCCCAGGATCCGAGCTGATGCTGAAAGGAGCC  578776
+
+Query  61      AGCCCAGCTGATGCTGAACGACCCCAGGCTCCACCTTGACGGGGTTGGCAGCCTCATTCC  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  578777  AGCCCAGCTGATGCTGAACGACCCCAGGCTCCACCTTGACGGGGTTGGCAGCCTCATTCC  578836
+
+Query  121     TCAGCTCCTGTCCCCTATAGAAG  143
+               |||||||||||||||||||||||
+Sbjct  578837  TCAGCTCCTGTCCCCTATAGAAG  578859
+
+
+JH594810	AAGGAAGCAGCCACTGCTCAGGAGGTGGCCCCAGGATCCGAGCTGATGCTGAAAGGAGCCAGCCCAGCTGATGCTGAACGACCCCAGGCTCCACCTTGACGGGGTTGGCAGCCTCATTCCTCAGCTCCTGTCCCCTATAGAAG
+
+____________________________________________________________________________________________________
+uc001dxk.1	MYBPHL	turTru2	Stops1	Exon6	PositionsAA[11]	PositionsNT[33]	ATVYKTEGFVQZDFSEAPKFTQPLADCTTVIGCDTQLFCCIHASPK	CTACTGTTTACAAGACTGAGGGGTTTGTCCAGTGAGATTTCTCAGAAGCCCCGAAGTTCACCCAGCCTCTGGCAGACTGCACTACAGTCATTGGCTGTGACACCCAGCTCTTCTGCTGCATCCATGCCTCCCCCAAG
+
+Query= uc001dxk.1_turTru2_PositionsAA[11]
+
+Length=137
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH484699                                                            254     9e-66
+
+
+> JH484699
+Length=113940
+
+ Score = 254 bits (137),  Expect = 9e-66
+ Identities = 137/137 (100%), Gaps = 0/137 (0%)
+ Strand=Plus/Plus
+
+Query  1      CTACTGTTTACAAGACTGAGGGGTTTGTCCAGTGAGATTTCTCAGAAGCCCCGAAGTTCA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  49252  CTACTGTTTACAAGACTGAGGGGTTTGTCCAGTGAGATTTCTCAGAAGCCCCGAAGTTCA  49311
+
+Query  61     CCCAGCCTCTGGCAGACTGCACTACAGTCATTGGCTGTGACACCCAGCTCTTCTGCTGCA  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  49312  CCCAGCCTCTGGCAGACTGCACTACAGTCATTGGCTGTGACACCCAGCTCTTCTGCTGCA  49371
+
+Query  121    TCCATGCCTCCCCCAAG  137
+              |||||||||||||||||
+Sbjct  49372  TCCATGCCTCCCCCAAG  49388
+
+
+JH484699	CTACTGTTTACAAGACTGAGGGGTTTGTCCAGTGAGATTTCTCAGAAGCCCCGAAGTTCACCCAGCCTCTGGCAGACTGCACTACAGTCATTGGCTGTGACACCCAGCTCTTCTGCTGCATCCATGCCTCCCCCAAG
+

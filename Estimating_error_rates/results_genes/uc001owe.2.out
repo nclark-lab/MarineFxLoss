@@ -1,0 +1,208 @@
+____________________________________________________________________________________________________
+uc001owe.2	ARRB1	myoLuc2	frameshift	1	42	44	ATCCCTCCGAACCTCCCATGCTCGGTGACGTTGCAGCCGGGGC-TGAAGACACAGGGAAG
+
+Query= uc001owe.2_myoLuc2_42
+
+Length=59
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  GL430204                                                            104     2e-21
+
+
+> GL430204
+Length=840961
+
+ Score = 104 bits (56),  Expect = 2e-21
+ Identities = 59/60 (98%), Gaps = 1/60 (2%)
+ Strand=Plus/Minus
+
+Query  1      ATCCCTCCGAACCTCCCATGCTCGGTGACGTTGCAGCCGGGGC-TGAAGACACAGGGAAG  59
+              ||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||
+Sbjct  66773  ATCCCTCCGAACCTCCCATGCTCGGTGACGTTGCAGCCGGGGCCTGAAGACACAGGGAAG  66714
+
+
+GL430204	ATCCCTCCGAACCTCCCATGCTCGGTGACGTTGCAGCCGGGGCCTGAAGACACAGGGAAG
+
+____________________________________________________________________________________________________
+uc001owe.2	ARRB1	ponAbe2	frameshift	1	106	108	--ATTCCGTGCGTCTGGTCATCCGGAAGGTTCAGTATGCCCCAAGGAGACTTGGCCCCAG--CCACAGCCGAGACCACCAGGCAGTTC-TCATGTCGGACAAGCCCT-GCACCTAGAGGCCTCCCTGGATAAGGAG
+
+Query= uc001owe.2_ponAbe2_106
+
+Length=130
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  chr11                                                               228     7e-58
+
+
+> chr11
+Length=132107971
+
+ Score = 228 bits (123),  Expect = 7e-58
+ Identities = 128/130 (98%), Gaps = 1/130 (1%)
+ Strand=Plus/Minus
+
+Query  1         ATTCCGTGCGTCTGGTCATCCGGAAGGTTCAGTATGCCCCAAGGAGACTTGGCCCCAGCC  60
+                 |||||||||||||||||||| |||| ||||||||||||||||||||||||||||||||||
+Sbjct  70707901  ATTCCGTGCGTCTGGTCATC-GGAAAGTTCAGTATGCCCCAAGGAGACTTGGCCCCAGCC  70707843
+
+Query  61        ACAGCCGAGACCACCAGGCAGTTCTCATGTCGGACAAGCCCTGCACCTAGAGGCCTCCCT  120
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  70707842  ACAGCCGAGACCACCAGGCAGTTCTCATGTCGGACAAGCCCTGCACCTAGAGGCCTCCCT  70707783
+
+Query  121       GGATAAGGAG  130
+                 ||||||||||
+Sbjct  70707782  GGATAAGGAG  70707773
+
+
+ Score = 134 bits (72),  Expect = 2e-29
+ Identities = 93/102 (91%), Gaps = 5/102 (5%)
+ Strand=Plus/Minus
+
+Query  1         ATTCCGTGCGTCTGGTCATCCGGAAGGTTCAGTATGCCCCAAGGAGACTTGGCCCCAGCC  60
+                 |||||||||||||||||||||||||||| ||||||| ||||  ||| | |||||||||||
+Sbjct  70709126  ATTCCGTGCGTCTGGTCATCCGGAAGGT-CAGTATG-CCCAGAGAGGC-TGGCCCCAGCC  70709070
+
+Query  61        ACAGCCGAGACCACCAGGCAGTTCTCATGTCGGACAAGCCCT  102
+                 ||||||||||| |||||||||| ||||||||||||| |||||
+Sbjct  70709069  ACAGCCGAGAC-ACCAGGCAGTCCTCATGTCGGACA-GCCCT  70709030
+
+
+chr11	ATTCCGTGCGTCTGGTCATC-GGAAAGTTCAGTATGCCCCAAGGAGACTTGGCCCCAGCCACAGCCGAGACCACCAGGCAGTTCTCATGTCGGACAAGCCCTGCACCTAGAGGCCTCCCTGGATAAGGAG
+chr11	ATTCCGTGCGTCTGGTCATCCGGAAGGT-CAGTATG-CCCAGAGAGGC-TGGCCCCAGCCACAGCCGAGAC-ACCAGGCAGTCCTCATGTCGGACA-GCCCT
+
+____________________________________________________________________________________________________
+uc001owe.2	ARRB1	ponAbe2	frameshift	1	145	147	TCTACGTGACGCTGACCTGCGCCTTCCGCTATGGCCGGGAGGACCTGGATGTCCTGGGCCTGACCTTTCGCAAGGACCTGTTTGTGGCCAACGTACAGTCCTTCCCACCGGCCCCCGAGGACAAGAAGCCCCTGACGCGGCTGCAG-AGCGCCTCATCAAGAAGCTGGGCGAGCACGCTTACCCTTTCACCTTTGAG
+
+Query= uc001owe.2_ponAbe2_145
+
+Length=196
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  chr11                                                               363     3e-98
+
+
+> chr11
+Length=132107971
+
+ Score = 363 bits (196),  Expect = 3e-98
+ Identities = 196/196 (100%), Gaps = 0/196 (0%)
+ Strand=Plus/Minus
+
+Query  1         TCTACGTGACGCTGACCTGCGCCTTCCGCTATGGCCGGGAGGACCTGGATGTCCTGGGCC  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  70713856  TCTACGTGACGCTGACCTGCGCCTTCCGCTATGGCCGGGAGGACCTGGATGTCCTGGGCC  70713797
+
+Query  61        TGACCTTTCGCAAGGACCTGTTTGTGGCCAACGTACAGTCCTTCCCACCGGCCCCCGAGG  120
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  70713796  TGACCTTTCGCAAGGACCTGTTTGTGGCCAACGTACAGTCCTTCCCACCGGCCCCCGAGG  70713737
+
+Query  121       ACAAGAAGCCCCTGACGCGGCTGCAGAGCGCCTCATCAAGAAGCTGGGCGAGCACGCTTA  180
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  70713736  ACAAGAAGCCCCTGACGCGGCTGCAGAGCGCCTCATCAAGAAGCTGGGCGAGCACGCTTA  70713677
+
+Query  181       CCCTTTCACCTTTGAG  196
+                 ||||||||||||||||
+Sbjct  70713676  CCCTTTCACCTTTGAG  70713661
+
+
+chr11	TCTACGTGACGCTGACCTGCGCCTTCCGCTATGGCCGGGAGGACCTGGATGTCCTGGGCCTGACCTTTCGCAAGGACCTGTTTGTGGCCAACGTACAGTCCTTCCCACCGGCCCCCGAGGACAAGAAGCCCCTGACGCGGCTGCAGAGCGCCTCATCAAGAAGCTGGGCGAGCACGCTTACCCTTTCACCTTTGAG
+
+____________________________________________________________________________________________________
+uc001owe.2	ARRB1	ponAbe2	frameshift	1	87	89	--ATTCCGTGCGTCTGGTCATCCGGAAGGTTCAGTATGCCCCAAGGAGACTTGGCCCCAG--CCACAGCCGAGACCACCAGGCAGTTC-TCATGTCGGACAAGCCCT-GCACCTAGAGGCCTCCCTGGATAAGGAG
+
+Query= uc001owe.2_ponAbe2_87
+
+Length=130
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  chr11                                                               228     7e-58
+
+
+> chr11
+Length=132107971
+
+ Score = 228 bits (123),  Expect = 7e-58
+ Identities = 128/130 (98%), Gaps = 1/130 (1%)
+ Strand=Plus/Minus
+
+Query  1         ATTCCGTGCGTCTGGTCATCCGGAAGGTTCAGTATGCCCCAAGGAGACTTGGCCCCAGCC  60
+                 |||||||||||||||||||| |||| ||||||||||||||||||||||||||||||||||
+Sbjct  70707901  ATTCCGTGCGTCTGGTCATC-GGAAAGTTCAGTATGCCCCAAGGAGACTTGGCCCCAGCC  70707843
+
+Query  61        ACAGCCGAGACCACCAGGCAGTTCTCATGTCGGACAAGCCCTGCACCTAGAGGCCTCCCT  120
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  70707842  ACAGCCGAGACCACCAGGCAGTTCTCATGTCGGACAAGCCCTGCACCTAGAGGCCTCCCT  70707783
+
+Query  121       GGATAAGGAG  130
+                 ||||||||||
+Sbjct  70707782  GGATAAGGAG  70707773
+
+
+ Score = 134 bits (72),  Expect = 2e-29
+ Identities = 93/102 (91%), Gaps = 5/102 (5%)
+ Strand=Plus/Minus
+
+Query  1         ATTCCGTGCGTCTGGTCATCCGGAAGGTTCAGTATGCCCCAAGGAGACTTGGCCCCAGCC  60
+                 |||||||||||||||||||||||||||| ||||||| ||||  ||| | |||||||||||
+Sbjct  70709126  ATTCCGTGCGTCTGGTCATCCGGAAGGT-CAGTATG-CCCAGAGAGGC-TGGCCCCAGCC  70709070
+
+Query  61        ACAGCCGAGACCACCAGGCAGTTCTCATGTCGGACAAGCCCT  102
+                 ||||||||||| |||||||||| ||||||||||||| |||||
+Sbjct  70709069  ACAGCCGAGAC-ACCAGGCAGTCCTCATGTCGGACA-GCCCT  70709030
+
+
+chr11	ATTCCGTGCGTCTGGTCATC-GGAAAGTTCAGTATGCCCCAAGGAGACTTGGCCCCAGCCACAGCCGAGACCACCAGGCAGTTCTCATGTCGGACAAGCCCTGCACCTAGAGGCCTCCCTGGATAAGGAG
+chr11	ATTCCGTGCGTCTGGTCATCCGGAAGGT-CAGTATG-CCCAGAGAGGC-TGGCCCCAGCCACAGCCGAGAC-ACCAGGCAGTCCTCATGTCGGACA-GCCCT
+
+____________________________________________________________________________________________________
+uc001owe.2	ARRB1	ponAbe2	frameshift	2	59	62	--ATTCCGTGCGTCTGGTCATCCGGAAGGTTCAGTATGCCCCAAGGAGACTTGGCCCCAG--CCACAGCCGAGACCACCAGGCAGTTC-TCATGTCGGACAAGCCCT-GCACCTAGAGGCCTCCCTGGATAAGGAG
+
+Query= uc001owe.2_ponAbe2_59
+
+Length=130
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  chr11                                                               228     7e-58
+
+
+> chr11
+Length=132107971
+
+ Score = 228 bits (123),  Expect = 7e-58
+ Identities = 128/130 (98%), Gaps = 1/130 (1%)
+ Strand=Plus/Minus
+
+Query  1         ATTCCGTGCGTCTGGTCATCCGGAAGGTTCAGTATGCCCCAAGGAGACTTGGCCCCAGCC  60
+                 |||||||||||||||||||| |||| ||||||||||||||||||||||||||||||||||
+Sbjct  70707901  ATTCCGTGCGTCTGGTCATC-GGAAAGTTCAGTATGCCCCAAGGAGACTTGGCCCCAGCC  70707843
+
+Query  61        ACAGCCGAGACCACCAGGCAGTTCTCATGTCGGACAAGCCCTGCACCTAGAGGCCTCCCT  120
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  70707842  ACAGCCGAGACCACCAGGCAGTTCTCATGTCGGACAAGCCCTGCACCTAGAGGCCTCCCT  70707783
+
+Query  121       GGATAAGGAG  130
+                 ||||||||||
+Sbjct  70707782  GGATAAGGAG  70707773
+
+
+ Score = 134 bits (72),  Expect = 2e-29
+ Identities = 93/102 (91%), Gaps = 5/102 (5%)
+ Strand=Plus/Minus
+
+Query  1         ATTCCGTGCGTCTGGTCATCCGGAAGGTTCAGTATGCCCCAAGGAGACTTGGCCCCAGCC  60
+                 |||||||||||||||||||||||||||| ||||||| ||||  ||| | |||||||||||
+Sbjct  70709126  ATTCCGTGCGTCTGGTCATCCGGAAGGT-CAGTATG-CCCAGAGAGGC-TGGCCCCAGCC  70709070
+
+Query  61        ACAGCCGAGACCACCAGGCAGTTCTCATGTCGGACAAGCCCT  102
+                 ||||||||||| |||||||||| ||||||||||||| |||||
+Sbjct  70709069  ACAGCCGAGAC-ACCAGGCAGTCCTCATGTCGGACA-GCCCT  70709030
+
+
+chr11	ATTCCGTGCGTCTGGTCATC-GGAAAGTTCAGTATGCCCCAAGGAGACTTGGCCCCAGCCACAGCCGAGACCACCAGGCAGTTCTCATGTCGGACAAGCCCTGCACCTAGAGGCCTCCCTGGATAAGGAG
+chr11	ATTCCGTGCGTCTGGTCATCCGGAAGGT-CAGTATG-CCCAGAGAGGC-TGGCCCCAGCCACAGCCGAGAC-ACCAGGCAGTCCTCATGTCGGACA-GCCCT
+

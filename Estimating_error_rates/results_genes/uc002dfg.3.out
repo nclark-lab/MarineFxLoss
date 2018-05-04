@@ -1,0 +1,66 @@
+____________________________________________________________________________________________________
+uc002dfg.3	ABCC6P1	capHir1	frameshift	8	102	111	AGCTTCGCCGTGTTCCTGATCCATGCCGAGAGAAAGAAGGGCGTCCAGGCGTCGGGGGTGCTCTTCGGGTACTGGCTACTCTGCTTTCTCTTCCCAGCCACCA--------CAGCAGGCCTCGCAAGGG
+
+Query= uc002dfg.3_capHir1_102
+
+Length=121
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NC_030832.1 Capra hircus breed San Clemente chromosome 25, ASM1...  191     7e-47
+
+
+> NC_030832.1 Capra hircus breed San Clemente chromosome 25, ASM170441v1, 
+whole genome shotgun sequence
+Length=42858509
+
+ Score = 191 bits (103),  Expect = 7e-47
+ Identities = 103/103 (100%), Gaps = 0/103 (0%)
+ Strand=Plus/Minus
+
+Query  1         AGCTTCGCCGTGTTCCTGATCCATGCCGAGAGAAAGAAGGGCGTCCAGGCGTCGGGGGTG  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  14404353  AGCTTCGCCGTGTTCCTGATCCATGCCGAGAGAAAGAAGGGCGTCCAGGCGTCGGGGGTG  14404294
+
+Query  61        CTCTTCGGGTACTGGCTACTCTGCTTTCTCTTCCCAGCCACCA  103
+                 |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  14404293  CTCTTCGGGTACTGGCTACTCTGCTTTCTCTTCCCAGCCACCA  14404251
+
+
+NC_030832.1	AGCTTCGCCGTGTTCCTGATCCATGCCGAGAGAAAGAAGGGCGTCCAGGCGTCGGGGGTGCTCTTCGGGTACTGGCTACTCTGCTTTCTCTTCCCAGCCACCA
+
+____________________________________________________________________________________________________
+uc002dfg.3	ABCC6P1	jacJac1	frameshift	2	120	123	GCTGCTCTGGAGGGGCTACAAGAAGCTGCTGGGACCAAAAGACTTCTGGTCTCTTGAGAGAGAAAACTCTTCAGAAGAGCTTGTTTCTCAGCTGGACAGGGAATGGAGGAGGAACCGCGCT--GCTGCCCAG
+
+Query= uc002dfg.3_jacJac1_120
+
+Length=130
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_004504319.1 Jaculus jaculus isolate JJ0015 unplaced genomic ...  241     7e-62
+
+
+> NW_004504319.1 Jaculus jaculus isolate JJ0015 unplaced genomic 
+scaffold, JacJac1.0 scaffold00007, whole genome shotgun sequence
+Length=50527172
+
+ Score = 241 bits (130),  Expect = 7e-62
+ Identities = 130/130 (100%), Gaps = 0/130 (0%)
+ Strand=Plus/Minus
+
+Query  1         GCTGCTCTGGAGGGGCTACAAGAAGCTGCTGGGACCAAAAGACTTCTGGTCTCTTGAGAG  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  14877846  GCTGCTCTGGAGGGGCTACAAGAAGCTGCTGGGACCAAAAGACTTCTGGTCTCTTGAGAG  14877787
+
+Query  61        AGAAAACTCTTCAGAAGAGCTTGTTTCTCAGCTGGACAGGGAATGGAGGAGGAACCGCGC  120
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  14877786  AGAAAACTCTTCAGAAGAGCTTGTTTCTCAGCTGGACAGGGAATGGAGGAGGAACCGCGC  14877727
+
+Query  121       TGCTGCCCAG  130
+                 ||||||||||
+Sbjct  14877726  TGCTGCCCAG  14877717
+
+
+NW_004504319.1	GCTGCTCTGGAGGGGCTACAAGAAGCTGCTGGGACCAAAAGACTTCTGGTCTCTTGAGAGAGAAAACTCTTCAGAAGAGCTTGTTTCTCAGCTGGACAGGGAATGGAGGAGGAACCGCGCTGCTGCCCAG
+

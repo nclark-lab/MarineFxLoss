@@ -1,0 +1,1876 @@
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	chrAsi1	Stops1	Exon6	PositionsAA[2]	PositionsNT[6]	GCZDGVKFETFHFKRFSDKNSSILQPEVKIHLTGLRNDY	GCTGTTGAGATGGAGTCAAATTTGAAACTTTCCATTTTAAAAGGTTCAGTGATAAGAACTCTTCTATACTCCAACCAGAGGTGAAGATTCATCTTACTGGTCTTCGAAATGACTATT
+
+Query= uc003jpo.2_chrAsi1_PositionsAA[2]
+
+Length=117
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_006408809.1 Chrysochloris asiatica unplaced genomic scaffold...  217     2e-54
+
+
+> NW_006408809.1 Chrysochloris asiatica unplaced genomic scaffold, 
+ChrAsi1.0 scaffold00291, whole genome shotgun sequence
+Length=3569325
+
+ Score = 217 bits (117),  Expect = 2e-54
+ Identities = 117/117 (100%), Gaps = 0/117 (0%)
+ Strand=Plus/Minus
+
+Query  1       GCTGTTGAGATGGAGTCAAATTTGAAACTTTCCATTTTAAAAGGTTCAGTGATAAGAACT  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  236271  GCTGTTGAGATGGAGTCAAATTTGAAACTTTCCATTTTAAAAGGTTCAGTGATAAGAACT  236212
+
+Query  61      CTTCTATACTCCAACCAGAGGTGAAGATTCATCTTACTGGTCTTCGAAATGACTATT  117
+               |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  236211  CTTCTATACTCCAACCAGAGGTGAAGATTCATCTTACTGGTCTTCGAAATGACTATT  236155
+
+
+NW_006408809.1	GCTGTTGAGATGGAGTCAAATTTGAAACTTTCCATTTTAAAAGGTTCAGTGATAAGAACTCTTCTATACTCCAACCAGAGGTGAAGATTCATCTTACTGGTCTTCGAAATGACTATT
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	chrAsi1	frameshift	1	132	134	GTATTCGATACAGTTAATACTACATATTCGAACTTTAAGAGCAACTTTGTGAAGAGGCTATCTGTGGAGTCTCCCGCTGCCAGTAGCCCCCTTGTCACAAGATGGCAGCAAAGCCAAAGCAGGGATCAAGCAA-GGAGACCCTTCAGCCAGAGCATCCATTCCCTGGCCTCCCAGGTTCTCCTGAGTCAGTGCTGCAGATGACTCTGGAAACAGAGACCTTAATTCCAG
+
+Query= uc003jpo.2_chrAsi1_132
+
+Length=228
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_006408809.1 Chrysochloris asiatica unplaced genomic scaffold...  416     3e-114
+
+
+> NW_006408809.1 Chrysochloris asiatica unplaced genomic scaffold, 
+ChrAsi1.0 scaffold00291, whole genome shotgun sequence
+Length=3569325
+
+ Score = 416 bits (225),  Expect = 3e-114
+ Identities = 228/229 (99%), Gaps = 1/229 (0%)
+ Strand=Plus/Minus
+
+Query  1       GTATTCGATACAGTTAATACTACATATTCGAACTTTAAGAGCAACTTTGTGAAGAGGCTA  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  266861  GTATTCGATACAGTTAATACTACATATTCGAACTTTAAGAGCAACTTTGTGAAGAGGCTA  266802
+
+Query  61      TCTGTGGAGTCTCCCGCTGCCAGTAGCCCCCTTGTCACAAGATGGCAGCAAAGCCAAAGC  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  266801  TCTGTGGAGTCTCCCGCTGCCAGTAGCCCCCTTGTCACAAGATGGCAGCAAAGCCAAAGC  266742
+
+Query  121     AGGGATCAA-GCAAGGAGACCCTTCAGCCAGAGCATCCATTCCCTGGCCTCCCAGGTTCT  179
+               ||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  266741  AGGGATCAAAGCAAGGAGACCCTTCAGCCAGAGCATCCATTCCCTGGCCTCCCAGGTTCT  266682
+
+Query  180     CCTGAGTCAGTGCTGCAGATGACTCTGGAAACAGAGACCTTAATTCCAG  228
+               |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  266681  CCTGAGTCAGTGCTGCAGATGACTCTGGAAACAGAGACCTTAATTCCAG  266633
+
+
+NW_006408809.1	GTATTCGATACAGTTAATACTACATATTCGAACTTTAAGAGCAACTTTGTGAAGAGGCTATCTGTGGAGTCTCCCGCTGCCAGTAGCCCCCTTGTCACAAGATGGCAGCAAAGCCAAAGCAGGGATCAAAGCAAGGAGACCCTTCAGCCAGAGCATCCATTCCCTGGCCTCCCAGGTTCTCCTGAGTCAGTGCTGCAGATGACTCTGGAAACAGAGACCTTAATTCCAG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	chrAsi1	frameshift	5	41	47	GAGAGTGTCATGGGGGTGCTCGCCCAAGACCTGAAGCAGAAG-----TCAAAGTTCCTCAAAG
+
+Query= uc003jpo.2_chrAsi1_41
+
+Length=58
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_006408809.1 Chrysochloris asiatica unplaced genomic scaffold...  108     3e-22
+
+
+> NW_006408809.1 Chrysochloris asiatica unplaced genomic scaffold, 
+ChrAsi1.0 scaffold00291, whole genome shotgun sequence
+Length=3569325
+
+ Score = 108 bits (58),  Expect = 3e-22
+ Identities = 58/58 (100%), Gaps = 0/58 (0%)
+ Strand=Plus/Minus
+
+Query  1       GAGAGTGTCATGGGGGTGCTCGCCCAAGACCTGAAGCAGAAGTCAAAGTTCCTCAAAG  58
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  317830  GAGAGTGTCATGGGGGTGCTCGCCCAAGACCTGAAGCAGAAGTCAAAGTTCCTCAAAG  317773
+
+
+NW_006408809.1	GAGAGTGTCATGGGGGTGCTCGCCCAAGACCTGAAGCAGAAGTCAAAGTTCCTCAAAG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	conCri1	frameshift	1	54	56	AATCCTACAAAGAACCACCAAAGACCCCCATCAAAGGAAGTTTTGATATGGATAA-TTCTGCCCTCGCTTTTGCAAAGGACCTCACATTCAAGAAGGAGGTTGGAAGGGAATCATTGCCTCAAAAAGTCAG
+
+Query= uc003jpo.2_conCri1_54
+
+Length=130
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH655884                                                            235     2e-60
+
+
+> JH655884
+Length=65339388
+
+ Score = 235 bits (127),  Expect = 2e-60
+ Identities = 130/131 (99%), Gaps = 1/131 (1%)
+ Strand=Plus/Plus
+
+Query  1         AATCCTACAAAGAACCACCAAAGACCCCCATCAAAGGAAGTTTTGATATGGATAATTCTG  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  49224871  AATCCTACAAAGAACCACCAAAGACCCCCATCAAAGGAAGTTTTGATATGGATAATTCTG  49224930
+
+Query  61        CCCTCGC-TTTTGCAAAGGACCTCACATTCAAGAAGGAGGTTGGAAGGGAATCATTGCCT  119
+                 ||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  49224931  CCCTCGCATTTTGCAAAGGACCTCACATTCAAGAAGGAGGTTGGAAGGGAATCATTGCCT  49224990
+
+Query  120       CAAAAAGTCAG  130
+                 |||||||||||
+Sbjct  49224991  CAAAAAGTCAG  49225001
+
+
+JH655884	AATCCTACAAAGAACCACCAAAGACCCCCATCAAAGGAAGTTTTGATATGGATAATTCTGCCCTCGCATTTTGCAAAGGACCTCACATTCAAGAAGGAGGTTGGAAGGGAATCATTGCCTCAAAAAGTCAG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	criGri1	Stops1	Exon10	PositionsAA[30]	PositionsNT[90]	AMEWCPCQSEVLALGRGMKDGRLCVSITHSZASFQPPCAHT-	GCCATGGAGTGGTGTCCCTGTCAATCTGAGGTCCTTGCCCTTGGAAGAGGAATGAAGGATGGACGTTTATGTGTTTCGATCACACACTCATAGGCAAGCTTCCAGCCTCCGTGTGCACACACACA-
+
+Query= uc003jpo.2_criGri1_PositionsAA[30]
+
+Length=125
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  KE378128                                                            198     4e-49
+
+
+> KE378128
+Length=2997950
+
+ Score = 198 bits (107),  Expect = 4e-49
+ Identities = 110/111 (99%), Gaps = 1/111 (1%)
+ Strand=Plus/Plus
+
+Query  1       GCCATGGAGTGGTGTCCCTGTCAATCTGAGGTCCTTGCCCTTGGAAGAGGAATGAAGGAT  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  424719  GCCATGGAGTGGTGTCCCTGTCAATCTGAGGTCCTTGCCCTTGGAAGAGGAATGAAGGAT  424778
+
+Query  61      GGACGTTTATGTGTTT-CGATCACACACTCATAGGCAAGCTTCCAGCCTCC  110
+               |||||||||||||||| ||||||||||||||||||||||||||||||||||
+Sbjct  424779  GGACGTTTATGTGTTTGCGATCACACACTCATAGGCAAGCTTCCAGCCTCC  424829
+
+
+KE378128	GCCATGGAGTGGTGTCCCTGTCAATCTGAGGTCCTTGCCCTTGGAAGAGGAATGAAGGATGGACGTTTATGTGTTTGCGATCACACACTCATAGGCAAGCTTCCAGCCTCC
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	criGri1	Stops1	Exon2	PositionsAA[12]	PositionsNT[36]	ENVMQVFANDVKZQRGQSSPK	GAGAATGTCATGCAGGTGTTCGCCAATGACGTGAAATAGCAGCGAGGTCAAAGTTCCCCTAAG
+
+Query= uc003jpo.2_criGri1_PositionsAA[12]
+
+Length=63
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  KE378128                                                            117     4e-25
+
+
+> KE378128
+Length=2997950
+
+ Score = 117 bits (63),  Expect = 4e-25
+ Identities = 63/63 (100%), Gaps = 0/63 (0%)
+ Strand=Plus/Plus
+
+Query  1       GAGAATGTCATGCAGGTGTTCGCCAATGACGTGAAATAGCAGCGAGGTCAAAGTTCCCCT  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  381576  GAGAATGTCATGCAGGTGTTCGCCAATGACGTGAAATAGCAGCGAGGTCAAAGTTCCCCT  381635
+
+Query  61      AAG  63
+               |||
+Sbjct  381636  AAG  381638
+
+
+KE378128	GAGAATGTCATGCAGGTGTTCGCCAATGACGTGAAATAGCAGCGAGGTCAAAGTTCCCCTAAG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	criGri1	frameshift	1	119	121	CGGGTCCAGATTGGGCCGTGTCCACCATCATGATGTTCAGGTGGCCCAGCATTATGTTGGAACACTTGACCAAAAGGAGATTGTGTGTGCTCTGAAATGGTCACCCGATGGCAGGCTGCT-CCCAGAGGGTGTAACGATGGACTACTGACAATCTGGCTCCACGATC-AGGTGCCAGTGTGCAGGGCCCACCCCTGAAAGTCATACCTCAAGT--CAGCAGTTAAG
+
+Query= uc003jpo.2_criGri1_119
+
+Length=222
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  KE378128                                                            411     8e-113
+
+
+> KE378128
+Length=2997950
+
+ Score = 411 bits (222),  Expect = 8e-113
+ Identities = 222/222 (100%), Gaps = 0/222 (0%)
+ Strand=Plus/Plus
+
+Query  1       CGGGTCCAGATTGGGCCGTGTCCACCATCATGATGTTCAGGTGGCCCAGCATTATGTTGG  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  421873  CGGGTCCAGATTGGGCCGTGTCCACCATCATGATGTTCAGGTGGCCCAGCATTATGTTGG  421932
+
+Query  61      AACACTTGACCAAAAGGAGATTGTGTGTGCTCTGAAATGGTCACCCGATGGCAGGCTGCT  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  421933  AACACTTGACCAAAAGGAGATTGTGTGTGCTCTGAAATGGTCACCCGATGGCAGGCTGCT  421992
+
+Query  121     CCCAGAGGGTGTAACGATGGACTACTGACAATCTGGCTCCACGATCAGGTGCCAGTGTGC  180
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  421993  CCCAGAGGGTGTAACGATGGACTACTGACAATCTGGCTCCACGATCAGGTGCCAGTGTGC  422052
+
+Query  181     AGGGCCCACCCCTGAAAGTCATACCTCAAGTCAGCAGTTAAG  222
+               ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  422053  AGGGCCCACCCCTGAAAGTCATACCTCAAGTCAGCAGTTAAG  422094
+
+
+KE378128	CGGGTCCAGATTGGGCCGTGTCCACCATCATGATGTTCAGGTGGCCCAGCATTATGTTGGAACACTTGACCAAAAGGAGATTGTGTGTGCTCTGAAATGGTCACCCGATGGCAGGCTGCTCCCAGAGGGTGTAACGATGGACTACTGACAATCTGGCTCCACGATCAGGTGCCAGTGTGCAGGGCCCACCCCTGAAAGTCATACCTCAAGTCAGCAGTTAAG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	criGri1	frameshift	1	166	168	CGGGTCCAGATTGGGCCGTGTCCACCATCATGATGTTCAGGTGGCCCAGCATTATGTTGGAACACTTGACCAAAAGGAGATTGTGTGTGCTCTGAAATGGTCACCCGATGGCAGGCTGCT-CCCAGAGGGTGTAACGATGGACTACTGACAATCTGGCTCCACGATC-AGGTGCCAGTGTGCAGGGCCCACCCCTGAAAGTCATACCTCAAGT--CAGCAGTTAAG
+
+Query= uc003jpo.2_criGri1_166
+
+Length=222
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  KE378128                                                            411     8e-113
+
+
+> KE378128
+Length=2997950
+
+ Score = 411 bits (222),  Expect = 8e-113
+ Identities = 222/222 (100%), Gaps = 0/222 (0%)
+ Strand=Plus/Plus
+
+Query  1       CGGGTCCAGATTGGGCCGTGTCCACCATCATGATGTTCAGGTGGCCCAGCATTATGTTGG  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  421873  CGGGTCCAGATTGGGCCGTGTCCACCATCATGATGTTCAGGTGGCCCAGCATTATGTTGG  421932
+
+Query  61      AACACTTGACCAAAAGGAGATTGTGTGTGCTCTGAAATGGTCACCCGATGGCAGGCTGCT  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  421933  AACACTTGACCAAAAGGAGATTGTGTGTGCTCTGAAATGGTCACCCGATGGCAGGCTGCT  421992
+
+Query  121     CCCAGAGGGTGTAACGATGGACTACTGACAATCTGGCTCCACGATCAGGTGCCAGTGTGC  180
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  421993  CCCAGAGGGTGTAACGATGGACTACTGACAATCTGGCTCCACGATCAGGTGCCAGTGTGC  422052
+
+Query  181     AGGGCCCACCCCTGAAAGTCATACCTCAAGTCAGCAGTTAAG  222
+               ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  422053  AGGGCCCACCCCTGAAAGTCATACCTCAAGTCAGCAGTTAAG  422094
+
+
+KE378128	CGGGTCCAGATTGGGCCGTGTCCACCATCATGATGTTCAGGTGGCCCAGCATTATGTTGGAACACTTGACCAAAAGGAGATTGTGTGTGCTCTGAAATGGTCACCCGATGGCAGGCTGCTCCCAGAGGGTGTAACGATGGACTACTGACAATCTGGCTCCACGATCAGGTGCCAGTGTGCAGGGCCCACCCCTGAAAGTCATACCTCAAGTCAGCAGTTAAG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	criGri1	frameshift	2	212	215	CGGGTCCAGATTGGGCCGTGTCCACCATCATGATGTTCAGGTGGCCCAGCATTATGTTGGAACACTTGACCAAAAGGAGATTGTGTGTGCTCTGAAATGGTCACCCGATGGCAGGCTGCT-CCCAGAGGGTGTAACGATGGACTACTGACAATCTGGCTCCACGATC-AGGTGCCAGTGTGCAGGGCCCACCCCTGAAAGTCATACCTCAAGT--CAGCAGTTAAG
+
+Query= uc003jpo.2_criGri1_212
+
+Length=222
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  KE378128                                                            411     8e-113
+
+
+> KE378128
+Length=2997950
+
+ Score = 411 bits (222),  Expect = 8e-113
+ Identities = 222/222 (100%), Gaps = 0/222 (0%)
+ Strand=Plus/Plus
+
+Query  1       CGGGTCCAGATTGGGCCGTGTCCACCATCATGATGTTCAGGTGGCCCAGCATTATGTTGG  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  421873  CGGGTCCAGATTGGGCCGTGTCCACCATCATGATGTTCAGGTGGCCCAGCATTATGTTGG  421932
+
+Query  61      AACACTTGACCAAAAGGAGATTGTGTGTGCTCTGAAATGGTCACCCGATGGCAGGCTGCT  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  421933  AACACTTGACCAAAAGGAGATTGTGTGTGCTCTGAAATGGTCACCCGATGGCAGGCTGCT  421992
+
+Query  121     CCCAGAGGGTGTAACGATGGACTACTGACAATCTGGCTCCACGATCAGGTGCCAGTGTGC  180
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  421993  CCCAGAGGGTGTAACGATGGACTACTGACAATCTGGCTCCACGATCAGGTGCCAGTGTGC  422052
+
+Query  181     AGGGCCCACCCCTGAAAGTCATACCTCAAGTCAGCAGTTAAG  222
+               ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  422053  AGGGCCCACCCCTGAAAGTCATACCTCAAGTCAGCAGTTAAG  422094
+
+
+KE378128	CGGGTCCAGATTGGGCCGTGTCCACCATCATGATGTTCAGGTGGCCCAGCATTATGTTGGAACACTTGACCAAAAGGAGATTGTGTGTGCTCTGAAATGGTCACCCGATGGCAGGCTGCTCCCAGAGGGTGTAACGATGGACTACTGACAATCTGGCTCCACGATCAGGTGCCAGTGTGCAGGGCCCACCCCTGAAAGTCATACCTCAAGTCAGCAGTTAAG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	echTel2	Stops1	Exon3	PositionsAA[62]	PositionsNT[186]	AFEAVSSPYSNFQSRFGKWLPTEMSDASIAVATRGQQSQSKDLA--TFPEAHSSADFP-SPEZALQMTDE-ETRIP	GCATTTGAGGCCGTTAGTTCTCCATATTCTAACTTTCAGAGCCGCTTTGGGAAGTGGCTGCCGACCGAGATGTCTGATGCCAGTATCGCAGTTGCCACAAGAGGGCAGCAGAGCCAAAGCAAGGATCTGGCAA---CCACCTTCCCGGAAGCTCACTCAAGCGCGGACTTCCCAG--TCTCCTGAATGAGCGCTGCAGATGACTGATGAAA-AGAGACCCGGATTCCGG
+
+Query= uc003jpo.2_echTel2_PositionsAA[62]
+
+Length=223
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH980308                                                            394     1e-107
+
+
+> JH980308
+Length=57704787
+
+ Score = 394 bits (213),  Expect = 1e-107
+ Identities = 223/227 (98%), Gaps = 4/227 (2%)
+ Strand=Plus/Plus
+
+Query  1         GCATTTG-AGGCCGTTAGTTCTCCATATTCTAACTTTCAGAGCC---GCTTTGGGAAGTG  56
+                 ||||||| ||||||||||||||||||||||||||||||||||||   |||||||||||||
+Sbjct  48369169  GCATTTGAAGGCCGTTAGTTCTCCATATTCTAACTTTCAGAGCCTCTGCTTTGGGAAGTG  48369228
+
+Query  57        GCTGCCGACCGAGATGTCTGATGCCAGTATCGCAGTTGCCACAAGAGGGCAGCAGAGCCA  116
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  48369229  GCTGCCGACCGAGATGTCTGATGCCAGTATCGCAGTTGCCACAAGAGGGCAGCAGAGCCA  48369288
+
+Query  117       AAGCAAGGATCTGGCAACCACCTTCCCGGAAGCTCACTCAAGCGCGGACTTCCCAGTCTC  176
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  48369289  AAGCAAGGATCTGGCAACCACCTTCCCGGAAGCTCACTCAAGCGCGGACTTCCCAGTCTC  48369348
+
+Query  177       CTGAATGAGCGCTGCAGATGACTGATGAAAAGAGACCCGGATTCCGG  223
+                 |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  48369349  CTGAATGAGCGCTGCAGATGACTGATGAAAAGAGACCCGGATTCCGG  48369395
+
+
+JH980308	GCATTTGAAGGCCGTTAGTTCTCCATATTCTAACTTTCAGAGCCTCTGCTTTGGGAAGTGGCTGCCGACCGAGATGTCTGATGCCAGTATCGCAGTTGCCACAAGAGGGCAGCAGAGCCAAAGCAAGGATCTGGCAACCACCTTCCCGGAAGCTCACTCAAGCGCGGACTTCCCAGTCTCCTGAATGAGCGCTGCAGATGACTGATGAAAAGAGACCCGGATTCCGG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	echTel2	Stops1	Exon6	PositionsAA[35]	PositionsNT[105]	-CKDGVRDETFCLKR-SDLSNSILQAEEKSHLNVLZNDC	ACTGTAAGGATGGAGTCAGAGATGAAACCTTTTGTCTTAAAAGGG-CAGTGATCTAAGCAATTCCATACTCCAAGCAGAGGAGAAGAGTCACCTTAATGTTCTTTAAAATGACTGCC
+
+Query= uc003jpo.2_echTel2_PositionsAA[35]
+
+Length=116
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH980308                                                            215     4e-54
+
+
+> JH980308
+Length=57704787
+
+ Score = 215 bits (116),  Expect = 4e-54
+ Identities = 116/116 (100%), Gaps = 0/116 (0%)
+ Strand=Plus/Plus
+
+Query  1         ACTGTAAGGATGGAGTCAGAGATGAAACCTTTTGTCTTAAAAGGGCAGTGATCTAAGCAA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  48379203  ACTGTAAGGATGGAGTCAGAGATGAAACCTTTTGTCTTAAAAGGGCAGTGATCTAAGCAA  48379262
+
+Query  61        TTCCATACTCCAAGCAGAGGAGAAGAGTCACCTTAATGTTCTTTAAAATGACTGCC  116
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  48379263  TTCCATACTCCAAGCAGAGGAGAAGAGTCACCTTAATGTTCTTTAAAATGACTGCC  48379318
+
+
+JH980308	ACTGTAAGGATGGAGTCAGAGATGAAACCTTTTGTCTTAAAAGGGCAGTGATCTAAGCAATTCCATACTCCAAGCAGAGGAGAAGAGTCACCTTAATGTTCTTTAAAATGACTGCC
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	echTel2	frameshift	1	210	212	GCATTTGAGGCCGTTAGTTCTCCATATTCTAACTTTCAGAGCCGCTTTGGGAAGTGGCTGCCGACCGAGATGTCTGATGCCAGTATCGCAGTTGCCACAAGAGGGCAGCAGAGCCAAAGCAAGGATCTGGCAA---CCACCTTCCCGGAAGCTCACTCAAGCGCGGACTTCCCAG--TCTCCTGAATGAGCGCTGCAGATGACTGATGAAA-AGAGACCCGGATTCCGG
+
+Query= uc003jpo.2_echTel2_210
+
+Length=223
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH980308                                                            394     1e-107
+
+
+> JH980308
+Length=57704787
+
+ Score = 394 bits (213),  Expect = 1e-107
+ Identities = 223/227 (98%), Gaps = 4/227 (2%)
+ Strand=Plus/Plus
+
+Query  1         GCATTTG-AGGCCGTTAGTTCTCCATATTCTAACTTTCAGAGCC---GCTTTGGGAAGTG  56
+                 ||||||| ||||||||||||||||||||||||||||||||||||   |||||||||||||
+Sbjct  48369169  GCATTTGAAGGCCGTTAGTTCTCCATATTCTAACTTTCAGAGCCTCTGCTTTGGGAAGTG  48369228
+
+Query  57        GCTGCCGACCGAGATGTCTGATGCCAGTATCGCAGTTGCCACAAGAGGGCAGCAGAGCCA  116
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  48369229  GCTGCCGACCGAGATGTCTGATGCCAGTATCGCAGTTGCCACAAGAGGGCAGCAGAGCCA  48369288
+
+Query  117       AAGCAAGGATCTGGCAACCACCTTCCCGGAAGCTCACTCAAGCGCGGACTTCCCAGTCTC  176
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  48369289  AAGCAAGGATCTGGCAACCACCTTCCCGGAAGCTCACTCAAGCGCGGACTTCCCAGTCTC  48369348
+
+Query  177       CTGAATGAGCGCTGCAGATGACTGATGAAAAGAGACCCGGATTCCGG  223
+                 |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  48369349  CTGAATGAGCGCTGCAGATGACTGATGAAAAGAGACCCGGATTCCGG  48369395
+
+
+JH980308	GCATTTGAAGGCCGTTAGTTCTCCATATTCTAACTTTCAGAGCCTCTGCTTTGGGAAGTGGCTGCCGACCGAGATGTCTGATGCCAGTATCGCAGTTGCCACAAGAGGGCAGCAGAGCCAAAGCAAGGATCTGGCAACCACCTTCCCGGAAGCTCACTCAAGCGCGGACTTCCCAGTCTCCTGAATGAGCGCTGCAGATGACTGATGAAAAGAGACCCGGATTCCGG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	echTel2	frameshift	1	44	46	ACTGTAAGGATGGAGTCAGAGATGAAACCTTTTGTCTTAAAAGGG-CAGTGATCTAAGCAATTCCATACTCCAAGCAGAGGAGAAGAGTCACCTTAATGTTCTTTAAAATGACTGCC
+
+Query= uc003jpo.2_echTel2_44
+
+Length=116
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH980308                                                            215     4e-54
+
+
+> JH980308
+Length=57704787
+
+ Score = 215 bits (116),  Expect = 4e-54
+ Identities = 116/116 (100%), Gaps = 0/116 (0%)
+ Strand=Plus/Plus
+
+Query  1         ACTGTAAGGATGGAGTCAGAGATGAAACCTTTTGTCTTAAAAGGGCAGTGATCTAAGCAA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  48379203  ACTGTAAGGATGGAGTCAGAGATGAAACCTTTTGTCTTAAAAGGGCAGTGATCTAAGCAA  48379262
+
+Query  61        TTCCATACTCCAAGCAGAGGAGAAGAGTCACCTTAATGTTCTTTAAAATGACTGCC  116
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  48379263  TTCCATACTCCAAGCAGAGGAGAAGAGTCACCTTAATGTTCTTTAAAATGACTGCC  48379318
+
+
+JH980308	ACTGTAAGGATGGAGTCAGAGATGAAACCTTTTGTCTTAAAAGGGCAGTGATCTAAGCAATTCCATACTCCAAGCAGAGGAGAAGAGTCACCTTAATGTTCTTTAAAATGACTGCC
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	echTel2	frameshift	2	174	177	GCATTTGAGGCCGTTAGTTCTCCATATTCTAACTTTCAGAGCCGCTTTGGGAAGTGGCTGCCGACCGAGATGTCTGATGCCAGTATCGCAGTTGCCACAAGAGGGCAGCAGAGCCAAAGCAAGGATCTGGCAA---CCACCTTCCCGGAAGCTCACTCAAGCGCGGACTTCCCAG--TCTCCTGAATGAGCGCTGCAGATGACTGATGAAA-AGAGACCCGGATTCCGG
+
+Query= uc003jpo.2_echTel2_174
+
+Length=223
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH980308                                                            394     1e-107
+
+
+> JH980308
+Length=57704787
+
+ Score = 394 bits (213),  Expect = 1e-107
+ Identities = 223/227 (98%), Gaps = 4/227 (2%)
+ Strand=Plus/Plus
+
+Query  1         GCATTTG-AGGCCGTTAGTTCTCCATATTCTAACTTTCAGAGCC---GCTTTGGGAAGTG  56
+                 ||||||| ||||||||||||||||||||||||||||||||||||   |||||||||||||
+Sbjct  48369169  GCATTTGAAGGCCGTTAGTTCTCCATATTCTAACTTTCAGAGCCTCTGCTTTGGGAAGTG  48369228
+
+Query  57        GCTGCCGACCGAGATGTCTGATGCCAGTATCGCAGTTGCCACAAGAGGGCAGCAGAGCCA  116
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  48369229  GCTGCCGACCGAGATGTCTGATGCCAGTATCGCAGTTGCCACAAGAGGGCAGCAGAGCCA  48369288
+
+Query  117       AAGCAAGGATCTGGCAACCACCTTCCCGGAAGCTCACTCAAGCGCGGACTTCCCAGTCTC  176
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  48369289  AAGCAAGGATCTGGCAACCACCTTCCCGGAAGCTCACTCAAGCGCGGACTTCCCAGTCTC  48369348
+
+Query  177       CTGAATGAGCGCTGCAGATGACTGATGAAAAGAGACCCGGATTCCGG  223
+                 |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  48369349  CTGAATGAGCGCTGCAGATGACTGATGAAAAGAGACCCGGATTCCGG  48369395
+
+
+JH980308	GCATTTGAAGGCCGTTAGTTCTCCATATTCTAACTTTCAGAGCCTCTGCTTTGGGAAGTGGCTGCCGACCGAGATGTCTGATGCCAGTATCGCAGTTGCCACAAGAGGGCAGCAGAGCCAAAGCAAGGATCTGGCAACCACCTTCCCGGAAGCTCACTCAAGCGCGGACTTCCCAGTCTCCTGAATGAGCGCTGCAGATGACTGATGAAAAGAGACCCGGATTCCGG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	eleEdw1	Stops3	Exon9	PositionsAA[2,5,25]	PositionsNT[6,15,75]	GSZLGZVYHHGVWAAPGHVGT----ZAVCALKWSSESKQLSCGCSDELLTIPPHDLGAN-QSQPLQVIAQSTAVK	TGGATCGTGACTGGGATGAGTTTATCACCATGGTGTTTGGGCAGCCCCAGGTCACGTTGGAACGT---------GATAAGCTGTGTGCGCTCTGAAATGGTCCTCAGAAAGCAAGCAGCTCTCCTGTGGCTGTAGTGATGAACTCTTGACTATACCGCCTCATGATCTAGGGGCAAAT--ACAGAGTCAACCACTACAAGTTATAGCCCAATCTACTGCAGTCAAG
+
+Query= uc003jpo.2_eleEdw1_PositionsAA[2,5,25]
+
+Length=215
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_006399829.1 Elephantulus edwardii isolate Elephantulus edwar...  398     1e-108
+
+
+> NW_006399829.1 Elephantulus edwardii isolate Elephantulus edwardi_28Jun2011 
+unplaced genomic scaffold, EleEdw1.0 scaffold00079, 
+whole genome shotgun sequence
+Length=15399603
+
+ Score = 398 bits (215),  Expect = 1e-108
+ Identities = 215/215 (100%), Gaps = 0/215 (0%)
+ Strand=Plus/Plus
+
+Query  1         TGGATCGTGACTGGGATGAGTTTATCACCATGGTGTTTGGGCAGCCCCAGGTCACGTTGG  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11146479  TGGATCGTGACTGGGATGAGTTTATCACCATGGTGTTTGGGCAGCCCCAGGTCACGTTGG  11146538
+
+Query  61        AACGTGATAAGCTGTGTGCGCTCTGAAATGGTCCTCAGAAAGCAAGCAGCTCTCCTGTGG  120
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11146539  AACGTGATAAGCTGTGTGCGCTCTGAAATGGTCCTCAGAAAGCAAGCAGCTCTCCTGTGG  11146598
+
+Query  121       CTGTAGTGATGAACTCTTGACTATACCGCCTCATGATCTAGGGGCAAATACAGAGTCAAC  180
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11146599  CTGTAGTGATGAACTCTTGACTATACCGCCTCATGATCTAGGGGCAAATACAGAGTCAAC  11146658
+
+Query  181       CACTACAAGTTATAGCCCAATCTACTGCAGTCAAG  215
+                 |||||||||||||||||||||||||||||||||||
+Sbjct  11146659  CACTACAAGTTATAGCCCAATCTACTGCAGTCAAG  11146693
+
+
+NW_006399829.1	TGGATCGTGACTGGGATGAGTTTATCACCATGGTGTTTGGGCAGCCCCAGGTCACGTTGGAACGTGATAAGCTGTGTGCGCTCTGAAATGGTCCTCAGAAAGCAAGCAGCTCTCCTGTGGCTGTAGTGATGAACTCTTGACTATACCGCCTCATGATCTAGGGGCAAATACAGAGTCAACCACTACAAGTTATAGCCCAATCTACTGCAGTCAAG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	eleEdw1	frameshift	1	17	19	GTTGTAGAGATGGAGCCC-AGATGAAGCCTTCTGTCTTAAAAG-TTCAGTAATAAAAACAACTTTATAAGCCAGTCAGAGCTGAAGATTCACCTTACTGGTCTTCGGAATGACAACT
+
+Query= uc003jpo.2_eleEdw1_17
+
+Length=115
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_006399829.1 Elephantulus edwardii isolate Elephantulus edwar...  213     2e-53
+
+
+> NW_006399829.1 Elephantulus edwardii isolate Elephantulus edwardi_28Jun2011 
+unplaced genomic scaffold, EleEdw1.0 scaffold00079, 
+whole genome shotgun sequence
+Length=15399603
+
+ Score = 213 bits (115),  Expect = 2e-53
+ Identities = 115/115 (100%), Gaps = 0/115 (0%)
+ Strand=Plus/Plus
+
+Query  1         GTTGTAGAGATGGAGCCCAGATGAAGCCTTCTGTCTTAAAAGTTCAGTAATAAAAACAAC  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11139246  GTTGTAGAGATGGAGCCCAGATGAAGCCTTCTGTCTTAAAAGTTCAGTAATAAAAACAAC  11139305
+
+Query  61        TTTATAAGCCAGTCAGAGCTGAAGATTCACCTTACTGGTCTTCGGAATGACAACT  115
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11139306  TTTATAAGCCAGTCAGAGCTGAAGATTCACCTTACTGGTCTTCGGAATGACAACT  11139360
+
+
+NW_006399829.1	GTTGTAGAGATGGAGCCCAGATGAAGCCTTCTGTCTTAAAAGTTCAGTAATAAAAACAACTTTATAAGCCAGTCAGAGCTGAAGATTCACCTTACTGGTCTTCGGAATGACAACT
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	eleEdw1	frameshift	1	22	24	ttacaggatattgtagctaaaag-CAGCTAAGGAACATACTTGGGCATTTATCGGTTGTTGGGGCCTTGGGCTGGAATCACTGTGTTCTCAGCAG
+
+Query= uc003jpo.2_eleEdw1_22
+
+Length=94
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_006399829.1 Elephantulus edwardii isolate Elephantulus edwar...  174     7e-42
+
+
+> NW_006399829.1 Elephantulus edwardii isolate Elephantulus edwardi_28Jun2011 
+unplaced genomic scaffold, EleEdw1.0 scaffold00079, 
+whole genome shotgun sequence
+Length=15399603
+
+ Score = 174 bits (94),  Expect = 7e-42
+ Identities = 94/94 (100%), Gaps = 0/94 (0%)
+ Strand=Plus/Plus
+
+Query  1         TTACAGGATATTGTAGCTAAAAGCAGCTAAGGAACATACTTGGGCATTTATCGGTTGTTG  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11142063  TTACAGGATATTGTAGCTAAAAGCAGCTAAGGAACATACTTGGGCATTTATCGGTTGTTG  11142122
+
+Query  61        GGGCCTTGGGCTGGAATCACTGTGTTCTCAGCAG  94
+                 ||||||||||||||||||||||||||||||||||
+Sbjct  11142123  GGGCCTTGGGCTGGAATCACTGTGTTCTCAGCAG  11142156
+
+
+NW_006399829.1	TTACAGGATATTGTAGCTAAAAGCAGCTAAGGAACATACTTGGGCATTTATCGGTTGTTGGGGCCTTGGGCTGGAATCACTGTGTTCTCAGCAG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	eleEdw1	frameshift	1	42	44	GTTGTAGAGATGGAGCCC-AGATGAAGCCTTCTGTCTTAAAAG-TTCAGTAATAAAAACAACTTTATAAGCCAGTCAGAGCTGAAGATTCACCTTACTGGTCTTCGGAATGACAACT
+
+Query= uc003jpo.2_eleEdw1_42
+
+Length=115
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_006399829.1 Elephantulus edwardii isolate Elephantulus edwar...  213     2e-53
+
+
+> NW_006399829.1 Elephantulus edwardii isolate Elephantulus edwardi_28Jun2011 
+unplaced genomic scaffold, EleEdw1.0 scaffold00079, 
+whole genome shotgun sequence
+Length=15399603
+
+ Score = 213 bits (115),  Expect = 2e-53
+ Identities = 115/115 (100%), Gaps = 0/115 (0%)
+ Strand=Plus/Plus
+
+Query  1         GTTGTAGAGATGGAGCCCAGATGAAGCCTTCTGTCTTAAAAGTTCAGTAATAAAAACAAC  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11139246  GTTGTAGAGATGGAGCCCAGATGAAGCCTTCTGTCTTAAAAGTTCAGTAATAAAAACAAC  11139305
+
+Query  61        TTTATAAGCCAGTCAGAGCTGAAGATTCACCTTACTGGTCTTCGGAATGACAACT  115
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11139306  TTTATAAGCCAGTCAGAGCTGAAGATTCACCTTACTGGTCTTCGGAATGACAACT  11139360
+
+
+NW_006399829.1	GTTGTAGAGATGGAGCCCAGATGAAGCCTTCTGTCTTAAAAGTTCAGTAATAAAAACAACTTTATAAGCCAGTCAGAGCTGAAGATTCACCTTACTGGTCTTCGGAATGACAACT
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	eleEdw1	frameshift	2	177	180	TGGATCGTGACTGGGATGAGTTTATCACCATGGTGTTTGGGCAGCCCCAGGTCACGTTGGAACGT---------GATAAGCTGTGTGCGCTCTGAAATGGTCCTCAGAAAGCAAGCAGCTCTCCTGTGGCTGTAGTGATGAACTCTTGACTATACCGCCTCATGATCTAGGGGCAAAT--ACAGAGTCAACCACTACAAGTTATAGCCCAATCTACTGCAGTCAAG
+
+Query= uc003jpo.2_eleEdw1_177
+
+Length=215
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_006399829.1 Elephantulus edwardii isolate Elephantulus edwar...  398     1e-108
+
+
+> NW_006399829.1 Elephantulus edwardii isolate Elephantulus edwardi_28Jun2011 
+unplaced genomic scaffold, EleEdw1.0 scaffold00079, 
+whole genome shotgun sequence
+Length=15399603
+
+ Score = 398 bits (215),  Expect = 1e-108
+ Identities = 215/215 (100%), Gaps = 0/215 (0%)
+ Strand=Plus/Plus
+
+Query  1         TGGATCGTGACTGGGATGAGTTTATCACCATGGTGTTTGGGCAGCCCCAGGTCACGTTGG  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11146479  TGGATCGTGACTGGGATGAGTTTATCACCATGGTGTTTGGGCAGCCCCAGGTCACGTTGG  11146538
+
+Query  61        AACGTGATAAGCTGTGTGCGCTCTGAAATGGTCCTCAGAAAGCAAGCAGCTCTCCTGTGG  120
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11146539  AACGTGATAAGCTGTGTGCGCTCTGAAATGGTCCTCAGAAAGCAAGCAGCTCTCCTGTGG  11146598
+
+Query  121       CTGTAGTGATGAACTCTTGACTATACCGCCTCATGATCTAGGGGCAAATACAGAGTCAAC  180
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11146599  CTGTAGTGATGAACTCTTGACTATACCGCCTCATGATCTAGGGGCAAATACAGAGTCAAC  11146658
+
+Query  181       CACTACAAGTTATAGCCCAATCTACTGCAGTCAAG  215
+                 |||||||||||||||||||||||||||||||||||
+Sbjct  11146659  CACTACAAGTTATAGCCCAATCTACTGCAGTCAAG  11146693
+
+
+NW_006399829.1	TGGATCGTGACTGGGATGAGTTTATCACCATGGTGTTTGGGCAGCCCCAGGTCACGTTGGAACGTGATAAGCTGTGTGCGCTCTGAAATGGTCCTCAGAAAGCAAGCAGCTCTCCTGTGGCTGTAGTGATGAACTCTTGACTATACCGCCTCATGATCTAGGGGCAAATACAGAGTCAACCACTACAAGTTATAGCCCAATCTACTGCAGTCAAG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	mesAur1	Stops1	Exon3	PositionsAA[35]	PositionsNT[105]	AFGSVT-TYSSFKSNFVKRLSGEIPAASSAIT--WZPNQARDLEACSSAKEGYSSNIPES--SVLKITPAVDTQTL	GCTTTTGGCTCGGTCACC---ACATACTCCAGCTTTAAGAGCAACTTTGTGAAGAGGCTGTCTGGGGAGATTCCTGCGGCCAGCAGTGCCATCACAA---GATGGTAGCCAAACCAAGCCAGGGACCTGGAAGCCTGTTCCTCTGCAAAGGAAGGCTATTCCTCCAACATCCCTGAATCTC---CATCAGTGCTGAAGATAACCCCAGCAGTGGACACCCAAACTCTAC
+
+Query= uc003jpo.2_mesAur1_PositionsAA[35]
+
+Length=220
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_004801607.1 Mesocricetus auratus isolate Golden Hamster fema...  235     6e-60
+
+
+> NW_004801607.1 Mesocricetus auratus isolate Golden Hamster female 
+1 unplaced genomic scaffold, MesAur1.0 scaffold00004, whole 
+genome shotgun sequence
+Length=37932696
+
+ Score = 235 bits (127),  Expect = 6e-60
+ Identities = 141/147 (96%), Gaps = 3/147 (2%)
+ Strand=Plus/Minus
+
+Query  77      CCAGCAGTGCCATCAC-A--AGATGGTAGCCAAACCAAGCCAGGGACCTGGAAGCCTGTT  133
+               |||||||  ||||||| |  |||||| |||||||||||||||||||||||||||||||||
+Sbjct  620308  CCAGCAGCCCCATCACCACTAGATGGCAGCCAAACCAAGCCAGGGACCTGGAAGCCTGTT  620249
+
+Query  134     CCTCTGCAAAGGAAGGCTATTCCTCCAACATCCCTGAATCTCCATCAGTGCTGAAGATAA  193
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  620248  CCTCTGCAAAGGAAGGCTATTCCTCCAACATCCCTGAATCTCCATCAGTGCTGAAGATAA  620189
+
+Query  194     CCCCAGCAGTGGACACCCAAACTCTAC  220
+               |||||||||||||||||||||||||||
+Sbjct  620188  CCCCAGCAGTGGACACCCAAACTCTAC  620162
+
+
+ Score = 189 bits (102),  Expect = 4e-46
+ Identities = 102/102 (100%), Gaps = 0/102 (0%)
+ Strand=Plus/Minus
+
+Query  1       GCTTTTGGCTCGGTCACCACATACTCCAGCTTTAAGAGCAACTTTGTGAAGAGGCTGTCT  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  620573  GCTTTTGGCTCGGTCACCACATACTCCAGCTTTAAGAGCAACTTTGTGAAGAGGCTGTCT  620514
+
+Query  61      GGGGAGATTCCTGCGGCCAGCAGTGCCATCACAAGATGGTAG  102
+               ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  620513  GGGGAGATTCCTGCGGCCAGCAGTGCCATCACAAGATGGTAG  620472
+
+
+NW_004801607.1	CCAGCAGCCCCATCACCACTAGATGGCAGCCAAACCAAGCCAGGGACCTGGAAGCCTGTTCCTCTGCAAAGGAAGGCTATTCCTCCAACATCCCTGAATCTCCATCAGTGCTGAAGATAACCCCAGCAGTGGACACCCAAACTCTAC
+NW_004801607.1	GCTTTTGGCTCGGTCACCACATACTCCAGCTTTAAGAGCAACTTTGTGAAGAGGCTGTCTGGGGAGATTCCTGCGGCCAGCAGTGCCATCACAAGATGGTAG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	mesAur1	Stops1	Exon5	PositionsAA[14]	PositionsNT[42]	KCLNQLFSTQKEVQZGNGRKHLC------RT	AAATGCCTAAACCAGCTGTTTTCAACCCAGAAGGAAGTTCAGTAAGGGAATGGGAGAAAGCATCTTTGTG---------------TCCGGACAG
+
+Query= uc003jpo.2_mesAur1_PositionsAA[14]
+
+Length=79
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_004801607.1 Mesocricetus auratus isolate Golden Hamster fema...  137     4e-31
+
+
+> NW_004801607.1 Mesocricetus auratus isolate Golden Hamster female 
+1 unplaced genomic scaffold, MesAur1.0 scaffold00004, whole 
+genome shotgun sequence
+Length=37932696
+
+ Score = 137 bits (74),  Expect = 4e-31
+ Identities = 79/81 (98%), Gaps = 2/81 (2%)
+ Strand=Plus/Minus
+
+Query  1       AAATGCCTAAACCAGCTG--TTTTCAACCCAGAAGGAAGTTCAGTAAGGGAATGGGAGAA  58
+               ||||||||||||||||||  ||||||||||||||||||||||||||||||||||||||||
+Sbjct  613589  AAATGCCTAAACCAGCTGGGTTTTCAACCCAGAAGGAAGTTCAGTAAGGGAATGGGAGAA  613530
+
+Query  59      AGCATCTTTGTGTCCGGACAG  79
+               |||||||||||||||||||||
+Sbjct  613529  AGCATCTTTGTGTCCGGACAG  613509
+
+
+NW_004801607.1	AAATGCCTAAACCAGCTGGGTTTTCAACCCAGAAGGAAGTTCAGTAAGGGAATGGGAGAAAGCATCTTTGTGTCCGGACAG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	mesAur1	Stops1	Exon9	PositionsAA[60]	PositionsNT[180]	RSRLGVVHHYDVWMAQHYVETLHQKEAVCALKWSRDGRLLPGGCKDGLLAIWLHDPGASVZGPALKVIPQFTAVK	CAGGTCCAGATTGGGTGTTGTTCACCATTATGATGTTTGGATGGCCCAGCATTATGTTGAAACACTTCACCAAAAGGAGGCTGTGTGTGCTCTGAAATGGTCACGCGATGGCAGACTACTTCCCGGTGGGTGTAAGGACGGACTACTGGCAATTTGGCTCCACGATCCAGGGGCCAGTGTGTAGGGCCCAGCACTGAAAGTCATACCTCAGTTTACAGCAGTTAAG
+
+Query= uc003jpo.2_mesAur1_PositionsAA[60]
+
+Length=226
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_004801607.1 Mesocricetus auratus isolate Golden Hamster fema...  412     2e-113
+
+
+> NW_004801607.1 Mesocricetus auratus isolate Golden Hamster female 
+1 unplaced genomic scaffold, MesAur1.0 scaffold00004, whole 
+genome shotgun sequence
+Length=37932696
+
+ Score = 412 bits (223),  Expect = 2e-113
+ Identities = 226/227 (99%), Gaps = 1/227 (0%)
+ Strand=Plus/Minus
+
+Query  1       CAGGTCCAGATTGGGTGTTGTTCACCATTATGATGTTTGGATGGCCCAGCATTATGTTGA  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  604201  CAGGTCCAGATTGGGTGTTGTTCACCATTATGATGTTTGGATGGCCCAGCATTATGTTGA  604142
+
+Query  61      AACACTTCACCAAAAGGAGGCTGTGTGTGCTCTGAAATGGTCACGCGATGGCAGACTACT  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  604141  AACACTTCACCAAAAGGAGGCTGTGTGTGCTCTGAAATGGTCACGCGATGGCAGACTACT  604082
+
+Query  121     TCCCGGTGGGTGTAAGGACGGACTACTGGCAAT-TTGGCTCCACGATCCAGGGGCCAGTG  179
+               ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  604081  TCCCGGTGGGTGTAAGGACGGACTACTGGCAATATTGGCTCCACGATCCAGGGGCCAGTG  604022
+
+Query  180     TGTAGGGCCCAGCACTGAAAGTCATACCTCAGTTTACAGCAGTTAAG  226
+               |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  604021  TGTAGGGCCCAGCACTGAAAGTCATACCTCAGTTTACAGCAGTTAAG  603975
+
+
+NW_004801607.1	CAGGTCCAGATTGGGTGTTGTTCACCATTATGATGTTTGGATGGCCCAGCATTATGTTGAAACACTTCACCAAAAGGAGGCTGTGTGTGCTCTGAAATGGTCACGCGATGGCAGACTACTTCCCGGTGGGTGTAAGGACGGACTACTGGCAATATTGGCTCCACGATCCAGGGGCCAGTGTGTAGGGCCCAGCACTGAAAGTCATACCTCAGTTTACAGCAGTTAAG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	mesAur1	Stops2	Exon11	PositionsAA[5,11]	PositionsNT[15,33]	VCSLIZVPKTKZIATGQGASKNDMALWTC----------	GTTTGTTCTCTCATCTGAGTGCCTAAGACAAAGTAGATTGCAACAGGTCAAGGTGCTTCCAAGAATGATATGGCCTTGTGGACCTGCTC-----------------------------
+
+Query= uc003jpo.2_mesAur1_PositionsAA[5,11]
+
+Length=89
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_004801607.1 Mesocricetus auratus isolate Golden Hamster fema...  165     2e-39
+
+
+> NW_004801607.1 Mesocricetus auratus isolate Golden Hamster female 
+1 unplaced genomic scaffold, MesAur1.0 scaffold00004, whole 
+genome shotgun sequence
+Length=37932696
+
+ Score = 165 bits (89),  Expect = 2e-39
+ Identities = 89/89 (100%), Gaps = 0/89 (0%)
+ Strand=Plus/Minus
+
+Query  1       GTTTGTTCTCTCATCTGAGTGCCTAAGACAAAGTAGATTGCAACAGGTCAAGGTGCTTCC  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  601660  GTTTGTTCTCTCATCTGAGTGCCTAAGACAAAGTAGATTGCAACAGGTCAAGGTGCTTCC  601601
+
+Query  61      AAGAATGATATGGCCTTGTGGACCTGCTC  89
+               |||||||||||||||||||||||||||||
+Sbjct  601600  AAGAATGATATGGCCTTGTGGACCTGCTC  601572
+
+
+NW_004801607.1	GTTTGTTCTCTCATCTGAGTGCCTAAGACAAAGTAGATTGCAACAGGTCAAGGTGCTTCCAAGAATGATATGGCCTTGTGGACCTGCTC
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	micOch1	Stops1	Exon6	PositionsAA[35]	PositionsNT[105]	-CRDGVRDESFHLRRFSSIRHFICHLEVELHLMSLZNDY	GTTGTAGAGATGGAGTCAGAGATGAATCCTTCCACCTTAGGAGGTTCAGCAGCATCCGCCATTTTATATGCCACCTGGAGGTGGAGCTTCATCTCATGAGTCTTTGAAATGACTACT
+
+Query= uc003jpo.2_micOch1_PositionsAA[35]
+
+Length=117
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  chr19                                                               217     9e-55
+
+
+> chr19
+Length=65020687
+
+ Score = 217 bits (117),  Expect = 9e-55
+ Identities = 117/117 (100%), Gaps = 0/117 (0%)
+ Strand=Plus/Plus
+
+Query  1         GTTGTAGAGATGGAGTCAGAGATGAATCCTTCCACCTTAGGAGGTTCAGCAGCATCCGCC  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59195615  GTTGTAGAGATGGAGTCAGAGATGAATCCTTCCACCTTAGGAGGTTCAGCAGCATCCGCC  59195674
+
+Query  61        ATTTTATATGCCACCTGGAGGTGGAGCTTCATCTCATGAGTCTTTGAAATGACTACT  117
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59195675  ATTTTATATGCCACCTGGAGGTGGAGCTTCATCTCATGAGTCTTTGAAATGACTACT  59195731
+
+
+chr19	GTTGTAGAGATGGAGTCAGAGATGAATCCTTCCACCTTAGGAGGTTCAGCAGCATCCGCCATTTTATATGCCACCTGGAGGTGGAGCTTCATCTCATGAGTCTTTGAAATGACTACT
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	micOch1	Stops2	Exon3	PositionsAA[3,49]	PositionsNT[9,147]	AFGZVT---F--------RLSAEIPVASTPITTRGQPSPAGDLEACSSWZVRSSSDIPAS--SVLKMAPGTDT---	GCTTTTGGCTAGGTCACC---------TTCAG---------------------GAGGCTGTCTGCCGAGATTCCTGTGGCCAGCACACCCATCACCACCAGAGGGCAGCCAAGCCCAGCCGGGGACCTGGAAGCCTGTTCCTCTTGGTAGGTTCGCTCTTCTTCAGACATCCCTGCATCTT---CATCAGTGCTGAAGATGGCACCAGGAACAGACACCT---------
+
+Query= uc003jpo.2_micOch1_PositionsAA[3,49]
+
+Length=187
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  chr19                                                               300     1e-79
+
+
+> chr19
+Length=65020687
+
+ Score = 300 bits (162),  Expect = 1e-79
+ Identities = 187/197 (95%), Gaps = 10/197 (5%)
+ Strand=Plus/Plus
+
+Query  1         GCTTTTGGCTAGGTCACCTTCAGGAGGCTGTCTGCCGAGATTCCTGTGGCCAGCACACCC  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59187809  GCTTTTGGCTAGGTCACCTTCAGGAGGCTGTCTGCCGAGATTCCTGTGGCCAGCACACCC  59187868
+
+Query  61        ATCACCACCAGAGGGCAGCCAAGCCCAGCCGGGGACCTGGAAGCCTGTTCCTC-------  113
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||       
+Sbjct  59187869  ATCACCACCAGAGGGCAGCCAAGCCCAGCCGGGGACCTGGAAGCCTGTTCCTCAGCATTG  59187928
+
+Query  114       ---TTGGTAGGTTCGCTCTTCTTCAGACATCCCTGCATCTTCATCAGTGCTGAAGATGGC  170
+                    |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59187929  GCGTTGGTAGGTTCGCTCTTCTTCAGACATCCCTGCATCTTCATCAGTGCTGAAGATGGC  59187988
+
+Query  171       ACCAGGAACAGACACCT  187
+                 |||||||||||||||||
+Sbjct  59187989  ACCAGGAACAGACACCT  59188005
+
+
+chr19	GCTTTTGGCTAGGTCACCTTCAGGAGGCTGTCTGCCGAGATTCCTGTGGCCAGCACACCCATCACCACCAGAGGGCAGCCAAGCCCAGCCGGGGACCTGGAAGCCTGTTCCTCAGCATTGGCGTTGGTAGGTTCGCTCTTCTTCAGACATCCCTGCATCTTCATCAGTGCTGAAGATGGCACCAGGAACAGACACCT
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	ochPri3	Stops2	Exon9	PositionsAA[12,37]	PositionsNT[36,111]	GLRLGQVHHYDVZLAQHCVGM-GHKQAVCTLKWSPGSZLLSCGYSDGLLTVRSHGS-ASAQAQSLTVIPCCTAVK	GGGATTAAGACTGGGCCAGGTTCACCATTACGATGTCTAGCTAGCCCAGCATTGTGTTGGGATGCT-GGCCACAAGCAGGCTGTGTGTACTCTCAAGTGGTCCCCAGGTAGCTGACTGCTCTCCTGTGGCTATAGTGATGGCTTGTTGACAGTGCGGTCCCATGGTTCCG-TGCCAGTGCACAGGCTCAGTCCCTGACAGTCATACCCTGCTGCACAGCTGTCAAA
+
+Query= uc003jpo.2_ochPri3_PositionsAA[12,37]
+
+Length=224
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH802077                                                            414     6e-114
+
+
+> JH802077
+Length=35549867
+
+ Score = 414 bits (224),  Expect = 6e-114
+ Identities = 224/224 (100%), Gaps = 0/224 (0%)
+ Strand=Plus/Minus
+
+Query  1         GGGATTAAGACTGGGCCAGGTTCACCATTACGATGTCTAGCTAGCCCAGCATTGTGTTGG  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  24817636  GGGATTAAGACTGGGCCAGGTTCACCATTACGATGTCTAGCTAGCCCAGCATTGTGTTGG  24817577
+
+Query  61        GATGCTGGCCACAAGCAGGCTGTGTGTACTCTCAAGTGGTCCCCAGGTAGCTGACTGCTC  120
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  24817576  GATGCTGGCCACAAGCAGGCTGTGTGTACTCTCAAGTGGTCCCCAGGTAGCTGACTGCTC  24817517
+
+Query  121       TCCTGTGGCTATAGTGATGGCTTGTTGACAGTGCGGTCCCATGGTTCCGTGCCAGTGCAC  180
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  24817516  TCCTGTGGCTATAGTGATGGCTTGTTGACAGTGCGGTCCCATGGTTCCGTGCCAGTGCAC  24817457
+
+Query  181       AGGCTCAGTCCCTGACAGTCATACCCTGCTGCACAGCTGTCAAA  224
+                 ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  24817456  AGGCTCAGTCCCTGACAGTCATACCCTGCTGCACAGCTGTCAAA  24817413
+
+
+JH802077	GGGATTAAGACTGGGCCAGGTTCACCATTACGATGTCTAGCTAGCCCAGCATTGTGTTGGGATGCTGGCCACAAGCAGGCTGTGTGTACTCTCAAGTGGTCCCCAGGTAGCTGACTGCTCTCCTGTGGCTATAGTGATGGCTTGTTGACAGTGCGGTCCCATGGTTCCGTGCCAGTGCACAGGCTCAGTCCCTGACAGTCATACCCTGCTGCACAGCTGTCAAA
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	ochPri3	frameshift	1	169	171	GGGATTAAGACTGGGCCAGGTTCACCATTACGATGTCTAGCTAGCCCAGCATTGTGTTGGGATGCT-GGCCACAAGCAGGCTGTGTGTACTCTCAAGTGGTCCCCAGGTAGCTGACTGCTCTCCTGTGGCTATAGTGATGGCTTGTTGACAGTGCGGTCCCATGGTTCCG-TGCCAGTGCACAGGCTCAGTCCCTGACAGTCATACCCTGCTGCACAGCTGTCAAA
+
+Query= uc003jpo.2_ochPri3_169
+
+Length=224
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH802077                                                            414     6e-114
+
+
+> JH802077
+Length=35549867
+
+ Score = 414 bits (224),  Expect = 6e-114
+ Identities = 224/224 (100%), Gaps = 0/224 (0%)
+ Strand=Plus/Minus
+
+Query  1         GGGATTAAGACTGGGCCAGGTTCACCATTACGATGTCTAGCTAGCCCAGCATTGTGTTGG  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  24817636  GGGATTAAGACTGGGCCAGGTTCACCATTACGATGTCTAGCTAGCCCAGCATTGTGTTGG  24817577
+
+Query  61        GATGCTGGCCACAAGCAGGCTGTGTGTACTCTCAAGTGGTCCCCAGGTAGCTGACTGCTC  120
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  24817576  GATGCTGGCCACAAGCAGGCTGTGTGTACTCTCAAGTGGTCCCCAGGTAGCTGACTGCTC  24817517
+
+Query  121       TCCTGTGGCTATAGTGATGGCTTGTTGACAGTGCGGTCCCATGGTTCCGTGCCAGTGCAC  180
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  24817516  TCCTGTGGCTATAGTGATGGCTTGTTGACAGTGCGGTCCCATGGTTCCGTGCCAGTGCAC  24817457
+
+Query  181       AGGCTCAGTCCCTGACAGTCATACCCTGCTGCACAGCTGTCAAA  224
+                 ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  24817456  AGGCTCAGTCCCTGACAGTCATACCCTGCTGCACAGCTGTCAAA  24817413
+
+
+JH802077	GGGATTAAGACTGGGCCAGGTTCACCATTACGATGTCTAGCTAGCCCAGCATTGTGTTGGGATGCTGGCCACAAGCAGGCTGTGTGTACTCTCAAGTGGTCCCCAGGTAGCTGACTGCTCTCCTGTGGCTATAGTGATGGCTTGTTGACAGTGCGGTCCCATGGTTCCGTGCCAGTGCACAGGCTCAGTCCCTGACAGTCATACCCTGCTGCACAGCTGTCAAA
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	ochPri3	frameshift	1	65	67	GGGATTAAGACTGGGCCAGGTTCACCATTACGATGTCTAGCTAGCCCAGCATTGTGTTGGGATGCT-GGCCACAAGCAGGCTGTGTGTACTCTCAAGTGGTCCCCAGGTAGCTGACTGCTCTCCTGTGGCTATAGTGATGGCTTGTTGACAGTGCGGTCCCATGGTTCCG-TGCCAGTGCACAGGCTCAGTCCCTGACAGTCATACCCTGCTGCACAGCTGTCAAA
+
+Query= uc003jpo.2_ochPri3_65
+
+Length=224
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH802077                                                            414     6e-114
+
+
+> JH802077
+Length=35549867
+
+ Score = 414 bits (224),  Expect = 6e-114
+ Identities = 224/224 (100%), Gaps = 0/224 (0%)
+ Strand=Plus/Minus
+
+Query  1         GGGATTAAGACTGGGCCAGGTTCACCATTACGATGTCTAGCTAGCCCAGCATTGTGTTGG  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  24817636  GGGATTAAGACTGGGCCAGGTTCACCATTACGATGTCTAGCTAGCCCAGCATTGTGTTGG  24817577
+
+Query  61        GATGCTGGCCACAAGCAGGCTGTGTGTACTCTCAAGTGGTCCCCAGGTAGCTGACTGCTC  120
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  24817576  GATGCTGGCCACAAGCAGGCTGTGTGTACTCTCAAGTGGTCCCCAGGTAGCTGACTGCTC  24817517
+
+Query  121       TCCTGTGGCTATAGTGATGGCTTGTTGACAGTGCGGTCCCATGGTTCCGTGCCAGTGCAC  180
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  24817516  TCCTGTGGCTATAGTGATGGCTTGTTGACAGTGCGGTCCCATGGTTCCGTGCCAGTGCAC  24817457
+
+Query  181       AGGCTCAGTCCCTGACAGTCATACCCTGCTGCACAGCTGTCAAA  224
+                 ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  24817456  AGGCTCAGTCCCTGACAGTCATACCCTGCTGCACAGCTGTCAAA  24817413
+
+
+JH802077	GGGATTAAGACTGGGCCAGGTTCACCATTACGATGTCTAGCTAGCCCAGCATTGTGTTGGGATGCTGGCCACAAGCAGGCTGTGTGTACTCTCAAGTGGTCCCCAGGTAGCTGACTGCTCTCCTGTGGCTATAGTGATGGCTTGTTGACAGTGCGGTCCCATGGTTCCGTGCCAGTGCACAGGCTCAGTCCCTGACAGTCATACCCTGCTGCACAGCTGTCAAA
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	octDeg1	frameshift	1	147	149	TGGCTCGGGACTGGGTCGTGTTTATCACCATGAAGTCCGGGCAGCCCAGCATCGAGT--AAGCCCTTTGCCTCCAGCAGGCCGTGTGTGCTCTGAAGTGGTCTCCAGATGGAAGGCTGCTCTCCAGTGGCTGCAGTGGTGGGCTGCTG-CAGTATGGCCCCAGGATCCGGGCTGCAGTG-----------------------------------------------
+
+Query= uc003jpo.2_octDeg1_147
+
+Length=176
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_004524577.1 Octodon degus isolate 3935 unplaced genomic scaf...  307     1e-81
+
+
+> NW_004524577.1 Octodon degus isolate 3935 unplaced genomic scaffold, 
+OctDeg1.0 scaffold00001, whole genome shotgun sequence
+Length=41204401
+
+ Score = 307 bits (166),  Expect = 1e-81
+ Identities = 176/180 (98%), Gaps = 4/180 (2%)
+ Strand=Plus/Plus
+
+Query  1         TGGCTCGGGACTGGGTCGTGTTTATCACCATGAAGTCCGGGCAGCCCAGCATCGAGTAAG  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  38497964  TGGCTCGGGACTGGGTCGTGTTTATCACCATGAAGTCCGGGCAGCCCAGCATCGAGTAAG  38498023
+
+Query  61        CCCTTTGCCTCCAGCAGGCCGTGTGTGCTCTGAAGTGGTCTCCAGATGGAAGGCTGCTCT  120
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  38498024  CCCTTTGCCTCCAGCAGGCCGTGTGTGCTCTGAAGTGGTCTCCAGATGGAAGGCTGCTCT  38498083
+
+Query  121       CCAGTGGCTGCAGTGGTGGGCTGCTGCAGTA----TGGCCCCAGGATCCGGGCTGCAGTG  176
+                 |||||||||||||||||||||||||||||||    |||||||||||||||||||||||||
+Sbjct  38498084  CCAGTGGCTGCAGTGGTGGGCTGCTGCAGTACGTGTGGCCCCAGGATCCGGGCTGCAGTG  38498143
+
+
+ Score = 71.3 bits (38),  Expect = 2e-10
+ Identities = 50/55 (91%), Gaps = 4/55 (7%)
+ Strand=Plus/Plus
+
+Query  126       GGCTGCAGTGGTGGGCTGCTGCAGTA----TGGCCCCAGGATCCGGGCTGCAGTG  176
+                 ||||||||||||||||||||||||||    ||| |||||||||||||||||||||
+Sbjct  38498134  GGCTGCAGTGGTGGGCTGCTGCAGTATGTGTGGGCCCAGGATCCGGGCTGCAGTG  38498188
+
+
+NW_004524577.1	TGGCTCGGGACTGGGTCGTGTTTATCACCATGAAGTCCGGGCAGCCCAGCATCGAGTAAGCCCTTTGCCTCCAGCAGGCCGTGTGTGCTCTGAAGTGGTCTCCAGATGGAAGGCTGCTCTCCAGTGGCTGCAGTGGTGGGCTGCTGCAGTACGTGTGGCCCCAGGATCCGGGCTGCAGTG
+NW_004524577.1	GGCTGCAGTGGTGGGCTGCTGCAGTATGTGTGGGCCCAGGATCCGGGCTGCAGTG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	octDeg1	frameshift	1	16	18	ATCTGTTCCTTAATCTG-TTACCTAAGACCATGGAGATTGCAACTGGCCAAGGTGCTCCATGGAATGACGTGGCTCTGTGGACCTGCCCCACTCTTTGCAGGTCCAGTGGGTTCCTGA
+
+Query= uc003jpo.2_octDeg1_16
+
+Length=117
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_004524577.1 Octodon degus isolate 3935 unplaced genomic scaf...  217     1e-54
+
+
+> NW_004524577.1 Octodon degus isolate 3935 unplaced genomic scaffold, 
+OctDeg1.0 scaffold00001, whole genome shotgun sequence
+Length=41204401
+
+ Score = 217 bits (117),  Expect = 1e-54
+ Identities = 117/117 (100%), Gaps = 0/117 (0%)
+ Strand=Plus/Plus
+
+Query  1         ATCTGTTCCTTAATCTGTTACCTAAGACCATGGAGATTGCAACTGGCCAAGGTGCTCCAT  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  38519631  ATCTGTTCCTTAATCTGTTACCTAAGACCATGGAGATTGCAACTGGCCAAGGTGCTCCAT  38519690
+
+Query  61        GGAATGACGTGGCTCTGTGGACCTGCCCCACTCTTTGCAGGTCCAGTGGGTTCCTGA  117
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  38519691  GGAATGACGTGGCTCTGTGGACCTGCCCCACTCTTTGCAGGTCCAGTGGGTTCCTGA  38519747
+
+
+NW_004524577.1	ATCTGTTCCTTAATCTGTTACCTAAGACCATGGAGATTGCAACTGGCCAAGGTGCTCCATGGAATGACGTGGCTCTGTGGACCTGCCCCACTCTTTGCAGGTCCAGTGGGTTCCTGA
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	octDeg1	frameshift	1	214	216	GTGCTGGGTTCCGGTACCAGCCCGCGCTCGCTCTTGGAGAGCGCCGCCGCCCGGACGCTGT------------------------GCCCGCTCGCCGCCAGGGGGCAGCAACGTCAAGCCGGGGGCTCGGAAgccgcctccgccgcgggccagcacgccgccgccagccCCTCGGAGCCTGCGGGGACAGCGCTGACGAGGACGCCCGAGACCGC-TCCTCGGCTCCAG
+
+Query= uc003jpo.2_octDeg1_214
+
+Length=204
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_004524577.1 Octodon degus isolate 3935 unplaced genomic scaf...  377     1e-102
+
+
+> NW_004524577.1 Octodon degus isolate 3935 unplaced genomic scaffold, 
+OctDeg1.0 scaffold00001, whole genome shotgun sequence
+Length=41204401
+
+ Score = 377 bits (204),  Expect = 1e-102
+ Identities = 204/204 (100%), Gaps = 0/204 (0%)
+ Strand=Plus/Plus
+
+Query  1         GTGCTGGGTTCCGGTACCAGCCCGCGCTCGCTCTTGGAGAGCGCCGCCGCCCGGACGCTG  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  38469323  GTGCTGGGTTCCGGTACCAGCCCGCGCTCGCTCTTGGAGAGCGCCGCCGCCCGGACGCTG  38469382
+
+Query  61        TGCCCGCTCGCCGCCAGGGGGCAGCAACGTCAAGCCGGGGGCTCGGAAGCCGCCTCCGCC  120
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  38469383  TGCCCGCTCGCCGCCAGGGGGCAGCAACGTCAAGCCGGGGGCTCGGAAGCCGCCTCCGCC  38469442
+
+Query  121       GCGGGCCAGCACGCCGCCGCCAGCCCCTCGGAGCCTGCGGGGACAGCGCTGACGAGGACG  180
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  38469443  GCGGGCCAGCACGCCGCCGCCAGCCCCTCGGAGCCTGCGGGGACAGCGCTGACGAGGACG  38469502
+
+Query  181       CCCGAGACCGCTCCTCGGCTCCAG  204
+                 ||||||||||||||||||||||||
+Sbjct  38469503  CCCGAGACCGCTCCTCGGCTCCAG  38469526
+
+
+NW_004524577.1	GTGCTGGGTTCCGGTACCAGCCCGCGCTCGCTCTTGGAGAGCGCCGCCGCCCGGACGCTGTGCCCGCTCGCCGCCAGGGGGCAGCAACGTCAAGCCGGGGGCTCGGAAGCCGCCTCCGCCGCGGGCCAGCACGCCGCCGCCAGCCCCTCGGAGCCTGCGGGGACAGCGCTGACGAGGACGCCCGAGACCGCTCCTCGGCTCCAG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	octDeg1	frameshift	1	49	51	AAATGCCTAAAGCAGCTCCTTGCAGCCCAGAAGGTGGTCCAGCAACTCAG-GGGAACATGCAGCTTTGTGAGGACTCCCAGTGTGCTTGGGAAG
+
+Query= uc003jpo.2_octDeg1_49
+
+Length=93
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_004524577.1 Octodon degus isolate 3935 unplaced genomic scaf...  172     2e-41
+
+
+> NW_004524577.1 Octodon degus isolate 3935 unplaced genomic scaffold, 
+OctDeg1.0 scaffold00001, whole genome shotgun sequence
+Length=41204401
+
+ Score = 172 bits (93),  Expect = 2e-41
+ Identities = 93/93 (100%), Gaps = 0/93 (0%)
+ Strand=Plus/Plus
+
+Query  1         AAATGCCTAAAGCAGCTCCTTGCAGCCCAGAAGGTGGTCCAGCAACTCAGGGGAACATGC  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  38476233  AAATGCCTAAAGCAGCTCCTTGCAGCCCAGAAGGTGGTCCAGCAACTCAGGGGAACATGC  38476292
+
+Query  61        AGCTTTGTGAGGACTCCCAGTGTGCTTGGGAAG  93
+                 |||||||||||||||||||||||||||||||||
+Sbjct  38476293  AGCTTTGTGAGGACTCCCAGTGTGCTTGGGAAG  38476325
+
+
+NW_004524577.1	AAATGCCTAAAGCAGCTCCTTGCAGCCCAGAAGGTGGTCCAGCAACTCAGGGGAACATGCAGCTTTGTGAGGACTCCCAGTGTGCTTGGGAAG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	octDeg1	frameshift	1	98	100	GCTCTTACACAGAACTACTGAAGACTCCTGTCAAAGGCAGCTCTGAAGCACATCACTCTGGCCTCCATTTTTGTAAGGCATATCGTGCACTGGATAGGG-TGGGAAGGAAAGTATCGCCTTCAAAGGCCAG
+
+Query= uc003jpo.2_octDeg1_98
+
+Length=130
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_004524577.1 Octodon degus isolate 3935 unplaced genomic scaf...  241     8e-62
+
+
+> NW_004524577.1 Octodon degus isolate 3935 unplaced genomic scaffold, 
+OctDeg1.0 scaffold00001, whole genome shotgun sequence
+Length=41204401
+
+ Score = 241 bits (130),  Expect = 8e-62
+ Identities = 130/130 (100%), Gaps = 0/130 (0%)
+ Strand=Plus/Plus
+
+Query  1         GCTCTTACACAGAACTACTGAAGACTCCTGTCAAAGGCAGCTCTGAAGCACATCACTCTG  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  38473533  GCTCTTACACAGAACTACTGAAGACTCCTGTCAAAGGCAGCTCTGAAGCACATCACTCTG  38473592
+
+Query  61        GCCTCCATTTTTGTAAGGCATATCGTGCACTGGATAGGGTGGGAAGGAAAGTATCGCCTT  120
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  38473593  GCCTCCATTTTTGTAAGGCATATCGTGCACTGGATAGGGTGGGAAGGAAAGTATCGCCTT  38473652
+
+Query  121       CAAAGGCCAG  130
+                 ||||||||||
+Sbjct  38473653  CAAAGGCCAG  38473662
+
+
+NW_004524577.1	GCTCTTACACAGAACTACTGAAGACTCCTGTCAAAGGCAGCTCTGAAGCACATCACTCTGGCCTCCATTTTTGTAAGGCATATCGTGCACTGGATAGGGTGGGAAGGAAAGTATCGCCTTCAAAGGCCAG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	octDeg1	frameshift	2	159	162	TTCTGAATATTCTAGATTGGAGTTTTCAAAATCTTGTTGCCATCGCCCTTGGCTCTACTGTATGCATCTGGAATGGAGAAGACCACAGTGGGGTTGAAAACGTAGACTTAAGTCTCACTTGTAGTTATATATCTTCTGTGTCCTGGATCAGACAGGGAAC--GCCTGGCGGTGGGCACCAGCGAGGGAGAAGTGCGG
+
+Query= uc003jpo.2_octDeg1_159
+
+Length=195
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_004524577.1 Octodon degus isolate 3935 unplaced genomic scaf...  361     9e-98
+
+
+> NW_004524577.1 Octodon degus isolate 3935 unplaced genomic scaffold, 
+OctDeg1.0 scaffold00001, whole genome shotgun sequence
+Length=41204401
+
+ Score = 361 bits (195),  Expect = 9e-98
+ Identities = 195/195 (100%), Gaps = 0/195 (0%)
+ Strand=Plus/Plus
+
+Query  1         TTCTGAATATTCTAGATTGGAGTTTTCAAAATCTTGTTGCCATCGCCCTTGGCTCTACTG  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  38487481  TTCTGAATATTCTAGATTGGAGTTTTCAAAATCTTGTTGCCATCGCCCTTGGCTCTACTG  38487540
+
+Query  61        TATGCATCTGGAATGGAGAAGACCACAGTGGGGTTGAAAACGTAGACTTAAGTCTCACTT  120
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  38487541  TATGCATCTGGAATGGAGAAGACCACAGTGGGGTTGAAAACGTAGACTTAAGTCTCACTT  38487600
+
+Query  121       GTAGTTATATATCTTCTGTGTCCTGGATCAGACAGGGAACGCCTGGCGGTGGGCACCAGC  180
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  38487601  GTAGTTATATATCTTCTGTGTCCTGGATCAGACAGGGAACGCCTGGCGGTGGGCACCAGC  38487660
+
+Query  181       GAGGGAGAAGTGCGG  195
+                 |||||||||||||||
+Sbjct  38487661  GAGGGAGAAGTGCGG  38487675
+
+
+NW_004524577.1	TTCTGAATATTCTAGATTGGAGTTTTCAAAATCTTGTTGCCATCGCCCTTGGCTCTACTGTATGCATCTGGAATGGAGAAGACCACAGTGGGGTTGAAAACGTAGACTTAAGTCTCACTTGTAGTTATATATCTTCTGTGTCCTGGATCAGACAGGGAACGCCTGGCGGTGGGCACCAGCGAGGGAGAAGTGCGG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	octDeg1	frameshift	2	56	59	TGGCTCGGGACTGGGTCGTGTTTATCACCATGAAGTCCGGGCAGCCCAGCATCGAGT--AAGCCCTTTGCCTCCAGCAGGCCGTGTGTGCTCTGAAGTGGTCTCCAGATGGAAGGCTGCTCTCCAGTGGCTGCAGTGGTGGGCTGCTG-CAGTATGGCCCCAGGATCCGGGCTGCAGTG-----------------------------------------------
+
+Query= uc003jpo.2_octDeg1_56
+
+Length=176
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_004524577.1 Octodon degus isolate 3935 unplaced genomic scaf...  307     1e-81
+
+
+> NW_004524577.1 Octodon degus isolate 3935 unplaced genomic scaffold, 
+OctDeg1.0 scaffold00001, whole genome shotgun sequence
+Length=41204401
+
+ Score = 307 bits (166),  Expect = 1e-81
+ Identities = 176/180 (98%), Gaps = 4/180 (2%)
+ Strand=Plus/Plus
+
+Query  1         TGGCTCGGGACTGGGTCGTGTTTATCACCATGAAGTCCGGGCAGCCCAGCATCGAGTAAG  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  38497964  TGGCTCGGGACTGGGTCGTGTTTATCACCATGAAGTCCGGGCAGCCCAGCATCGAGTAAG  38498023
+
+Query  61        CCCTTTGCCTCCAGCAGGCCGTGTGTGCTCTGAAGTGGTCTCCAGATGGAAGGCTGCTCT  120
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  38498024  CCCTTTGCCTCCAGCAGGCCGTGTGTGCTCTGAAGTGGTCTCCAGATGGAAGGCTGCTCT  38498083
+
+Query  121       CCAGTGGCTGCAGTGGTGGGCTGCTGCAGTA----TGGCCCCAGGATCCGGGCTGCAGTG  176
+                 |||||||||||||||||||||||||||||||    |||||||||||||||||||||||||
+Sbjct  38498084  CCAGTGGCTGCAGTGGTGGGCTGCTGCAGTACGTGTGGCCCCAGGATCCGGGCTGCAGTG  38498143
+
+
+ Score = 71.3 bits (38),  Expect = 2e-10
+ Identities = 50/55 (91%), Gaps = 4/55 (7%)
+ Strand=Plus/Plus
+
+Query  126       GGCTGCAGTGGTGGGCTGCTGCAGTA----TGGCCCCAGGATCCGGGCTGCAGTG  176
+                 ||||||||||||||||||||||||||    ||| |||||||||||||||||||||
+Sbjct  38498134  GGCTGCAGTGGTGGGCTGCTGCAGTATGTGTGGGCCCAGGATCCGGGCTGCAGTG  38498188
+
+
+NW_004524577.1	TGGCTCGGGACTGGGTCGTGTTTATCACCATGAAGTCCGGGCAGCCCAGCATCGAGTAAGCCCTTTGCCTCCAGCAGGCCGTGTGTGCTCTGAAGTGGTCTCCAGATGGAAGGCTGCTCTCCAGTGGCTGCAGTGGTGGGCTGCTGCAGTACGTGTGGCCCCAGGATCCGGGCTGCAGTG
+NW_004524577.1	GGCTGCAGTGGTGGGCTGCTGCAGTATGTGTGGGCCCAGGATCCGGGCTGCAGTG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	oryAfe1	Stops1	Exon2	PositionsAA[16]	PositionsNT[48]	EHVTQMLVKDLEQK--ZGSSK	GAGCATGTCACGCAGATGCTCGTCAAAGACCTGGAGCAGAAAAG---TTAAGGTTCCTCCAAG
+
+Query= uc003jpo.2_oryAfe1_PositionsAA[16]
+
+Length=60
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_006921709.1 Orycteropus afer afer isolate SDZICR_OR568_19922...  111     3e-23
+
+
+> NW_006921709.1 Orycteropus afer afer isolate SDZICR_OR568_19922 
+unplaced genomic scaffold, OryAfe1.0 scaffold00122, whole 
+genome shotgun sequence
+Length=9231259
+
+ Score = 111 bits (60),  Expect = 3e-23
+ Identities = 60/60 (100%), Gaps = 0/60 (0%)
+ Strand=Plus/Plus
+
+Query  1        GAGCATGTCACGCAGATGCTCGTCAAAGACCTGGAGCAGAAAAGTTAAGGTTCCTCCAAG  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8449100  GAGCATGTCACGCAGATGCTCGTCAAAGACCTGGAGCAGAAAAGTTAAGGTTCCTCCAAG  8449159
+
+
+NW_006921709.1	GAGCATGTCACGCAGATGCTCGTCAAAGACCTGGAGCAGAAAAGTTAAGGTTCCTCCAAG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	oryAfe1	Stops1	Exon9	PositionsAA[15]	PositionsNT[45]	GLRLRLVYHHNVWVAZHHVGTLHHKQAVCALKWSPNGKVLSSGCSDGLLTIWPYDRGVNAQ--PLKVIPQSTAVK	TGGCTTGAGATTGAGACTTGTTTATCACCACAATGTTTGGGTAGCCTAGCATCATGTTGGAACACTTCACCACAAGCAAGCTGTGTGTGCTCTGAAGTGGTCACCTAATGGCAAAGTGCTTTCCAGTGGCTGTAGTGATGGACTGTTGACTATATGGCCCTATGATCGAGGTGTGAATGCACAGG---AACCACTAAAAGTCATACCCCAGTCTACAGCAGTCAAG
+
+Query= uc003jpo.2_oryAfe1_PositionsAA[15]
+
+Length=223
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_006921709.1 Orycteropus afer afer isolate SDZICR_OR568_19922...  412     4e-113
+
+
+> NW_006921709.1 Orycteropus afer afer isolate SDZICR_OR568_19922 
+unplaced genomic scaffold, OryAfe1.0 scaffold00122, whole 
+genome shotgun sequence
+Length=9231259
+
+ Score = 412 bits (223),  Expect = 4e-113
+ Identities = 223/223 (100%), Gaps = 0/223 (0%)
+ Strand=Plus/Plus
+
+Query  1        TGGCTTGAGATTGAGACTTGTTTATCACCACAATGTTTGGGTAGCCTAGCATCATGTTGG  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8528418  TGGCTTGAGATTGAGACTTGTTTATCACCACAATGTTTGGGTAGCCTAGCATCATGTTGG  8528477
+
+Query  61       AACACTTCACCACAAGCAAGCTGTGTGTGCTCTGAAGTGGTCACCTAATGGCAAAGTGCT  120
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8528478  AACACTTCACCACAAGCAAGCTGTGTGTGCTCTGAAGTGGTCACCTAATGGCAAAGTGCT  8528537
+
+Query  121      TTCCAGTGGCTGTAGTGATGGACTGTTGACTATATGGCCCTATGATCGAGGTGTGAATGC  180
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8528538  TTCCAGTGGCTGTAGTGATGGACTGTTGACTATATGGCCCTATGATCGAGGTGTGAATGC  8528597
+
+Query  181      ACAGGAACCACTAAAAGTCATACCCCAGTCTACAGCAGTCAAG  223
+                |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8528598  ACAGGAACCACTAAAAGTCATACCCCAGTCTACAGCAGTCAAG  8528640
+
+
+NW_006921709.1	TGGCTTGAGATTGAGACTTGTTTATCACCACAATGTTTGGGTAGCCTAGCATCATGTTGGAACACTTCACCACAAGCAAGCTGTGTGTGCTCTGAAGTGGTCACCTAATGGCAAAGTGCTTTCCAGTGGCTGTAGTGATGGACTGTTGACTATATGGCCCTATGATCGAGGTGTGAATGCACAGGAACCACTAAAAGTCATACCCCAGTCTACAGCAGTCAAG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	oryAfe1	frameshift	1	32	34	GATCCTACAAAGAGCCACTGAAGACTTCCATCA-AGGAAGTTTTGAAACAAATAACTCATTTCTCCATTTTGGCAAGACACTTCATTCACTGGACAGAAGCTGGAAGAAAAACATTACCTCCAAAGGCCAG
+
+Query= uc003jpo.2_oryAfe1_32
+
+Length=130
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_006921709.1 Orycteropus afer afer isolate SDZICR_OR568_19922...  241     1e-61
+
+
+> NW_006921709.1 Orycteropus afer afer isolate SDZICR_OR568_19922 
+unplaced genomic scaffold, OryAfe1.0 scaffold00122, whole 
+genome shotgun sequence
+Length=9231259
+
+ Score = 241 bits (130),  Expect = 1e-61
+ Identities = 130/130 (100%), Gaps = 0/130 (0%)
+ Strand=Plus/Plus
+
+Query  1        GATCCTACAAAGAGCCACTGAAGACTTCCATCAAGGAAGTTTTGAAACAAATAACTCATT  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8489963  GATCCTACAAAGAGCCACTGAAGACTTCCATCAAGGAAGTTTTGAAACAAATAACTCATT  8490022
+
+Query  61       TCTCCATTTTGGCAAGACACTTCATTCACTGGACAGAAGCTGGAAGAAAAACATTACCTC  120
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8490023  TCTCCATTTTGGCAAGACACTTCATTCACTGGACAGAAGCTGGAAGAAAAACATTACCTC  8490082
+
+Query  121      CAAAGGCCAG  130
+                ||||||||||
+Sbjct  8490083  CAAAGGCCAG  8490092
+
+
+NW_006921709.1	GATCCTACAAAGAGCCACTGAAGACTTCCATCAAGGAAGTTTTGAAACAAATAACTCATTTCTCCATTTTGGCAAGACACTTCATTCACTGGACAGAAGCTGGAAGAAAAACATTACCTCCAAAGGCCAG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	ponAbe2	frameshift	1	35	37	AAATGCCTAAAACAACTCTTTGTAACCCAGAAAGTG-TTCAGCAGGCTAATGGAAAAATGCAGCTCTGTGAGCAATCCCAATGTGTTTGGAAAG
+
+Query= uc003jpo.2_ponAbe2_35
+
+Length=93
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  chr5                                                                172     2e-41
+
+
+> chr5
+Length=183952662
+
+ Score = 172 bits (93),  Expect = 2e-41
+ Identities = 93/93 (100%), Gaps = 0/93 (0%)
+ Strand=Plus/Minus
+
+Query  1         AAATGCCTAAAACAACTCTTTGTAACCCAGAAAGTGTTCAGCAGGCTAATGGAAAAATGC  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  56401573  AAATGCCTAAAACAACTCTTTGTAACCCAGAAAGTGTTCAGCAGGCTAATGGAAAAATGC  56401514
+
+Query  61        AGCTCTGTGAGCAATCCCAATGTGTTTGGAAAG  93
+                 |||||||||||||||||||||||||||||||||
+Sbjct  56401513  AGCTCTGTGAGCAATCCCAATGTGTTTGGAAAG  56401481
+
+
+chr5	AAATGCCTAAAACAACTCTTTGTAACCCAGAAAGTGTTCAGCAGGCTAATGGAAAAATGCAGCTCTGTGAGCAATCCCAATGTGTTTGGAAAG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	rn5	Stops1	Exon5	PositionsAA[29]	PositionsNT[87]	KCLNQLFATQKGVQQTDGKMCLCEESRCVZT	AAATGCCTAAATCAGCTATTTGCAACCCAGAAGGGAGTTCAGCAAACTGATGGGAAAATGTGTCTCTGTGAGGAGTCCCGGTGTGTCTAGACAG
+
+Query= uc003jpo.2_rn5_PositionsAA[29]
+
+Length=94
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  chr2                                                                174     5e-42
+
+
+> chr2
+Length=285068071
+
+ Score = 174 bits (94),  Expect = 5e-42
+ Identities = 94/94 (100%), Gaps = 0/94 (0%)
+ Strand=Plus/Plus
+
+Query  1         AAATGCCTAAATCAGCTATTTGCAACCCAGAAGGGAGTTCAGCAAACTGATGGGAAAATG  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  63967861  AAATGCCTAAATCAGCTATTTGCAACCCAGAAGGGAGTTCAGCAAACTGATGGGAAAATG  63967920
+
+Query  61        TGTCTCTGTGAGGAGTCCCGGTGTGTCTAGACAG  94
+                 ||||||||||||||||||||||||||||||||||
+Sbjct  63967921  TGTCTCTGTGAGGAGTCCCGGTGTGTCTAGACAG  63967954
+
+
+chr2	AAATGCCTAAATCAGCTATTTGCAACCCAGAAGGGAGTTCAGCAAACTGATGGGAAAATGTGTCTCTGTGAGGAGTCCCGGTGTGTCTAGACAG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	rn5	frameshift	1	107	109	TGGGTCCAGATTGGGGCGTGTCCATCACTATGATGTTCAGGTGGCCCAGCATCATGTAGGAACCTTTCACCATAAGGAGGCTGAGTGTGCTCTGAAATGGTCACCCAA-GTCAGGCTGCTCTCCAGTGGGTGTAATGATGGATTATTGACAATATGGCCCCATAGTCT--------------AGGGCCTGCCACTGAAAGTCATACCTCAGTCCACGGCAGTTAAG
+
+Query= uc003jpo.2_rn5_107
+
+Length=211
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  chr2                                                                390     1e-106
+
+
+> chr2
+Length=285068071
+
+ Score = 390 bits (211),  Expect = 1e-106
+ Identities = 211/211 (100%), Gaps = 0/211 (0%)
+ Strand=Plus/Plus
+
+Query  1         TGGGTCCAGATTGGGGCGTGTCCATCACTATGATGTTCAGGTGGCCCAGCATCATGTAGG  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  63979540  TGGGTCCAGATTGGGGCGTGTCCATCACTATGATGTTCAGGTGGCCCAGCATCATGTAGG  63979599
+
+Query  61        AACCTTTCACCATAAGGAGGCTGAGTGTGCTCTGAAATGGTCACCCAAGTCAGGCTGCTC  120
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  63979600  AACCTTTCACCATAAGGAGGCTGAGTGTGCTCTGAAATGGTCACCCAAGTCAGGCTGCTC  63979659
+
+Query  121       TCCAGTGGGTGTAATGATGGATTATTGACAATATGGCCCCATAGTCTAGGGCCTGCCACT  180
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  63979660  TCCAGTGGGTGTAATGATGGATTATTGACAATATGGCCCCATAGTCTAGGGCCTGCCACT  63979719
+
+Query  181       GAAAGTCATACCTCAGTCCACGGCAGTTAAG  211
+                 |||||||||||||||||||||||||||||||
+Sbjct  63979720  GAAAGTCATACCTCAGTCCACGGCAGTTAAG  63979750
+
+
+chr2	TGGGTCCAGATTGGGGCGTGTCCATCACTATGATGTTCAGGTGGCCCAGCATCATGTAGGAACCTTTCACCATAAGGAGGCTGAGTGTGCTCTGAAATGGTCACCCAAGTCAGGCTGCTCTCCAGTGGGTGTAATGATGGATTATTGACAATATGGCCCCATAGTCTAGGGCCTGCCACTGAAAGTCATACCTCAGTCCACGGCAGTTAAG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	rn5	frameshift	1	139	141	GAGTTTGACTCAGTCGCCCCGACATACTGCAACT-CAAGAGCAACTTGGTGAAGAGGCCGTCTGCAGAGATTGCTGTGGCCAGCAG---------------GTGGCAGCCAAGCCCAGCCAGGGCCCCGCAGAGCTCTTC-TCCATGGAAGAGGGCCCTCCCTCCCGCATCCCTGAATCTCTGGGATCTGGTCTGAAGATAGCACCAGCAGCAGGCACCCTAACTCTAA
+
+Query= uc003jpo.2_rn5_139
+
+Length=212
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  chr2                                                                392     3e-107
+
+
+> chr2
+Length=285068071
+
+ Score = 392 bits (212),  Expect = 3e-107
+ Identities = 212/212 (100%), Gaps = 0/212 (0%)
+ Strand=Plus/Plus
+
+Query  1         GAGTTTGACTCAGTCGCCCCGACATACTGCAACTCAAGAGCAACTTGGTGAAGAGGCCGT  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  63954879  GAGTTTGACTCAGTCGCCCCGACATACTGCAACTCAAGAGCAACTTGGTGAAGAGGCCGT  63954938
+
+Query  61        CTGCAGAGATTGCTGTGGCCAGCAGGTGGCAGCCAAGCCCAGCCAGGGCCCCGCAGAGCT  120
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  63954939  CTGCAGAGATTGCTGTGGCCAGCAGGTGGCAGCCAAGCCCAGCCAGGGCCCCGCAGAGCT  63954998
+
+Query  121       CTTCTCCATGGAAGAGGGCCCTCCCTCCCGCATCCCTGAATCTCTGGGATCTGGTCTGAA  180
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  63954999  CTTCTCCATGGAAGAGGGCCCTCCCTCCCGCATCCCTGAATCTCTGGGATCTGGTCTGAA  63955058
+
+Query  181       GATAGCACCAGCAGCAGGCACCCTAACTCTAA  212
+                 ||||||||||||||||||||||||||||||||
+Sbjct  63955059  GATAGCACCAGCAGCAGGCACCCTAACTCTAA  63955090
+
+
+chr2	GAGTTTGACTCAGTCGCCCCGACATACTGCAACTCAAGAGCAACTTGGTGAAGAGGCCGTCTGCAGAGATTGCTGTGGCCAGCAGGTGGCAGCCAAGCCCAGCCAGGGCCCCGCAGAGCTCTTCTCCATGGAAGAGGGCCCTCCCTCCCGCATCCCTGAATCTCTGGGATCTGGTCTGAAGATAGCACCAGCAGCAGGCACCCTAACTCTAA
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	rn5	frameshift	1	33	35	GAGTTTGACTCAGTCGCCCCGACATACTGCAACT-CAAGAGCAACTTGGTGAAGAGGCCGTCTGCAGAGATTGCTGTGGCCAGCAG---------------GTGGCAGCCAAGCCCAGCCAGGGCCCCGCAGAGCTCTTC-TCCATGGAAGAGGGCCCTCCCTCCCGCATCCCTGAATCTCTGGGATCTGGTCTGAAGATAGCACCAGCAGCAGGCACCCTAACTCTAA
+
+Query= uc003jpo.2_rn5_33
+
+Length=212
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  chr2                                                                392     3e-107
+
+
+> chr2
+Length=285068071
+
+ Score = 392 bits (212),  Expect = 3e-107
+ Identities = 212/212 (100%), Gaps = 0/212 (0%)
+ Strand=Plus/Plus
+
+Query  1         GAGTTTGACTCAGTCGCCCCGACATACTGCAACTCAAGAGCAACTTGGTGAAGAGGCCGT  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  63954879  GAGTTTGACTCAGTCGCCCCGACATACTGCAACTCAAGAGCAACTTGGTGAAGAGGCCGT  63954938
+
+Query  61        CTGCAGAGATTGCTGTGGCCAGCAGGTGGCAGCCAAGCCCAGCCAGGGCCCCGCAGAGCT  120
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  63954939  CTGCAGAGATTGCTGTGGCCAGCAGGTGGCAGCCAAGCCCAGCCAGGGCCCCGCAGAGCT  63954998
+
+Query  121       CTTCTCCATGGAAGAGGGCCCTCCCTCCCGCATCCCTGAATCTCTGGGATCTGGTCTGAA  180
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  63954999  CTTCTCCATGGAAGAGGGCCCTCCCTCCCGCATCCCTGAATCTCTGGGATCTGGTCTGAA  63955058
+
+Query  181       GATAGCACCAGCAGCAGGCACCCTAACTCTAA  212
+                 ||||||||||||||||||||||||||||||||
+Sbjct  63955059  GATAGCACCAGCAGCAGGCACCCTAACTCTAA  63955090
+
+
+chr2	GAGTTTGACTCAGTCGCCCCGACATACTGCAACTCAAGAGCAACTTGGTGAAGAGGCCGTCTGCAGAGATTGCTGTGGCCAGCAGGTGGCAGCCAAGCCCAGCCAGGGCCCCGCAGAGCTCTTCTCCATGGAAGAGGGCCCTCCCTCCCGCATCCCTGAATCTCTGGGATCTGGTCTGAAGATAGCACCAGCAGCAGGCACCCTAACTCTAA
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	sorAra2	Stops1	Exon11	PositionsAA[16]	PositionsNT[48]	ICSLIWLPKTKEIATGZGS--------------------	ATATGTTCCCTAATCTGGCTGCCTAAGACAAAGGAGATTGCAACTGGCTAAGGGTctc------------------------------------------------------------
+
+Query= uc003jpo.2_sorAra2_PositionsAA[16]
+
+Length=58
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH798178                                                            108     2e-22
+
+
+> JH798178
+Length=23615395
+
+ Score = 108 bits (58),  Expect = 2e-22
+ Identities = 58/58 (100%), Gaps = 0/58 (0%)
+ Strand=Plus/Minus
+
+Query  1        ATATGTTCCCTAATCTGGCTGCCTAAGACAAAGGAGATTGCAACTGGCTAAGGGTCTC  58
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7064971  ATATGTTCCCTAATCTGGCTGCCTAAGACAAAGGAGATTGCAACTGGCTAAGGGTCTC  7064914
+
+
+JH798178	ATATGTTCCCTAATCTGGCTGCCTAAGACAAAGGAGATTGCAACTGGCTAAGGGTCTC
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	sorAra2	Stops1	Exon5	PositionsAA[4]	PositionsNT[12]	KCLNZLFWTQKVV-QLTGKMQLCEQAQCTWK	AAATGCCTAAATTAGCTGTTTTGGACCCAGAAAGTGGTTC-CCAGCTTACAGGAAAGATGCAGCTCTGTGAGCAAGCCCAATGTACCTGGAAAG
+
+Query= uc003jpo.2_sorAra2_PositionsAA[4]
+
+Length=93
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH798178                                                            172     1e-41
+
+
+> JH798178
+Length=23615395
+
+ Score = 172 bits (93),  Expect = 1e-41
+ Identities = 93/93 (100%), Gaps = 0/93 (0%)
+ Strand=Plus/Minus
+
+Query  1        AAATGCCTAAATTAGCTGTTTTGGACCCAGAAAGTGGTTCCCAGCTTACAGGAAAGATGC  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7079955  AAATGCCTAAATTAGCTGTTTTGGACCCAGAAAGTGGTTCCCAGCTTACAGGAAAGATGC  7079896
+
+Query  61       AGCTCTGTGAGCAAGCCCAATGTACCTGGAAAG  93
+                |||||||||||||||||||||||||||||||||
+Sbjct  7079895  AGCTCTGTGAGCAAGCCCAATGTACCTGGAAAG  7079863
+
+
+JH798178	AAATGCCTAAATTAGCTGTTTTGGACCCAGAAAGTGGTTCCCAGCTTACAGGAAAGATGCAGCTCTGTGAGCAAGCCCAATGTACCTGGAAAG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	sorAra2	Stops1	Exon6	PositionsAA[35]	PositionsNT[105]	DCKDGASDESFSLKSFTDINYSILQTEAKIH-SGLZNDY	ATTGCAAAGATGGAGCCAGTGATGAGTCCTTCAGTCTTAAAAGTTTCACTGATATAAATTATTCCATACTACAAACAGAGGCAAAGATTCAT-TCAGTGGTCTCTGAAATGACTACT
+
+Query= uc003jpo.2_sorAra2_PositionsAA[35]
+
+Length=116
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH798178                                                            215     3e-54
+
+
+> JH798178
+Length=23615395
+
+ Score = 215 bits (116),  Expect = 3e-54
+ Identities = 116/116 (100%), Gaps = 0/116 (0%)
+ Strand=Plus/Minus
+
+Query  1        ATTGCAAAGATGGAGCCAGTGATGAGTCCTTCAGTCTTAAAAGTTTCACTGATATAAATT  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7073361  ATTGCAAAGATGGAGCCAGTGATGAGTCCTTCAGTCTTAAAAGTTTCACTGATATAAATT  7073302
+
+Query  61       ATTCCATACTACAAACAGAGGCAAAGATTCATTCAGTGGTCTCTGAAATGACTACT  116
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7073301  ATTCCATACTACAAACAGAGGCAAAGATTCATTCAGTGGTCTCTGAAATGACTACT  7073246
+
+
+JH798178	ATTGCAAAGATGGAGCCAGTGATGAGTCCTTCAGTCTTAAAAGTTTCACTGATATAAATTATTCCATACTACAAACAGAGGCAAAGATTCATTCAGTGGTCTCTGAAATGACTACT
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	sorAra2	Stops1	Exon8	PositionsAA[7]	PositionsNT[21]	LWDVVAEZWLKNMQGHLSVVE-LSWDHCIFS-	CTATGGGATGTAGTAGCTGAATGATGGCTGAAAAACATGCAGGGTCATTTGTCAGTAGTCGAG-CTCTGAGCTGGGATCACTGTATCTTCAGCAG
+
+Query= uc003jpo.2_sorAra2_PositionsAA[7]
+
+Length=94
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH798178                                                            174     4e-42
+
+
+> JH798178
+Length=23615395
+
+ Score = 174 bits (94),  Expect = 4e-42
+ Identities = 94/94 (100%), Gaps = 0/94 (0%)
+ Strand=Plus/Minus
+
+Query  1        CTATGGGATGTAGTAGCTGAATGATGGCTGAAAAACATGCAGGGTCATTTGTCAGTAGTC  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7068054  CTATGGGATGTAGTAGCTGAATGATGGCTGAAAAACATGCAGGGTCATTTGTCAGTAGTC  7067995
+
+Query  61       GAGCTCTGAGCTGGGATCACTGTATCTTCAGCAG  94
+                ||||||||||||||||||||||||||||||||||
+Sbjct  7067994  GAGCTCTGAGCTGGGATCACTGTATCTTCAGCAG  7067961
+
+
+JH798178	CTATGGGATGTAGTAGCTGAATGATGGCTGAAAAACATGCAGGGTCATTTGTCAGTAGTCGAGCTCTGAGCTGGGATCACTGTATCTTCAGCAG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	sorAra2	Stops2	Exon3	PositionsAA[49,67]	PositionsNT[147,201]	VSKAVNTTYSKLRSNFLKRLLAEAPVASSLVTTRWRQSPSRDLAAYCFGZVHLDNDLPEASGSLLKIZSEKETVVP	GTTTCGAAGGCTGTTAACACGACGTATTCCAAATTGAGGAGCAACTTTTTGAAGAGGTTGCTCGCGGAGGCTCCCGTTGCCAGCAGCCTAGTCACCACTAGATGGCGGCAGAGCCCAAGCAGGGATTTGGCAGCCTATTGCTTTGGGTAAGTGCATTTGGACAATGACCTTCCAGAAGCTTCTGGATCCTTGCTAAAGATATAGTCTGAGAAAGAGACCGTGGTTCCAG
+
+Query= uc003jpo.2_sorAra2_PositionsAA[49,67]
+
+Length=229
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH798178                                                            414     7e-114
+
+
+> JH798178
+Length=23615395
+
+ Score = 414 bits (224),  Expect = 7e-114
+ Identities = 229/231 (99%), Gaps = 2/231 (1%)
+ Strand=Plus/Minus
+
+Query  1        GTTTCGAAGGCTGTTAACACGACGTATTCCAAATTGAGGAGCAACTTTTTGAAGAGGTTG  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7086191  GTTTCGAAGGCTGTTAACACGACGTATTCCAAATTGAGGAGCAACTTTTTGAAGAGGTTG  7086132
+
+Query  61       CTCGCGGAGGCTCCCGTTGCCAGCAGCCTAGTCACCACTAGATGGCGGCAGAGCCCAAGC  120
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7086131  CTCGCGGAGGCTCCCGTTGCCAGCAGCCTAGTCACCACTAGATGGCGGCAGAGCCCAAGC  7086072
+
+Query  121      AGGGATTTGGCAGCCTATTGCTTTGGGTAAGTGCATTTGGACAATGACCTTCCAGAAGCT  180
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7086071  AGGGATTTGGCAGCCTATTGCTTTGGGTAAGTGCATTTGGACAATGACCTTCCAGAAGCT  7086012
+
+Query  181      TCTGGATCCTTGCTAAAGATA--TAGTCTGAGAAAGAGACCGTGGTTCCAG  229
+                |||||||||||||||||||||  ||||||||||||||||||||||||||||
+Sbjct  7086011  TCTGGATCCTTGCTAAAGATAGATAGTCTGAGAAAGAGACCGTGGTTCCAG  7085961
+
+
+JH798178	GTTTCGAAGGCTGTTAACACGACGTATTCCAAATTGAGGAGCAACTTTTTGAAGAGGTTGCTCGCGGAGGCTCCCGTTGCCAGCAGCCTAGTCACCACTAGATGGCGGCAGAGCCCAAGCAGGGATTTGGCAGCCTATTGCTTTGGGTAAGTGCATTTGGACAATGACCTTCCAGAAGCTTCTGGATCCTTGCTAAAGATAGATAGTCTGAGAAAGAGACCGTGGTTCCAG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	sorAra2	frameshift	1	39	41	AAATGCCTAAATTAGCTGTTTTGGACCCAGAAAGTGGTTC-CCAGCTTACAGGAAAGATGCAGCTCTGTGAGCAAGCCCAATGTACCTGGAAAG
+
+Query= uc003jpo.2_sorAra2_39
+
+Length=93
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH798178                                                            172     1e-41
+
+
+> JH798178
+Length=23615395
+
+ Score = 172 bits (93),  Expect = 1e-41
+ Identities = 93/93 (100%), Gaps = 0/93 (0%)
+ Strand=Plus/Minus
+
+Query  1        AAATGCCTAAATTAGCTGTTTTGGACCCAGAAAGTGGTTCCCAGCTTACAGGAAAGATGC  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7079955  AAATGCCTAAATTAGCTGTTTTGGACCCAGAAAGTGGTTCCCAGCTTACAGGAAAGATGC  7079896
+
+Query  61       AGCTCTGTGAGCAAGCCCAATGTACCTGGAAAG  93
+                |||||||||||||||||||||||||||||||||
+Sbjct  7079895  AGCTCTGTGAGCAAGCCCAATGTACCTGGAAAG  7079863
+
+
+JH798178	AAATGCCTAAATTAGCTGTTTTGGACCCAGAAAGTGGTTCCCAGCTTACAGGAAAGATGCAGCTCTGTGAGCAAGCCCAATGTACCTGGAAAG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	sorAra2	frameshift	1	62	64	CTATGGGATGTAGTAGCTGAATGATGGCTGAAAAACATGCAGGGTCATTTGTCAGTAGTCGAG-CTCTGAGCTGGGATCACTGTATCTTCAGCAG
+
+Query= uc003jpo.2_sorAra2_62
+
+Length=94
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH798178                                                            174     4e-42
+
+
+> JH798178
+Length=23615395
+
+ Score = 174 bits (94),  Expect = 4e-42
+ Identities = 94/94 (100%), Gaps = 0/94 (0%)
+ Strand=Plus/Minus
+
+Query  1        CTATGGGATGTAGTAGCTGAATGATGGCTGAAAAACATGCAGGGTCATTTGTCAGTAGTC  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7068054  CTATGGGATGTAGTAGCTGAATGATGGCTGAAAAACATGCAGGGTCATTTGTCAGTAGTC  7067995
+
+Query  61       GAGCTCTGAGCTGGGATCACTGTATCTTCAGCAG  94
+                ||||||||||||||||||||||||||||||||||
+Sbjct  7067994  GAGCTCTGAGCTGGGATCACTGTATCTTCAGCAG  7067961
+
+
+JH798178	CTATGGGATGTAGTAGCTGAATGATGGCTGAAAAACATGCAGGGTCATTTGTCAGTAGTCGAGCTCTGAGCTGGGATCACTGTATCTTCAGCAG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	sorAra2	frameshift	1	87	89	AATCCTACAAAGAACCACTGGAGATCCCCATCAAAAGAAGTTTTGAAACAAATGACTTTTGTCCCCATTTTTGCAAGGCATCTCATGT-CTGGACAGAGGCTGTAAAGAATATAATGCTTCAAAAGGTCAG
+
+Query= uc003jpo.2_sorAra2_87
+
+Length=130
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH798178                                                            241     6e-62
+
+
+> JH798178
+Length=23615395
+
+ Score = 241 bits (130),  Expect = 6e-62
+ Identities = 130/130 (100%), Gaps = 0/130 (0%)
+ Strand=Plus/Minus
+
+Query  1        AATCCTACAAAGAACCACTGGAGATCCCCATCAAAAGAAGTTTTGAAACAAATGACTTTT  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7081203  AATCCTACAAAGAACCACTGGAGATCCCCATCAAAAGAAGTTTTGAAACAAATGACTTTT  7081144
+
+Query  61       GTCCCCATTTTTGCAAGGCATCTCATGTCTGGACAGAGGCTGTAAAGAATATAATGCTTC  120
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7081143  GTCCCCATTTTTGCAAGGCATCTCATGTCTGGACAGAGGCTGTAAAGAATATAATGCTTC  7081084
+
+Query  121      AAAAGGTCAG  130
+                ||||||||||
+Sbjct  7081083  AAAAGGTCAG  7081074
+
+
+JH798178	AATCCTACAAAGAACCACTGGAGATCCCCATCAAAAGAAGTTTTGAAACAAATGACTTTTGTCCCCATTTTTGCAAGGCATCTCATGTCTGGACAGAGGCTGTAAAGAATATAATGCTTCAAAAGGTCAG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	sorAra2	frameshift	1	91	93	ATTGCAAAGATGGAGCCAGTGATGAGTCCTTCAGTCTTAAAAGTTTCACTGATATAAATTATTCCATACTACAAACAGAGGCAAAGATTCAT-TCAGTGGTCTCTGAAATGACTACT
+
+Query= uc003jpo.2_sorAra2_91
+
+Length=116
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH798178                                                            215     3e-54
+
+
+> JH798178
+Length=23615395
+
+ Score = 215 bits (116),  Expect = 3e-54
+ Identities = 116/116 (100%), Gaps = 0/116 (0%)
+ Strand=Plus/Minus
+
+Query  1        ATTGCAAAGATGGAGCCAGTGATGAGTCCTTCAGTCTTAAAAGTTTCACTGATATAAATT  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7073361  ATTGCAAAGATGGAGCCAGTGATGAGTCCTTCAGTCTTAAAAGTTTCACTGATATAAATT  7073302
+
+Query  61       ATTCCATACTACAAACAGAGGCAAAGATTCATTCAGTGGTCTCTGAAATGACTACT  116
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7073301  ATTCCATACTACAAACAGAGGCAAAGATTCATTCAGTGGTCTCTGAAATGACTACT  7073246
+
+
+JH798178	ATTGCAAAGATGGAGCCAGTGATGAGTCCTTCAGTCTTAAAAGTTTCACTGATATAAATTATTCCATACTACAAACAGAGGCAAAGATTCATTCAGTGGTCTCTGAAATGACTACT
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	triMan1	Stops1	Exon4	PositionsAA[22]	PositionsNT[66]	ESYEEPLKTAFKRSFETNNSVLZFCKTPHSLDRSWKKNVASKGQ	AATCCTACGAAGAGCCACTGAAGACCGCCTTCAAAAGAAGCTTTGAAACAAATAACTCTGTTCTCTGATTTTGCAAGACACCTCATTCACTGGACAGAAGCTGGAAGAAAAACGTTGCCTCCAAAGGCCAG
+
+Query= uc003jpo.2_triMan1_PositionsAA[22]
+
+Length=131
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH594680                                                            243     2e-62
+
+
+> JH594680
+Length=13652503
+
+ Score = 243 bits (131),  Expect = 2e-62
+ Identities = 131/131 (100%), Gaps = 0/131 (0%)
+ Strand=Plus/Minus
+
+Query  1        AATCCTACGAAGAGCCACTGAAGACCGCCTTCAAAAGAAGCTTTGAAACAAATAACTCTG  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7558310  AATCCTACGAAGAGCCACTGAAGACCGCCTTCAAAAGAAGCTTTGAAACAAATAACTCTG  7558251
+
+Query  61       TTCTCTGATTTTGCAAGACACCTCATTCACTGGACAGAAGCTGGAAGAAAAACGTTGCCT  120
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7558250  TTCTCTGATTTTGCAAGACACCTCATTCACTGGACAGAAGCTGGAAGAAAAACGTTGCCT  7558191
+
+Query  121      CCAAAGGCCAG  131
+                |||||||||||
+Sbjct  7558190  CCAAAGGCCAG  7558180
+
+
+JH594680	AATCCTACGAAGAGCCACTGAAGACCGCCTTCAAAAGAAGCTTTGAAACAAATAACTCTGTTCTCTGATTTTGCAAGACACCTCATTCACTGGACAGAAGCTGGAAGAAAAACGTTGCCTCCAAAGGCCAG
+
+____________________________________________________________________________________________________
+uc003jpo.2	CDC20B	turTru2	frameshift	1	87	89	GCTGCAGTGATGGAGTCAGAGATGAATACTTCCACATTCAAAGGTTCAGTGATATAAACTATTCCATACTCCAACCAGAGGTGAAGAT-CATCTTACCGCTCTTCGAAATGACTATT
+
+Query= uc003jpo.2_turTru2_87
+
+Length=116
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JH488304                                                            215     3e-54
+
+
+> JH488304
+Length=51802
+
+ Score = 215 bits (116),  Expect = 3e-54
+ Identities = 116/116 (100%), Gaps = 0/116 (0%)
+ Strand=Plus/Minus
+
+Query  1    GCTGCAGTGATGGAGTCAGAGATGAATACTTCCACATTCAAAGGTTCAGTGATATAAACT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  505  GCTGCAGTGATGGAGTCAGAGATGAATACTTCCACATTCAAAGGTTCAGTGATATAAACT  446
+
+Query  61   ATTCCATACTCCAACCAGAGGTGAAGATCATCTTACCGCTCTTCGAAATGACTATT  116
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  445  ATTCCATACTCCAACCAGAGGTGAAGATCATCTTACCGCTCTTCGAAATGACTATT  390
+
+
+JH488304	GCTGCAGTGATGGAGTCAGAGATGAATACTTCCACATTCAAAGGTTCAGTGATATAAACTATTCCATACTCCAACCAGAGGTGAAGATCATCTTACCGCTCTTCGAAATGACTATT
+

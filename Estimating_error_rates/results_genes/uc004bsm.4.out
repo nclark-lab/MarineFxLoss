@@ -1,0 +1,116 @@
+____________________________________________________________________________________________________
+uc004bsm.4	AK1	calJac3	frameshift	1	78	80	-AGACAGTGCTGGACATGCTCCGGGATGCCATGGTGGCCAAAGTTGACACTTCCAAAGGCTTCCTGATCGACTGCTACC-ACGGGAGGTGCAGCAGGGAGAAGAGTTTGAGCGGCGG
+
+Query= uc004bsm.4_calJac3_78
+
+Length=115
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  chr1                                                                213     1e-53
+
+
+> chr1
+Length=210400635
+
+ Score = 213 bits (115),  Expect = 1e-53
+ Identities = 115/115 (100%), Gaps = 0/115 (0%)
+ Strand=Plus/Minus
+
+Query  1          AGACAGTGCTGGACATGCTCCGGGATGCCATGGTGGCCAAAGTTGACACTTCCAAAGGCT  60
+                  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  171807881  AGACAGTGCTGGACATGCTCCGGGATGCCATGGTGGCCAAAGTTGACACTTCCAAAGGCT  171807822
+
+Query  61         TCCTGATCGACTGCTACCACGGGAGGTGCAGCAGGGAGAAGAGTTTGAGCGGCGG  115
+                  |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  171807821  TCCTGATCGACTGCTACCACGGGAGGTGCAGCAGGGAGAAGAGTTTGAGCGGCGG  171807767
+
+
+chr1	AGACAGTGCTGGACATGCTCCGGGATGCCATGGTGGCCAAAGTTGACACTTCCAAAGGCTTCCTGATCGACTGCTACCACGGGAGGTGCAGCAGGGAGAAGAGTTTGAGCGGCGG
+
+____________________________________________________________________________________________________
+uc004bsm.4	AK1	equCab2	frameshift	1	11	13	GAGACCGTGTTG-ACATGCTCCGAGACGCCATGTGGCCCAAGGTGGATACTTCCAAAGGCTTCCTGATCGATGGCTACCCTCGGGAAGTGAAGCAGGGG-AGGAGTTTGAGCAGAGG
+
+Query= uc004bsm.4_equCab2_11
+
+Length=115
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  chr25                                                               213     1e-53
+
+
+> chr25
+Length=39536964
+
+ Score = 213 bits (115),  Expect = 1e-53
+ Identities = 115/115 (100%), Gaps = 0/115 (0%)
+ Strand=Plus/Minus
+
+Query  1         GAGACCGTGTTGACATGCTCCGAGACGCCATGTGGCCCAAGGTGGATACTTCCAAAGGCT  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31259083  GAGACCGTGTTGACATGCTCCGAGACGCCATGTGGCCCAAGGTGGATACTTCCAAAGGCT  31259024
+
+Query  61        TCCTGATCGATGGCTACCCTCGGGAAGTGAAGCAGGGGAGGAGTTTGAGCAGAGG  115
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31259023  TCCTGATCGATGGCTACCCTCGGGAAGTGAAGCAGGGGAGGAGTTTGAGCAGAGG  31258969
+
+
+chr25	GAGACCGTGTTGACATGCTCCGAGACGCCATGTGGCCCAAGGTGGATACTTCCAAAGGCTTCCTGATCGATGGCTACCCTCGGGAAGTGAAGCAGGGGAGGAGTTTGAGCAGAGG
+
+____________________________________________________________________________________________________
+uc004bsm.4	AK1	equCab2	frameshift	1	98	100	GAGACCGTGTTG-ACATGCTCCGAGACGCCATGTGGCCCAAGGTGGATACTTCCAAAGGCTTCCTGATCGATGGCTACCCTCGGGAAGTGAAGCAGGGG-AGGAGTTTGAGCAGAGG
+
+Query= uc004bsm.4_equCab2_98
+
+Length=115
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  chr25                                                               213     1e-53
+
+
+> chr25
+Length=39536964
+
+ Score = 213 bits (115),  Expect = 1e-53
+ Identities = 115/115 (100%), Gaps = 0/115 (0%)
+ Strand=Plus/Minus
+
+Query  1         GAGACCGTGTTGACATGCTCCGAGACGCCATGTGGCCCAAGGTGGATACTTCCAAAGGCT  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31259083  GAGACCGTGTTGACATGCTCCGAGACGCCATGTGGCCCAAGGTGGATACTTCCAAAGGCT  31259024
+
+Query  61        TCCTGATCGATGGCTACCCTCGGGAAGTGAAGCAGGGGAGGAGTTTGAGCAGAGG  115
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31259023  TCCTGATCGATGGCTACCCTCGGGAAGTGAAGCAGGGGAGGAGTTTGAGCAGAGG  31258969
+
+
+chr25	GAGACCGTGTTGACATGCTCCGAGACGCCATGTGGCCCAAGGTGGATACTTCCAAAGGCTTCCTGATCGATGGCTACCCTCGGGAAGTGAAGCAGGGGAGGAGTTTGAGCAGAGG
+
+____________________________________________________________________________________________________
+uc004bsm.4	AK1	panTro4	frameshift	1	30	32	AGAAGCTGAAGAAAACCAAGATCATCTTTGT-GTGG
+
+Query= uc004bsm.4_panTro4_30
+
+Length=35
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  chr9                                                                65.8    5e-10
+
+
+> chr9
+Length=137840987
+
+ Score = 65.8 bits (35),  Expect = 5e-10
+ Identities = 35/35 (100%), Gaps = 0/35 (0%)
+ Strand=Plus/Minus
+
+Query  1          AGAAGCTGAAGAAAACCAAGATCATCTTTGTGTGG  35
+                  |||||||||||||||||||||||||||||||||||
+Sbjct  127017115  AGAAGCTGAAGAAAACCAAGATCATCTTTGTGTGG  127017081
+
+
+chr9	AGAAGCTGAAGAAAACCAAGATCATCTTTGTGTGG
+
