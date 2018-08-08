@@ -1,10 +1,9 @@
 # MarineFxLoss
 This repo contains scripts associated with a genome-wide screen for convergent loss of gene function in marine mammals.
 
-These scripts and associated data files (downloadable [here](https://pitt.box.com/s/mb9z57sxu3o2cgeru5s7u0bek2nbw1lr)) were used to perform analyses reported in the following manuscript:
+We used these scripts and associated data files (downloadable [here](https://pitt.box.com/s/mb9z57sxu3o2cgeru5s7u0bek2nbw1lr)) to perform analyses reported in the following manuscript:
 ```
-Meyer WK, Jamison J, Richter R, Woods SE, Partha R, Kronk C, Chikina M, Bonde RK, Crocker DE, Gaspard J, Lanyon JM, Marsillach J, Furlong CE, and Clark NL. Ancient convergent losses of Paraoxonase 1 yield potential risks for modern marine mammals. In revision, Science.
-
+Meyer WK, Jamison J, Richter R, Woods SE, Partha R, Kronk C, Chikina M, Bonde RK, Crocker DE, Gaspard J, Lanyon JM, Marsillach J, Furlong CE, and Clark NL. Ancient convergent losses of Paraoxonase 1 yield potential risks for modern marine mammals. Science 361, 591-594 (2018). doi:10.1126/science.aap7714
 ```
 
 ## Contents
@@ -24,7 +23,7 @@ The sub-directories contain scripts for the following sets of analyses:
 
 ## Acknowledgments
 
-* Analysis of association between gene functional loss and terrestrial-marine transition was performed using the BayesTraits software (v3):
+* We analyzed association between gene functional loss and terrestrial-marine transition using the BayesTraits software (v3):
 ```
 M. Pagel, A. Meade, Bayesian Analysis of Correlated Evolution of Discrete Characters by Reversible‐Jump Markov Chain Monte Carlo. Am. Nat. 167, 808–825 (2006).
 
